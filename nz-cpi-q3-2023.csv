@@ -1,0 +1,1768 @@
+,Series_Reference,Period,Data_Value,Status Code,Type,Group,Description
+0,CPIQ.SAP0200,2024.03,23.86,FINAL,Weighted average price,,Beer  bottles (supermarket & liquor store)
+1,CPIQ.SAP0210,2024.03,8.2,FINAL,Weighted average price,,Beer  glass (licensed premises)
+2,CPIQ.SAP0220,2024.03,29.94,FINAL,Weighted average price,,"Wine  cask, white (supermarket & liquor store)"
+3,CPIQ.SAP0230,2024.03,54.5,FINAL,Weighted average price,,Whisky (liquor store)
+4,CPIQ.SAP0240,2024.03,54.27,FINAL,Weighted average price,,Cigarettes (supermarket & convenience store)
+5,CPIQ.SAP0300,2024.03,12.34,FINAL,Weighted average price,,Socks  men's (clothing store & department store)
+6,CPIQ.SAP0320,2024.03,40.78,FINAL,Weighted average price,,"Dry cleaning  men's two-piece, woollen suit"
+7,CPIQ.SAP0400,2024.03,63.45,FINAL,Weighted average price,,Spouting/guttering  plastic
+8,CPIQ.SAP0410,2024.03,614.29,FINAL,Weighted average price,,Concrete blocks  390mm x 190mm x 190mm
+9,CPIQ.SAP0420,2024.03,196.93,FINAL,Weighted average price,,"House paint  acrylic, white"
+10,CPIQ.SAP0500,2024.03,221.48,FINAL,Weighted average price,,"Carpet  wool, heavy duty, cut pile, width 3.66m"
+11,CPIQ.SAP0510,2024.03,1.3,FINAL,Weighted average price,,"Electric light bulb - standard, 100 watt (supermarket)"
+12,CPIQ.SAP0531,2024.03,3.93,FINAL,Weighted average price,,Clothes washing powder  concentrate (supermarket)
+13,CPIQ.SAP0541,2024.03,4.01,FINAL,Weighted average price,,Detergent  dishwashing liquid (supermarket)(3)
+14,CPIQ.SAP0550,2024.03,4.85,FINAL,Weighted average price,,Cling food wrap  refill roll (supermarket)
+15,CPIQ.SAP0600,2024.03,49.04,FINAL,Weighted average price,,"General Practitioner  consultation, adult without"
+16,CPIQ.SAP0610,2024.03,91.48,FINAL,Weighted average price,,Optometrist  examination
+17,CPIQ.SAP0620,2024.03,189.61,FINAL,Weighted average price,,"Dental examination  2 X-rays, scale and polish"
+18,CPIQ.SAP0700,2024.03,187.88,FINAL,Weighted average price,,Car battery  12 volts
+19,CPIQ.SAP0710,2024.03,27.45,FINAL,Weighted average price,,Petrol  91 octane
+20,CPIQ.SAP0720,2024.03,29.37,FINAL,Weighted average price,,Petrol  95/98 octane
+21,CPIQ.SAP0730,2024.03,21.32,FINAL,Weighted average price,,Diesel
+22,CPIQ.SAP0740,2024.03,73.28,FINAL,Weighted average price,,Warrant of fitness  private car
+23,CPIQ.SAP0800,2024.03,2.0,FINAL,Weighted average price,,"Postage  standard, medium-size envelope"
+24,CPIQ.SAP0910,2024.03,4.69,FINAL,Weighted average price,,Pet food  canned (supermarket)
+25,CPIQ.SAP1100,2024.03,87.35,FINAL,Weighted average price,,"Hairdressing  women's shampoo, cut, and blow wave"
+26,CPIQ.SAP1110,2024.03,5.11,FINAL,Weighted average price,,"Bathroom soap  cake, 100g (supermarket)"
+27,CPIQ.SAP1120,2024.03,6.52,FINAL,Weighted average price,,Shampoo (supermarket)
+28,CPIQ.SAP1130,2024.03,3.77,FINAL,Weighted average price,,Tissues  facial (supermarket)
+29,CPIQ.SAP1141,2024.03,7.35,FINAL,Weighted average price,,Toilet paper (supermarket)
+30,CPIQ.SAP1142,2024.03,77.04,FINAL,Weighted average price,,Storage costs (excluding vehicle storage)
+31,CPIQ.SE101,2024.03,1295.0,FINAL,Regional index,Auckland,Food
+32,CPIQ.SE102,2024.03,1364.0,FINAL,Regional index,Auckland,Alcoholic beverages and tobacco
+33,CPIQ.SE103,2024.03,1062.0,FINAL,Regional index,Auckland,Clothing and footwear
+34,CPIQ.SE104,2024.03,1316.0,FINAL,Regional index,Auckland,Housing and household utilities
+35,CPIQ.SE104101,2024.03,1164.0,FINAL,Regional index,Auckland,Actual rentals for housing
+36,CPIQ.SE104201,2024.03,1584.0,FINAL,Regional index,Auckland,Purchase of housing
+37,CPIQ.SE105,2024.03,1134.0,FINAL,Regional index,Auckland,Household contents and services
+38,CPIQ.SE106,2024.03,1142.0,FINAL,Regional index,Auckland,Health
+39,CPIQ.SE107,2024.03,1286.0,FINAL,Regional index,Auckland,Transport
+40,CPIQ.SE107202,2024.03,1533.0,FINAL,Regional index,Auckland,Petrol
+41,CPIQ.SE109,2024.03,1254.0,FINAL,Regional index,Auckland,Recreation and culture
+42,CPIQ.SE111,2024.03,1267.0,FINAL,Regional index,Auckland,Miscellaneous goods and services
+43,CPIQ.SE1A,2024.03,1258.0,FINAL,Regional index,Auckland,All Groups
+44,CPIQ.SE201,2024.03,1273.0,FINAL,Regional index,Wellington,Food
+45,CPIQ.SE202,2024.03,1358.0,FINAL,Regional index,Wellington,Alcoholic beverages and tobacco
+46,CPIQ.SE203,2024.03,1088.0,FINAL,Regional index,Wellington,Clothing and footwear
+47,CPIQ.SE204,2024.03,1333.0,FINAL,Regional index,Wellington,Housing and household utilities
+48,CPIQ.SE204101,2024.03,1316.0,FINAL,Regional index,Wellington,Actual rentals for housing
+49,CPIQ.SE204201,2024.03,1385.0,FINAL,Regional index,Wellington,Purchase of housing
+50,CPIQ.SE205,2024.03,1140.0,FINAL,Regional index,Wellington,Household contents and services
+51,CPIQ.SE206,2024.03,1161.0,FINAL,Regional index,Wellington,Health
+52,CPIQ.SE207,2024.03,1250.0,FINAL,Regional index,Wellington,Transport
+53,CPIQ.SE207202,2024.03,1398.0,FINAL,Regional index,Wellington,Petrol
+54,CPIQ.SE209,2024.03,1190.0,FINAL,Regional index,Wellington,Recreation and culture
+55,CPIQ.SE211,2024.03,1270.0,FINAL,Regional index,Wellington,Miscellaneous goods and services
+56,CPIQ.SE2A,2024.03,1247.0,FINAL,Regional index,Wellington,All Groups
+57,CPIQ.SE301,2024.03,1285.0,FINAL,Regional index,Rest of North Island,Food
+58,CPIQ.SE302,2024.03,1427.0,FINAL,Regional index,Rest of North Island,Alcoholic beverages and tobacco
+59,CPIQ.SE303,2024.03,1086.0,FINAL,Regional index,Rest of North Island,Clothing and footwear
+60,CPIQ.SE304,2024.03,1449.0,FINAL,Regional index,Rest of North Island,Housing and household utilities
+61,CPIQ.SE304101,2024.03,1416.0,FINAL,Regional index,Rest of North Island,Actual rentals for housing
+62,CPIQ.SE304201,2024.03,1686.0,FINAL,Regional index,Rest of North Island,Purchase of housing
+63,CPIQ.SE305,2024.03,1175.0,FINAL,Regional index,Rest of North Island,Household contents and services
+64,CPIQ.SE306,2024.03,1232.0,FINAL,Regional index,Rest of North Island,Health
+65,CPIQ.SE307,2024.03,1289.0,FINAL,Regional index,Rest of North Island,Transport
+66,CPIQ.SE307202,2024.03,1486.0,FINAL,Regional index,Rest of North Island,Petrol
+67,CPIQ.SE309,2024.03,1229.0,FINAL,Regional index,Rest of North Island,Recreation and culture
+68,CPIQ.SE311,2024.03,1265.0,FINAL,Regional index,Rest of North Island,Miscellaneous goods and services
+69,CPIQ.SE3A,2024.03,1295.0,FINAL,Regional index,Rest of North Island,All Groups
+70,CPIQ.SE401,2024.03,1288.0,FINAL,Regional index,North Island,Food
+71,CPIQ.SE402,2024.03,1390.0,FINAL,Regional index,North Island,Alcoholic beverages and tobacco
+72,CPIQ.SE403,2024.03,1076.0,FINAL,Regional index,North Island,Clothing and footwear
+73,CPIQ.SE404,2024.03,1364.0,FINAL,Regional index,North Island,Housing and household utilities
+74,CPIQ.SE404101,2024.03,1257.0,FINAL,Regional index,North Island,Actual rentals for housing
+75,CPIQ.SE404201,2024.03,1594.0,FINAL,Regional index,North Island,Purchase of housing
+76,CPIQ.SE405,2024.03,1151.0,FINAL,Regional index,North Island,Household contents and services
+77,CPIQ.SE406,2024.03,1183.0,FINAL,Regional index,North Island,Health
+78,CPIQ.SE407,2024.03,1283.0,FINAL,Regional index,North Island,Transport
+79,CPIQ.SE407202,2024.03,1496.0,FINAL,Regional index,North Island,Petrol
+80,CPIQ.SE409,2024.03,1234.0,FINAL,Regional index,North Island,Recreation and culture
+81,CPIQ.SE411,2024.03,1267.0,FINAL,Regional index,North Island,Miscellaneous goods and services
+82,CPIQ.SE4A,2024.03,1270.0,FINAL,Regional index,North Island,All Groups
+83,CPIQ.SE501,2024.03,1270.0,FINAL,Regional index,Canterbury,Food
+84,CPIQ.SE502,2024.03,1378.0,FINAL,Regional index,Canterbury,Alcoholic beverages and tobacco
+85,CPIQ.SE503,2024.03,1070.0,FINAL,Regional index,Canterbury,Clothing and footwear
+86,CPIQ.SE504,2024.03,1283.0,FINAL,Regional index,Canterbury,Housing and household utilities
+87,CPIQ.SE504101,2024.03,1225.0,FINAL,Regional index,Canterbury,Actual rentals for housing
+88,CPIQ.SE504201,2024.03,1309.0,FINAL,Regional index,Canterbury,Purchase of housing
+89,CPIQ.SE505,2024.03,1218.0,FINAL,Regional index,Canterbury,Household contents and services
+90,CPIQ.SE506,2024.03,1202.0,FINAL,Regional index,Canterbury,Health
+91,CPIQ.SE507,2024.03,1271.0,FINAL,Regional index,Canterbury,Transport
+92,CPIQ.SE507202,2024.03,1392.0,FINAL,Regional index,Canterbury,Petrol
+93,CPIQ.SE509,2024.03,1232.0,FINAL,Regional index,Canterbury,Recreation and culture
+94,CPIQ.SE511,2024.03,1345.0,FINAL,Regional index,Canterbury,Miscellaneous goods and services
+95,CPIQ.SE5A,2024.03,1249.0,FINAL,Regional index,Canterbury,All Groups
+96,CPIQ.SE601,2024.03,1292.0,FINAL,Regional index,Rest of South Island,Food
+97,CPIQ.SE602,2024.03,1423.0,FINAL,Regional index,Rest of South Island,Alcoholic beverages and tobacco
+98,CPIQ.SE603,2024.03,1104.0,FINAL,Regional index,Rest of South Island,Clothing and footwear
+99,CPIQ.SE604,2024.03,1403.0,FINAL,Regional index,Rest of South Island,Housing and household utilities
+100,CPIQ.SE604101,2024.03,1335.0,FINAL,Regional index,Rest of South Island,Actual rentals for housing
+101,CPIQ.SE604201,2024.03,1582.0,FINAL,Regional index,Rest of South Island,Purchase of housing
+102,CPIQ.SE605,2024.03,1194.0,FINAL,Regional index,Rest of South Island,Household contents and services
+103,CPIQ.SE606,2024.03,1219.0,FINAL,Regional index,Rest of South Island,Health
+104,CPIQ.SE607,2024.03,1273.0,FINAL,Regional index,Rest of South Island,Transport
+105,CPIQ.SE607202,2024.03,1386.0,FINAL,Regional index,Rest of South Island,Petrol
+106,CPIQ.SE609,2024.03,1244.0,FINAL,Regional index,Rest of South Island,Recreation and culture
+107,CPIQ.SE611,2024.03,1296.0,FINAL,Regional index,Rest of South Island,Miscellaneous goods and services
+108,CPIQ.SE6A,2024.03,1284.0,FINAL,Regional index,Rest of South Island,All Groups
+109,CPIQ.SE701,2024.03,1280.0,FINAL,Regional index,South Island,Food
+110,CPIQ.SE702,2024.03,1398.0,FINAL,Regional index,South Island,Alcoholic beverages and tobacco
+111,CPIQ.SE703,2024.03,1083.0,FINAL,Regional index,South Island,Clothing and footwear
+112,CPIQ.SE704,2024.03,1333.0,FINAL,Regional index,South Island,Housing and household utilities
+113,CPIQ.SE704101,2024.03,1267.0,FINAL,Regional index,South Island,Actual rentals for housing
+114,CPIQ.SE704201,2024.03,1412.0,FINAL,Regional index,South Island,Purchase of housing
+115,CPIQ.SE705,2024.03,1208.0,FINAL,Regional index,South Island,Household contents and services
+116,CPIQ.SE706,2024.03,1212.0,FINAL,Regional index,South Island,Health
+117,CPIQ.SE707,2024.03,1272.0,FINAL,Regional index,South Island,Transport
+118,CPIQ.SE707202,2024.03,1385.0,FINAL,Regional index,South Island,Petrol
+119,CPIQ.SE709,2024.03,1238.0,FINAL,Regional index,South Island,Recreation and culture
+120,CPIQ.SE711,2024.03,1323.0,FINAL,Regional index,South Island,Miscellaneous goods and services
+121,CPIQ.SE7A,2024.03,1264.0,FINAL,Regional index,South Island,All Groups
+122,CPIQ.SE901,2024.03,1286.0,FINAL,Main CPI,Group,Food
+123,CPIQ.SE9011,2024.03,1213.0,FINAL,Main CPI,Subgroup,Fruit and vegetables
+124,CPIQ.SE901101,2024.03,1422.0,FINAL,Main CPI,Class,Fruit
+125,CPIQ.SE901101IPCA,2024.03,0.44,FINAL,Index point contribution annual,Class,Fruit
+126,CPIQ.SE901101IPCP,2024.03,0.92,FINAL,Index point contribution quarterly,Class,Fruit
+127,CPIQ.SE901101PCCA,2024.03,0.9,FINAL,Percentage contribution annual,Class,Fruit
+128,CPIQ.SE901101PCCP,2024.03,11.5,FINAL,Percentage contribution quarterly,Class,Fruit
+129,CPIQ.SE901101PPCA,2024.03,0.036,FINAL,Percentage points contribution annual,Class,Fruit
+130,CPIQ.SE901101PPCP,2024.03,0.069,FINAL,Percentage points contribution quarterly,Class,Fruit
+131,CPIQ.SE901102,2024.03,1088.0,FINAL,Main CPI,Class,Vegetables
+132,CPIQ.SE901102IPCA,2024.03,-2.98,FINAL,Index point contribution annual,Class,Vegetables
+133,CPIQ.SE901102IPCP,2024.03,-1.54,FINAL,Index point contribution quarterly,Class,Vegetables
+134,CPIQ.SE901102PCCA,2024.03,-6.1,FINAL,Percentage contribution annual,Class,Vegetables
+135,CPIQ.SE901102PCCP,2024.03,-19.4,FINAL,Percentage contribution quarterly,Class,Vegetables
+136,CPIQ.SE901102PPCA,2024.03,-0.243,FINAL,Percentage points contribution annual,Class,Vegetables
+137,CPIQ.SE901102PPCP,2024.03,-0.116,FINAL,Percentage points contribution quarterly,Class,Vegetables
+138,CPIQ.SE9011IPCA,2024.03,-2.54,FINAL,Index point contribution annual,Subgroup,Fruit and vegetables
+139,CPIQ.SE9011IPCP,2024.03,-0.63,FINAL,Index point contribution quarterly,Subgroup,Fruit and vegetables
+140,CPIQ.SE9011PCCA,2024.03,-5.2,FINAL,Percentage contribution annual,Subgroup,Fruit and vegetables
+141,CPIQ.SE9011PCCP,2024.03,-7.9,FINAL,Percentage contribution quarterly,Subgroup,Fruit and vegetables
+142,CPIQ.SE9011PPCA,2024.03,-0.207,FINAL,Percentage points contribution annual,Subgroup,Fruit and vegetables
+143,CPIQ.SE9011PPCP,2024.03,-0.047,FINAL,Percentage points contribution quarterly,Subgroup,Fruit and vegetables
+144,CPIQ.SE9012,2024.03,1258.0,FINAL,Main CPI,Subgroup,"Meat, poultry and fish"
+145,CPIQ.SE901201,2024.03,1241.0,FINAL,Main CPI,Class,Meat and poultry
+146,CPIQ.SE9012011,2024.03,1218.0,FINAL,Main CPI,Section,"Beef and veal (fresh, chilled or frozen)"
+147,CPIQ.SE9012012,2024.03,1244.0,FINAL,Main CPI,Section,"Pork (fresh, chilled or frozen)"
+148,CPIQ.SE9012013,2024.03,1193.0,FINAL,Main CPI,Section,"Mutton, lamb and hogget (fresh, chilled or frozen)"
+149,CPIQ.SE9012014,2024.03,1139.0,FINAL,Main CPI,Section,"Poultry (fresh, chilled or frozen)"
+150,CPIQ.SE9012016,2024.03,1337.0,FINAL,Main CPI,Section,"Preserved, prepared and processed meat"
+151,CPIQ.SE901201IPCA,2024.03,0.04,FINAL,Index point contribution annual,Class,Meat and poultry
+152,CPIQ.SE901201IPCP,2024.03,-0.12,FINAL,Index point contribution quarterly,Class,Meat and poultry
+153,CPIQ.SE901201PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Class,Meat and poultry
+154,CPIQ.SE901201PCCP,2024.03,-1.5,FINAL,Percentage contribution quarterly,Class,Meat and poultry
+155,CPIQ.SE901201PPCA,2024.03,0.003,FINAL,Percentage points contribution annual,Class,Meat and poultry
+156,CPIQ.SE901201PPCP,2024.03,-0.009,FINAL,Percentage points contribution quarterly,Class,Meat and poultry
+157,CPIQ.SE901202,2024.03,1344.0,FINAL,Main CPI,Class,Fish and other seafood
+158,CPIQ.SE901202IPCA,2024.03,0.16,FINAL,Index point contribution annual,Class,Fish and other seafood
+159,CPIQ.SE901202IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Class,Fish and other seafood
+160,CPIQ.SE901202PCCA,2024.03,0.3,FINAL,Percentage contribution annual,Class,Fish and other seafood
+161,CPIQ.SE901202PCCP,2024.03,0.0,FINAL,Percentage contribution quarterly,Class,Fish and other seafood
+162,CPIQ.SE901202PPCA,2024.03,0.013,FINAL,Percentage points contribution annual,Class,Fish and other seafood
+163,CPIQ.SE901202PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Fish and other seafood
+164,CPIQ.SE9012IPCA,2024.03,0.2,FINAL,Index point contribution annual,Subgroup,"Meat, poultry and fish"
+165,CPIQ.SE9012IPCP,2024.03,-0.13,FINAL,Index point contribution quarterly,Subgroup,"Meat, poultry and fish"
+166,CPIQ.SE9012PCCA,2024.03,0.4,FINAL,Percentage contribution annual,Subgroup,"Meat, poultry and fish"
+167,CPIQ.SE9012PCCP,2024.03,-1.6,FINAL,Percentage contribution quarterly,Subgroup,"Meat, poultry and fish"
+168,CPIQ.SE9012PPCA,2024.03,0.016,FINAL,Percentage points contribution annual,Subgroup,"Meat, poultry and fish"
+169,CPIQ.SE9012PPCP,2024.03,-0.009,FINAL,Percentage points contribution quarterly,Subgroup,"Meat, poultry and fish"
+170,CPIQ.SE9013,2024.03,1288.0,FINAL,Main CPI,Subgroup,Grocery food
+171,CPIQ.SE901301,2024.03,1283.0,FINAL,Main CPI,Class,Bread and cereals
+172,CPIQ.SE9013011,2024.03,1308.0,FINAL,Main CPI,Section,Bread
+173,CPIQ.SE9013012,2024.03,1282.0,FINAL,Main CPI,Section,Cakes and biscuits
+174,CPIQ.SE9013013,2024.03,1182.0,FINAL,Main CPI,Section,Breakfast cereals
+175,CPIQ.SE9013014,2024.03,1357.0,FINAL,Main CPI,Section,Pasta products
+176,CPIQ.SE9013015,2024.03,1294.0,FINAL,Main CPI,Section,Pastry-cook products
+177,CPIQ.SE9013016,2024.03,1282.0,FINAL,Main CPI,Section,Other cereal products
+178,CPIQ.SE901301IPCA,2024.03,0.87,FINAL,Index point contribution annual,Class,Bread and cereals
+179,CPIQ.SE901301IPCP,2024.03,0.19,FINAL,Index point contribution quarterly,Class,Bread and cereals
+180,CPIQ.SE901301PCCA,2024.03,1.8,FINAL,Percentage contribution annual,Class,Bread and cereals
+181,CPIQ.SE901301PCCP,2024.03,2.3,FINAL,Percentage contribution quarterly,Class,Bread and cereals
+182,CPIQ.SE901301PPCA,2024.03,0.071,FINAL,Percentage points contribution annual,Class,Bread and cereals
+183,CPIQ.SE901301PPCP,2024.03,0.014,FINAL,Percentage points contribution quarterly,Class,Bread and cereals
+184,CPIQ.SE901302,2024.03,1323.0,FINAL,Main CPI,Class,"Milk, cheese and eggs"
+185,CPIQ.SE9013021,2024.03,1138.0,FINAL,Main CPI,Section,Fresh milk
+186,CPIQ.SE9013022,2024.03,1160.0,FINAL,Main CPI,Section,Preserved milk
+187,CPIQ.SE9013023,2024.03,1464.0,FINAL,Main CPI,Section,"Yoghurt (fresh, frozen)"
+188,CPIQ.SE9013024,2024.03,1194.0,FINAL,Main CPI,Section,Cheese
+189,CPIQ.SE9013025,2024.03,1126.0,FINAL,Main CPI,Section,Other milk products
+190,CPIQ.SE9013026,2024.03,2163.0,FINAL,Main CPI,Section,Eggs
+191,CPIQ.SE901302IPCA,2024.03,0.03,FINAL,Index point contribution annual,Class,"Milk, cheese and eggs"
+192,CPIQ.SE901302IPCP,2024.03,0.26,FINAL,Index point contribution quarterly,Class,"Milk, cheese and eggs"
+193,CPIQ.SE901302PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Class,"Milk, cheese and eggs"
+194,CPIQ.SE901302PCCP,2024.03,3.3,FINAL,Percentage contribution quarterly,Class,"Milk, cheese and eggs"
+195,CPIQ.SE901302PPCA,2024.03,0.003,FINAL,Percentage points contribution annual,Class,"Milk, cheese and eggs"
+196,CPIQ.SE901302PPCP,2024.03,0.02,FINAL,Percentage points contribution quarterly,Class,"Milk, cheese and eggs"
+197,CPIQ.SE901303,2024.03,1177.0,FINAL,Main CPI,Class,Oils and fats
+198,CPIQ.SE901303IPCA,2024.03,0.07,FINAL,Index point contribution annual,Class,Oils and fats
+199,CPIQ.SE901303IPCP,2024.03,0.03,FINAL,Index point contribution quarterly,Class,Oils and fats
+200,CPIQ.SE901303PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Class,Oils and fats
+201,CPIQ.SE901303PCCP,2024.03,0.4,FINAL,Percentage contribution quarterly,Class,Oils and fats
+202,CPIQ.SE901303PPCA,2024.03,0.006,FINAL,Percentage points contribution annual,Class,Oils and fats
+203,CPIQ.SE901303PPCP,2024.03,0.003,FINAL,Percentage points contribution quarterly,Class,Oils and fats
+204,CPIQ.SE901304,2024.03,1264.0,FINAL,Main CPI,Class,Food additives and condiments
+205,CPIQ.SE901304IPCA,2024.03,0.43,FINAL,Index point contribution annual,Class,Food additives and condiments
+206,CPIQ.SE901304IPCP,2024.03,0.02,FINAL,Index point contribution quarterly,Class,Food additives and condiments
+207,CPIQ.SE901304PCCA,2024.03,0.9,FINAL,Percentage contribution annual,Class,Food additives and condiments
+208,CPIQ.SE901304PCCP,2024.03,0.2,FINAL,Percentage contribution quarterly,Class,Food additives and condiments
+209,CPIQ.SE901304PPCA,2024.03,0.035,FINAL,Percentage points contribution annual,Class,Food additives and condiments
+210,CPIQ.SE901304PPCP,2024.03,0.001,FINAL,Percentage points contribution quarterly,Class,Food additives and condiments
+211,CPIQ.SE901305,2024.03,1287.0,FINAL,Main CPI,Class,"Confectionery, nuts and snacks"
+212,CPIQ.SE901305IPCA,2024.03,1.04,FINAL,Index point contribution annual,Class,"Confectionery, nuts and snacks"
+213,CPIQ.SE901305IPCP,2024.03,0.37,FINAL,Index point contribution quarterly,Class,"Confectionery, nuts and snacks"
+214,CPIQ.SE901305PCCA,2024.03,2.1,FINAL,Percentage contribution annual,Class,"Confectionery, nuts and snacks"
+215,CPIQ.SE901305PCCP,2024.03,4.7,FINAL,Percentage contribution quarterly,Class,"Confectionery, nuts and snacks"
+216,CPIQ.SE901305PPCA,2024.03,0.085,FINAL,Percentage points contribution annual,Class,"Confectionery, nuts and snacks"
+217,CPIQ.SE901305PPCP,2024.03,0.028,FINAL,Percentage points contribution quarterly,Class,"Confectionery, nuts and snacks"
+218,CPIQ.SE901306,2024.03,1281.0,FINAL,Main CPI,Class,Other grocery food
+219,CPIQ.SE901306IPCA,2024.03,0.33,FINAL,Index point contribution annual,Class,Other grocery food
+220,CPIQ.SE901306IPCP,2024.03,0.11,FINAL,Index point contribution quarterly,Class,Other grocery food
+221,CPIQ.SE901306PCCA,2024.03,0.7,FINAL,Percentage contribution annual,Class,Other grocery food
+222,CPIQ.SE901306PCCP,2024.03,1.3,FINAL,Percentage contribution quarterly,Class,Other grocery food
+223,CPIQ.SE901306PPCA,2024.03,0.027,FINAL,Percentage points contribution annual,Class,Other grocery food
+224,CPIQ.SE901306PPCP,2024.03,0.008,FINAL,Percentage points contribution quarterly,Class,Other grocery food
+225,CPIQ.SE9013IPCA,2024.03,2.77,FINAL,Index point contribution annual,Subgroup,Grocery food
+226,CPIQ.SE9013IPCP,2024.03,0.98,FINAL,Index point contribution quarterly,Subgroup,Grocery food
+227,CPIQ.SE9013PCCA,2024.03,5.6,FINAL,Percentage contribution annual,Subgroup,Grocery food
+228,CPIQ.SE9013PCCP,2024.03,12.3,FINAL,Percentage contribution quarterly,Subgroup,Grocery food
+229,CPIQ.SE9013PPCA,2024.03,0.226,FINAL,Percentage points contribution annual,Subgroup,Grocery food
+230,CPIQ.SE9013PPCP,2024.03,0.074,FINAL,Percentage points contribution quarterly,Subgroup,Grocery food
+231,CPIQ.SE9014,2024.03,1217.0,FINAL,Main CPI,Subgroup,Non-alcoholic beverages
+232,CPIQ.SE901401,2024.03,1153.0,FINAL,Main CPI,Class,"Coffee, tea and other hot drinks"
+233,CPIQ.SE901401IPCA,2024.03,0.15,FINAL,Index point contribution annual,Class,"Coffee, tea and other hot drinks"
+234,CPIQ.SE901401IPCP,2024.03,-0.04,FINAL,Index point contribution quarterly,Class,"Coffee, tea and other hot drinks"
+235,CPIQ.SE901401PCCA,2024.03,0.3,FINAL,Percentage contribution annual,Class,"Coffee, tea and other hot drinks"
+236,CPIQ.SE901401PCCP,2024.03,-0.5,FINAL,Percentage contribution quarterly,Class,"Coffee, tea and other hot drinks"
+237,CPIQ.SE901401PPCA,2024.03,0.012,FINAL,Percentage points contribution annual,Class,"Coffee, tea and other hot drinks"
+238,CPIQ.SE901401PPCP,2024.03,-0.003,FINAL,Percentage points contribution quarterly,Class,"Coffee, tea and other hot drinks"
+239,CPIQ.SE901402,2024.03,1235.0,FINAL,Main CPI,Class,"Soft drinks, waters and juices"
+240,CPIQ.SE901402IPCA,2024.03,0.83,FINAL,Index point contribution annual,Class,"Soft drinks, waters and juices"
+241,CPIQ.SE901402IPCP,2024.03,0.28,FINAL,Index point contribution quarterly,Class,"Soft drinks, waters and juices"
+242,CPIQ.SE901402PCCA,2024.03,1.7,FINAL,Percentage contribution annual,Class,"Soft drinks, waters and juices"
+243,CPIQ.SE901402PCCP,2024.03,3.5,FINAL,Percentage contribution quarterly,Class,"Soft drinks, waters and juices"
+244,CPIQ.SE901402PPCA,2024.03,0.068,FINAL,Percentage points contribution annual,Class,"Soft drinks, waters and juices"
+245,CPIQ.SE901402PPCP,2024.03,0.021,FINAL,Percentage points contribution quarterly,Class,"Soft drinks, waters and juices"
+246,CPIQ.SE9014IPCA,2024.03,0.98,FINAL,Index point contribution annual,Subgroup,Non-alcoholic beverages
+247,CPIQ.SE9014IPCP,2024.03,0.23,FINAL,Index point contribution quarterly,Subgroup,Non-alcoholic beverages
+248,CPIQ.SE9014PCCA,2024.03,2.0,FINAL,Percentage contribution annual,Subgroup,Non-alcoholic beverages
+249,CPIQ.SE9014PCCP,2024.03,3.0,FINAL,Percentage contribution quarterly,Subgroup,Non-alcoholic beverages
+250,CPIQ.SE9014PPCA,2024.03,0.08,FINAL,Percentage points contribution annual,Subgroup,Non-alcoholic beverages
+251,CPIQ.SE9014PPCP,2024.03,0.018,FINAL,Percentage points contribution quarterly,Subgroup,Non-alcoholic beverages
+252,CPIQ.SE9015,2024.03,1370.0,FINAL,Main CPI,Subgroup,Restaurant meals and ready-to-eat food
+253,CPIQ.SE901501,2024.03,1325.0,FINAL,Main CPI,Class,Restaurant meals
+254,CPIQ.SE901501IPCA,2024.03,1.41,FINAL,Index point contribution annual,Class,Restaurant meals
+255,CPIQ.SE901501IPCP,2024.03,0.16,FINAL,Index point contribution quarterly,Class,Restaurant meals
+256,CPIQ.SE901501PCCA,2024.03,2.9,FINAL,Percentage contribution annual,Class,Restaurant meals
+257,CPIQ.SE901501PCCP,2024.03,2.0,FINAL,Percentage contribution quarterly,Class,Restaurant meals
+258,CPIQ.SE901501PPCA,2024.03,0.115,FINAL,Percentage points contribution annual,Class,Restaurant meals
+259,CPIQ.SE901501PPCP,2024.03,0.012,FINAL,Percentage points contribution quarterly,Class,Restaurant meals
+260,CPIQ.SE901502,2024.03,1394.0,FINAL,Main CPI,Class,Ready-to-eat food
+261,CPIQ.SE901502IPCA,2024.03,2.57,FINAL,Index point contribution annual,Class,Ready-to-eat food
+262,CPIQ.SE901502IPCP,2024.03,0.44,FINAL,Index point contribution quarterly,Class,Ready-to-eat food
+263,CPIQ.SE901502PCCA,2024.03,5.2,FINAL,Percentage contribution annual,Class,Ready-to-eat food
+264,CPIQ.SE901502PCCP,2024.03,5.5,FINAL,Percentage contribution quarterly,Class,Ready-to-eat food
+265,CPIQ.SE901502PPCA,2024.03,0.209,FINAL,Percentage points contribution annual,Class,Ready-to-eat food
+266,CPIQ.SE901502PPCP,2024.03,0.033,FINAL,Percentage points contribution quarterly,Class,Ready-to-eat food
+267,CPIQ.SE9015IPCA,2024.03,3.98,FINAL,Index point contribution annual,Subgroup,Restaurant meals and ready-to-eat food
+268,CPIQ.SE9015IPCP,2024.03,0.6,FINAL,Index point contribution quarterly,Subgroup,Restaurant meals and ready-to-eat food
+269,CPIQ.SE9015PCCA,2024.03,8.1,FINAL,Percentage contribution annual,Subgroup,Restaurant meals and ready-to-eat food
+270,CPIQ.SE9015PCCP,2024.03,7.5,FINAL,Percentage contribution quarterly,Subgroup,Restaurant meals and ready-to-eat food
+271,CPIQ.SE9015PPCA,2024.03,0.324,FINAL,Percentage points contribution annual,Subgroup,Restaurant meals and ready-to-eat food
+272,CPIQ.SE9015PPCP,2024.03,0.045,FINAL,Percentage points contribution quarterly,Subgroup,Restaurant meals and ready-to-eat food
+273,CPIQ.SE901IPCA,2024.03,5.39,FINAL,Index point contribution annual,Group,Food
+274,CPIQ.SE901IPCP,2024.03,1.06,FINAL,Index point contribution quarterly,Group,Food
+275,CPIQ.SE901PCCA,2024.03,11.0,FINAL,Percentage contribution annual,Group,Food
+276,CPIQ.SE901PCCP,2024.03,13.3,FINAL,Percentage contribution quarterly,Group,Food
+277,CPIQ.SE901PPCA,2024.03,0.439,FINAL,Percentage points contribution annual,Group,Food
+278,CPIQ.SE901PPCP,2024.03,0.08,FINAL,Percentage points contribution quarterly,Group,Food
+279,CPIQ.SE902,2024.03,1392.0,FINAL,Main CPI,Group,Alcoholic beverages and tobacco
+280,CPIQ.SE9021,2024.03,1213.0,FINAL,Main CPI,Subgroup,Alcoholic beverages
+281,CPIQ.SE902101,2024.03,1207.0,FINAL,Main CPI,Class,Beer
+282,CPIQ.SE902101IPCA,2024.03,1.05,FINAL,Index point contribution annual,Class,Beer
+283,CPIQ.SE902101IPCP,2024.03,0.2,FINAL,Index point contribution quarterly,Class,Beer
+284,CPIQ.SE902101PCCA,2024.03,2.1,FINAL,Percentage contribution annual,Class,Beer
+285,CPIQ.SE902101PCCP,2024.03,2.5,FINAL,Percentage contribution quarterly,Class,Beer
+286,CPIQ.SE902101PPCA,2024.03,0.085,FINAL,Percentage points contribution annual,Class,Beer
+287,CPIQ.SE902101PPCP,2024.03,0.015,FINAL,Percentage points contribution quarterly,Class,Beer
+288,CPIQ.SE902102,2024.03,1173.0,FINAL,Main CPI,Class,Wine
+289,CPIQ.SE902102IPCA,2024.03,0.32,FINAL,Index point contribution annual,Class,Wine
+290,CPIQ.SE902102IPCP,2024.03,0.23,FINAL,Index point contribution quarterly,Class,Wine
+291,CPIQ.SE902102PCCA,2024.03,0.6,FINAL,Percentage contribution annual,Class,Wine
+292,CPIQ.SE902102PCCP,2024.03,2.8,FINAL,Percentage contribution quarterly,Class,Wine
+293,CPIQ.SE902102PPCA,2024.03,0.026,FINAL,Percentage points contribution annual,Class,Wine
+294,CPIQ.SE902102PPCP,2024.03,0.017,FINAL,Percentage points contribution quarterly,Class,Wine
+295,CPIQ.SE902103,2024.03,1275.0,FINAL,Main CPI,Class,Spirits and liqueurs
+296,CPIQ.SE902103IPCA,2024.03,1.04,FINAL,Index point contribution annual,Class,Spirits and liqueurs
+297,CPIQ.SE902103IPCP,2024.03,0.06,FINAL,Index point contribution quarterly,Class,Spirits and liqueurs
+298,CPIQ.SE902103PCCA,2024.03,2.1,FINAL,Percentage contribution annual,Class,Spirits and liqueurs
+299,CPIQ.SE902103PCCP,2024.03,0.8,FINAL,Percentage contribution quarterly,Class,Spirits and liqueurs
+300,CPIQ.SE902103PPCA,2024.03,0.085,FINAL,Percentage points contribution annual,Class,Spirits and liqueurs
+301,CPIQ.SE902103PPCP,2024.03,0.005,FINAL,Percentage points contribution quarterly,Class,Spirits and liqueurs
+302,CPIQ.SE9021IPCA,2024.03,2.41,FINAL,Index point contribution annual,Subgroup,Alcoholic beverages
+303,CPIQ.SE9021IPCP,2024.03,0.49,FINAL,Index point contribution quarterly,Subgroup,Alcoholic beverages
+304,CPIQ.SE9021PCCA,2024.03,4.9,FINAL,Percentage contribution annual,Subgroup,Alcoholic beverages
+305,CPIQ.SE9021PCCP,2024.03,6.1,FINAL,Percentage contribution quarterly,Subgroup,Alcoholic beverages
+306,CPIQ.SE9021PPCA,2024.03,0.196,FINAL,Percentage points contribution annual,Subgroup,Alcoholic beverages
+307,CPIQ.SE9021PPCP,2024.03,0.037,FINAL,Percentage points contribution quarterly,Subgroup,Alcoholic beverages
+308,CPIQ.SE9022,2024.03,1694.0,FINAL,Main CPI,Subgroup,Cigarettes and tobacco
+309,CPIQ.SE902200,2024.03,1694.0,FINAL,Main CPI,Class,Cigarettes and tobacco
+310,CPIQ.SE902200IPCA,2024.03,3.94,FINAL,Index point contribution annual,Class,Cigarettes and tobacco
+311,CPIQ.SE902200IPCP,2024.03,2.55,FINAL,Index point contribution quarterly,Class,Cigarettes and tobacco
+312,CPIQ.SE902200PCCA,2024.03,8.0,FINAL,Percentage contribution annual,Class,Cigarettes and tobacco
+313,CPIQ.SE902200PCCP,2024.03,32.1,FINAL,Percentage contribution quarterly,Class,Cigarettes and tobacco
+314,CPIQ.SE902200PPCA,2024.03,0.32,FINAL,Percentage points contribution annual,Class,Cigarettes and tobacco
+315,CPIQ.SE902200PPCP,2024.03,0.193,FINAL,Percentage points contribution quarterly,Class,Cigarettes and tobacco
+316,CPIQ.SE9022IPCA,2024.03,3.94,FINAL,Index point contribution annual,Subgroup,Cigarettes and tobacco
+317,CPIQ.SE9022IPCP,2024.03,2.55,FINAL,Index point contribution quarterly,Subgroup,Cigarettes and tobacco
+318,CPIQ.SE9022PCCA,2024.03,8.0,FINAL,Percentage contribution annual,Subgroup,Cigarettes and tobacco
+319,CPIQ.SE9022PCCP,2024.03,32.1,FINAL,Percentage contribution quarterly,Subgroup,Cigarettes and tobacco
+320,CPIQ.SE9022PPCA,2024.03,0.32,FINAL,Percentage points contribution annual,Subgroup,Cigarettes and tobacco
+321,CPIQ.SE9022PPCP,2024.03,0.193,FINAL,Percentage points contribution quarterly,Subgroup,Cigarettes and tobacco
+322,CPIQ.SE902IPCA,2024.03,6.35,FINAL,Index point contribution annual,Group,Alcoholic beverages and tobacco
+323,CPIQ.SE902IPCP,2024.03,3.04,FINAL,Index point contribution quarterly,Group,Alcoholic beverages and tobacco
+324,CPIQ.SE902PCCA,2024.03,12.9,FINAL,Percentage contribution annual,Group,Alcoholic beverages and tobacco
+325,CPIQ.SE902PCCP,2024.03,38.2,FINAL,Percentage contribution quarterly,Group,Alcoholic beverages and tobacco
+326,CPIQ.SE902PPCA,2024.03,0.516,FINAL,Percentage points contribution annual,Group,Alcoholic beverages and tobacco
+327,CPIQ.SE902PPCP,2024.03,0.229,FINAL,Percentage points contribution quarterly,Group,Alcoholic beverages and tobacco
+328,CPIQ.SE903,2024.03,1077.0,FINAL,Main CPI,Group,Clothing and footwear
+329,CPIQ.SE9031,2024.03,1080.0,FINAL,Main CPI,Subgroup,Clothing
+330,CPIQ.SE903102,2024.03,1110.0,FINAL,Main CPI,Class,Men's clothing
+331,CPIQ.SE903102IPCA,2024.03,0.48,FINAL,Index point contribution annual,Class,Men's clothing
+332,CPIQ.SE903102IPCP,2024.03,-0.01,FINAL,Index point contribution quarterly,Class,Men's clothing
+333,CPIQ.SE903102PCCA,2024.03,1.0,FINAL,Percentage contribution annual,Class,Men's clothing
+334,CPIQ.SE903102PCCP,2024.03,-0.1,FINAL,Percentage contribution quarterly,Class,Men's clothing
+335,CPIQ.SE903102PPCA,2024.03,0.039,FINAL,Percentage points contribution annual,Class,Men's clothing
+336,CPIQ.SE903102PPCP,2024.03,-0.001,FINAL,Percentage points contribution quarterly,Class,Men's clothing
+337,CPIQ.SE903103,2024.03,1057.0,FINAL,Main CPI,Class,Women's clothing
+338,CPIQ.SE903103IPCA,2024.03,1.38,FINAL,Index point contribution annual,Class,Women's clothing
+339,CPIQ.SE903103IPCP,2024.03,0.05,FINAL,Index point contribution quarterly,Class,Women's clothing
+340,CPIQ.SE903103PCCA,2024.03,2.8,FINAL,Percentage contribution annual,Class,Women's clothing
+341,CPIQ.SE903103PCCP,2024.03,0.7,FINAL,Percentage contribution quarterly,Class,Women's clothing
+342,CPIQ.SE903103PPCA,2024.03,0.112,FINAL,Percentage points contribution annual,Class,Women's clothing
+343,CPIQ.SE903103PPCP,2024.03,0.004,FINAL,Percentage points contribution quarterly,Class,Women's clothing
+344,CPIQ.SE903104,2024.03,1075.0,FINAL,Main CPI,Class,Children's and infants' clothing
+345,CPIQ.SE903104IPCA,2024.03,0.0,FINAL,Index point contribution annual,Class,Children's and infants' clothing
+346,CPIQ.SE903104IPCP,2024.03,0.01,FINAL,Index point contribution quarterly,Class,Children's and infants' clothing
+347,CPIQ.SE903104PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Class,Children's and infants' clothing
+348,CPIQ.SE903104PCCP,2024.03,0.2,FINAL,Percentage contribution quarterly,Class,Children's and infants' clothing
+349,CPIQ.SE903104PPCA,2024.03,0.0,FINAL,Percentage points contribution annual,Class,Children's and infants' clothing
+350,CPIQ.SE903104PPCP,2024.03,0.001,FINAL,Percentage points contribution quarterly,Class,Children's and infants' clothing
+351,CPIQ.SE903105,2024.03,991.0,FINAL,Main CPI,Class,Clothing accessories
+352,CPIQ.SE903105IPCA,2024.03,0.02,FINAL,Index point contribution annual,Class,Clothing accessories
+353,CPIQ.SE903105IPCP,2024.03,0.01,FINAL,Index point contribution quarterly,Class,Clothing accessories
+354,CPIQ.SE903105PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Class,Clothing accessories
+355,CPIQ.SE903105PCCP,2024.03,0.2,FINAL,Percentage contribution quarterly,Class,Clothing accessories
+356,CPIQ.SE903105PPCA,2024.03,0.001,FINAL,Percentage points contribution annual,Class,Clothing accessories
+357,CPIQ.SE903105PPCP,2024.03,0.001,FINAL,Percentage points contribution quarterly,Class,Clothing accessories
+358,CPIQ.SE903106,2024.03,1199.0,FINAL,Main CPI,Class,Knitting and sewing supplies
+359,CPIQ.SE903106IPCA,2024.03,0.02,FINAL,Index point contribution annual,Class,Knitting and sewing supplies
+360,CPIQ.SE903106IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Class,Knitting and sewing supplies
+361,CPIQ.SE903106PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Class,Knitting and sewing supplies
+362,CPIQ.SE903106PCCP,2024.03,0.0,FINAL,Percentage contribution quarterly,Class,Knitting and sewing supplies
+363,CPIQ.SE903106PPCA,2024.03,0.001,FINAL,Percentage points contribution annual,Class,Knitting and sewing supplies
+364,CPIQ.SE903106PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Knitting and sewing supplies
+365,CPIQ.SE903107,2024.03,1310.0,FINAL,Main CPI,Class,Clothing services
+366,CPIQ.SE903107IPCA,2024.03,0.04,FINAL,Index point contribution annual,Class,Clothing services
+367,CPIQ.SE903107IPCP,2024.03,0.02,FINAL,Index point contribution quarterly,Class,Clothing services
+368,CPIQ.SE903107PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Class,Clothing services
+369,CPIQ.SE903107PCCP,2024.03,0.2,FINAL,Percentage contribution quarterly,Class,Clothing services
+370,CPIQ.SE903107PPCA,2024.03,0.004,FINAL,Percentage points contribution annual,Class,Clothing services
+371,CPIQ.SE903107PPCP,2024.03,0.001,FINAL,Percentage points contribution quarterly,Class,Clothing services
+372,CPIQ.SE9031IPCA,2024.03,1.93,FINAL,Index point contribution annual,Subgroup,Clothing
+373,CPIQ.SE9031IPCP,2024.03,0.08,FINAL,Index point contribution quarterly,Subgroup,Clothing
+374,CPIQ.SE9031PCCA,2024.03,3.9,FINAL,Percentage contribution annual,Subgroup,Clothing
+375,CPIQ.SE9031PCCP,2024.03,1.1,FINAL,Percentage contribution quarterly,Subgroup,Clothing
+376,CPIQ.SE9031PPCA,2024.03,0.157,FINAL,Percentage points contribution annual,Subgroup,Clothing
+377,CPIQ.SE9031PPCP,2024.03,0.006,FINAL,Percentage points contribution quarterly,Subgroup,Clothing
+378,CPIQ.SE9032,2024.03,1063.0,FINAL,Main CPI,Subgroup,Footwear
+379,CPIQ.SE903202,2024.03,1072.0,FINAL,Main CPI,Class,Men's footwear
+380,CPIQ.SE903202IPCA,2024.03,0.07,FINAL,Index point contribution annual,Class,Men's footwear
+381,CPIQ.SE903202IPCP,2024.03,-0.02,FINAL,Index point contribution quarterly,Class,Men's footwear
+382,CPIQ.SE903202PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Class,Men's footwear
+383,CPIQ.SE903202PCCP,2024.03,-0.2,FINAL,Percentage contribution quarterly,Class,Men's footwear
+384,CPIQ.SE903202PPCA,2024.03,0.006,FINAL,Percentage points contribution annual,Class,Men's footwear
+385,CPIQ.SE903202PPCP,2024.03,-0.001,FINAL,Percentage points contribution quarterly,Class,Men's footwear
+386,CPIQ.SE903203,2024.03,1058.0,FINAL,Main CPI,Class,Women's footwear
+387,CPIQ.SE903203IPCA,2024.03,-0.01,FINAL,Index point contribution annual,Class,Women's footwear
+388,CPIQ.SE903203IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Class,Women's footwear
+389,CPIQ.SE903203PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Class,Women's footwear
+390,CPIQ.SE903203PCCP,2024.03,0.0,FINAL,Percentage contribution quarterly,Class,Women's footwear
+391,CPIQ.SE903203PPCA,2024.03,-0.001,FINAL,Percentage points contribution annual,Class,Women's footwear
+392,CPIQ.SE903203PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Women's footwear
+393,CPIQ.SE903204,2024.03,1075.0,FINAL,Main CPI,Class,Children's and infants' footwear
+394,CPIQ.SE903204IPCA,2024.03,-0.04,FINAL,Index point contribution annual,Class,Children's and infants' footwear
+395,CPIQ.SE903204IPCP,2024.03,-0.02,FINAL,Index point contribution quarterly,Class,Children's and infants' footwear
+396,CPIQ.SE903204PCCA,2024.03,-0.1,FINAL,Percentage contribution annual,Class,Children's and infants' footwear
+397,CPIQ.SE903204PCCP,2024.03,-0.2,FINAL,Percentage contribution quarterly,Class,Children's and infants' footwear
+398,CPIQ.SE903204PPCA,2024.03,-0.003,FINAL,Percentage points contribution annual,Class,Children's and infants' footwear
+399,CPIQ.SE903204PPCP,2024.03,-0.001,FINAL,Percentage points contribution quarterly,Class,Children's and infants' footwear
+400,CPIQ.SE9032IPCA,2024.03,0.02,FINAL,Index point contribution annual,Subgroup,Footwear
+401,CPIQ.SE9032IPCP,2024.03,-0.04,FINAL,Index point contribution quarterly,Subgroup,Footwear
+402,CPIQ.SE9032PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Subgroup,Footwear
+403,CPIQ.SE9032PCCP,2024.03,-0.5,FINAL,Percentage contribution quarterly,Subgroup,Footwear
+404,CPIQ.SE9032PPCA,2024.03,0.002,FINAL,Percentage points contribution annual,Subgroup,Footwear
+405,CPIQ.SE9032PPCP,2024.03,-0.003,FINAL,Percentage points contribution quarterly,Subgroup,Footwear
+406,CPIQ.SE903IPCA,2024.03,1.96,FINAL,Index point contribution annual,Group,Clothing and footwear
+407,CPIQ.SE903IPCP,2024.03,0.05,FINAL,Index point contribution quarterly,Group,Clothing and footwear
+408,CPIQ.SE903PCCA,2024.03,4.0,FINAL,Percentage contribution annual,Group,Clothing and footwear
+409,CPIQ.SE903PCCP,2024.03,0.6,FINAL,Percentage contribution quarterly,Group,Clothing and footwear
+410,CPIQ.SE903PPCA,2024.03,0.159,FINAL,Percentage points contribution annual,Group,Clothing and footwear
+411,CPIQ.SE903PPCP,2024.03,0.004,FINAL,Percentage points contribution quarterly,Group,Clothing and footwear
+412,CPIQ.SE904,2024.03,1357.0,FINAL,Main CPI,Group,Housing and household utilities
+413,CPIQ.SE9041,2024.03,1259.0,FINAL,Main CPI,Subgroup,Actual rentals for housing
+414,CPIQ.SE904101,2024.03,1259.0,FINAL,Main CPI,Class,Actual rentals for housing
+415,CPIQ.SE904101IPCA,2024.03,5.43,FINAL,Index point contribution annual,Class,Actual rentals for housing
+416,CPIQ.SE904101IPCP,2024.03,1.41,FINAL,Index point contribution quarterly,Class,Actual rentals for housing
+417,CPIQ.SE904101PCCA,2024.03,11.0,FINAL,Percentage contribution annual,Class,Actual rentals for housing
+418,CPIQ.SE904101PCCP,2024.03,17.7,FINAL,Percentage contribution quarterly,Class,Actual rentals for housing
+419,CPIQ.SE904101PPCA,2024.03,0.441,FINAL,Percentage points contribution annual,Class,Actual rentals for housing
+420,CPIQ.SE904101PPCP,2024.03,0.106,FINAL,Percentage points contribution quarterly,Class,Actual rentals for housing
+421,CPIQ.SE9041IPCA,2024.03,5.43,FINAL,Index point contribution annual,Subgroup,Actual rentals for housing
+422,CPIQ.SE9041IPCP,2024.03,1.41,FINAL,Index point contribution quarterly,Subgroup,Actual rentals for housing
+423,CPIQ.SE9041PCCA,2024.03,11.0,FINAL,Percentage contribution annual,Subgroup,Actual rentals for housing
+424,CPIQ.SE9041PCCP,2024.03,17.7,FINAL,Percentage contribution quarterly,Subgroup,Actual rentals for housing
+425,CPIQ.SE9041PPCA,2024.03,0.441,FINAL,Percentage points contribution annual,Subgroup,Actual rentals for housing
+426,CPIQ.SE9041PPCP,2024.03,0.106,FINAL,Percentage points contribution quarterly,Subgroup,Actual rentals for housing
+427,CPIQ.SE9042,2024.03,1546.0,FINAL,Main CPI,Subgroup,Home ownership
+428,CPIQ.SE904201,2024.03,1546.0,FINAL,Main CPI,Class,Purchase of housing
+429,CPIQ.SE904201IPCA,2024.03,3.96,FINAL,Index point contribution annual,Class,Purchase of housing
+430,CPIQ.SE904201IPCP,2024.03,1.03,FINAL,Index point contribution quarterly,Class,Purchase of housing
+431,CPIQ.SE904201PCCA,2024.03,8.1,FINAL,Percentage contribution annual,Class,Purchase of housing
+432,CPIQ.SE904201PCCP,2024.03,12.9,FINAL,Percentage contribution quarterly,Class,Purchase of housing
+433,CPIQ.SE904201PPCA,2024.03,0.322,FINAL,Percentage points contribution annual,Class,Purchase of housing
+434,CPIQ.SE904201PPCP,2024.03,0.078,FINAL,Percentage points contribution quarterly,Class,Purchase of housing
+435,CPIQ.SE9042IPCA,2024.03,3.96,FINAL,Index point contribution annual,Subgroup,Home ownership
+436,CPIQ.SE9042IPCP,2024.03,1.03,FINAL,Index point contribution quarterly,Subgroup,Home ownership
+437,CPIQ.SE9042PCCA,2024.03,8.1,FINAL,Percentage contribution annual,Subgroup,Home ownership
+438,CPIQ.SE9042PCCP,2024.03,12.9,FINAL,Percentage contribution quarterly,Subgroup,Home ownership
+439,CPIQ.SE9042PPCA,2024.03,0.322,FINAL,Percentage points contribution annual,Subgroup,Home ownership
+440,CPIQ.SE9042PPCP,2024.03,0.078,FINAL,Percentage points contribution quarterly,Subgroup,Home ownership
+441,CPIQ.SE9043,2024.03,1305.0,FINAL,Main CPI,Subgroup,Property maintenance
+442,CPIQ.SE904301,2024.03,1278.0,FINAL,Main CPI,Class,Property maintenance materials
+443,CPIQ.SE904301IPCA,2024.03,0.24,FINAL,Index point contribution annual,Class,Property maintenance materials
+444,CPIQ.SE904301IPCP,2024.03,0.01,FINAL,Index point contribution quarterly,Class,Property maintenance materials
+445,CPIQ.SE904301PCCA,2024.03,0.5,FINAL,Percentage contribution annual,Class,Property maintenance materials
+446,CPIQ.SE904301PCCP,2024.03,0.1,FINAL,Percentage contribution quarterly,Class,Property maintenance materials
+447,CPIQ.SE904301PPCA,2024.03,0.019,FINAL,Percentage points contribution annual,Class,Property maintenance materials
+448,CPIQ.SE904301PPCP,2024.03,0.001,FINAL,Percentage points contribution quarterly,Class,Property maintenance materials
+449,CPIQ.SE904302,2024.03,1308.0,FINAL,Main CPI,Class,Property maintenance services
+450,CPIQ.SE904302IPCA,2024.03,0.47,FINAL,Index point contribution annual,Class,Property maintenance services
+451,CPIQ.SE904302IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Class,Property maintenance services
+452,CPIQ.SE904302PCCA,2024.03,1.0,FINAL,Percentage contribution annual,Class,Property maintenance services
+453,CPIQ.SE904302PCCP,2024.03,0.0,FINAL,Percentage contribution quarterly,Class,Property maintenance services
+454,CPIQ.SE904302PPCA,2024.03,0.038,FINAL,Percentage points contribution annual,Class,Property maintenance services
+455,CPIQ.SE904302PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Property maintenance services
+456,CPIQ.SE9043IPCA,2024.03,0.71,FINAL,Index point contribution annual,Subgroup,Property maintenance
+457,CPIQ.SE9043IPCP,2024.03,0.01,FINAL,Index point contribution quarterly,Subgroup,Property maintenance
+458,CPIQ.SE9043PCCA,2024.03,1.4,FINAL,Percentage contribution annual,Subgroup,Property maintenance
+459,CPIQ.SE9043PCCP,2024.03,0.1,FINAL,Percentage contribution quarterly,Subgroup,Property maintenance
+460,CPIQ.SE9043PPCA,2024.03,0.057,FINAL,Percentage points contribution annual,Subgroup,Property maintenance
+461,CPIQ.SE9043PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Subgroup,Property maintenance
+462,CPIQ.SE9044,2024.03,1467.0,FINAL,Main CPI,Subgroup,Property rates and related services
+463,CPIQ.SE904401,2024.03,1377.0,FINAL,Main CPI,Class,Water supply
+464,CPIQ.SE904401IPCA,2024.03,0.4,FINAL,Index point contribution annual,Class,Water supply
+465,CPIQ.SE904401IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Class,Water supply
+466,CPIQ.SE904401PCCA,2024.03,0.8,FINAL,Percentage contribution annual,Class,Water supply
+467,CPIQ.SE904401PCCP,2024.03,0.0,FINAL,Percentage contribution quarterly,Class,Water supply
+468,CPIQ.SE904401PPCA,2024.03,0.032,FINAL,Percentage points contribution annual,Class,Water supply
+469,CPIQ.SE904401PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Water supply
+470,CPIQ.SE904402,2024.03,1416.0,FINAL,Main CPI,Class,Refuse disposal and recycling
+471,CPIQ.SE904402IPCA,2024.03,0.12,FINAL,Index point contribution annual,Class,Refuse disposal and recycling
+472,CPIQ.SE904402IPCP,2024.03,0.01,FINAL,Index point contribution quarterly,Class,Refuse disposal and recycling
+473,CPIQ.SE904402PCCA,2024.03,0.2,FINAL,Percentage contribution annual,Class,Refuse disposal and recycling
+474,CPIQ.SE904402PCCP,2024.03,0.1,FINAL,Percentage contribution quarterly,Class,Refuse disposal and recycling
+475,CPIQ.SE904402PPCA,2024.03,0.01,FINAL,Percentage points contribution annual,Class,Refuse disposal and recycling
+476,CPIQ.SE904402PPCP,2024.03,0.001,FINAL,Percentage points contribution quarterly,Class,Refuse disposal and recycling
+477,CPIQ.SE904403,2024.03,1484.0,FINAL,Main CPI,Class,Local authority rates and payments
+478,CPIQ.SE904403IPCA,2024.03,3.2,FINAL,Index point contribution annual,Class,Local authority rates and payments
+479,CPIQ.SE904403IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Class,Local authority rates and payments
+480,CPIQ.SE904403PCCA,2024.03,6.5,FINAL,Percentage contribution annual,Class,Local authority rates and payments
+481,CPIQ.SE904403PCCP,2024.03,0.0,FINAL,Percentage contribution quarterly,Class,Local authority rates and payments
+482,CPIQ.SE904403PPCA,2024.03,0.26,FINAL,Percentage points contribution annual,Class,Local authority rates and payments
+483,CPIQ.SE904403PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Local authority rates and payments
+484,CPIQ.SE904404,2024.03,1106.0,FINAL,Main CPI,Class,Other property related services
+485,CPIQ.SE904404IPCA,2024.03,-0.01,FINAL,Index point contribution annual,Class,Other property related services
+486,CPIQ.SE904404IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Class,Other property related services
+487,CPIQ.SE904404PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Class,Other property related services
+488,CPIQ.SE904404PCCP,2024.03,0.0,FINAL,Percentage contribution quarterly,Class,Other property related services
+489,CPIQ.SE904404PPCA,2024.03,-0.001,FINAL,Percentage points contribution annual,Class,Other property related services
+490,CPIQ.SE904404PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Other property related services
+491,CPIQ.SE9044IPCA,2024.03,3.71,FINAL,Index point contribution annual,Subgroup,Property rates and related services
+492,CPIQ.SE9044IPCP,2024.03,0.01,FINAL,Index point contribution quarterly,Subgroup,Property rates and related services
+493,CPIQ.SE9044PCCA,2024.03,7.5,FINAL,Percentage contribution annual,Subgroup,Property rates and related services
+494,CPIQ.SE9044PCCP,2024.03,0.1,FINAL,Percentage contribution quarterly,Subgroup,Property rates and related services
+495,CPIQ.SE9044PPCA,2024.03,0.302,FINAL,Percentage points contribution annual,Subgroup,Property rates and related services
+496,CPIQ.SE9044PPCP,2024.03,0.001,FINAL,Percentage points contribution quarterly,Subgroup,Property rates and related services
+497,CPIQ.SE9045,2024.03,1141.0,FINAL,Main CPI,Subgroup,Household energy
+498,CPIQ.SE904501,2024.03,1119.0,FINAL,Main CPI,Class,Electricity
+499,CPIQ.SE904501IPCA,2024.03,1.04,FINAL,Index point contribution annual,Class,Electricity
+500,CPIQ.SE904501IPCP,2024.03,0.15,FINAL,Index point contribution quarterly,Class,Electricity
+501,CPIQ.SE904501PCCA,2024.03,2.1,FINAL,Percentage contribution annual,Class,Electricity
+502,CPIQ.SE904501PCCP,2024.03,1.9,FINAL,Percentage contribution quarterly,Class,Electricity
+503,CPIQ.SE904501PPCA,2024.03,0.085,FINAL,Percentage points contribution annual,Class,Electricity
+504,CPIQ.SE904501PPCP,2024.03,0.011,FINAL,Percentage points contribution quarterly,Class,Electricity
+505,CPIQ.SE904502,2024.03,1296.0,FINAL,Main CPI,Class,Gas
+506,CPIQ.SE904502IPCA,2024.03,0.36,FINAL,Index point contribution annual,Class,Gas
+507,CPIQ.SE904502IPCP,2024.03,0.03,FINAL,Index point contribution quarterly,Class,Gas
+508,CPIQ.SE904502PCCA,2024.03,0.7,FINAL,Percentage contribution annual,Class,Gas
+509,CPIQ.SE904502PCCP,2024.03,0.3,FINAL,Percentage contribution quarterly,Class,Gas
+510,CPIQ.SE904502PPCA,2024.03,0.03,FINAL,Percentage points contribution annual,Class,Gas
+511,CPIQ.SE904502PPCP,2024.03,0.002,FINAL,Percentage points contribution quarterly,Class,Gas
+512,CPIQ.SE904503,2024.03,1340.0,FINAL,Main CPI,Class,Solid fuels
+513,CPIQ.SE904503IPCA,2024.03,0.1,FINAL,Index point contribution annual,Class,Solid fuels
+514,CPIQ.SE904503IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Class,Solid fuels
+515,CPIQ.SE904503PCCA,2024.03,0.2,FINAL,Percentage contribution annual,Class,Solid fuels
+516,CPIQ.SE904503PCCP,2024.03,0.0,FINAL,Percentage contribution quarterly,Class,Solid fuels
+517,CPIQ.SE904503PPCA,2024.03,0.009,FINAL,Percentage points contribution annual,Class,Solid fuels
+518,CPIQ.SE904503PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Solid fuels
+519,CPIQ.SE9045IPCA,2024.03,1.51,FINAL,Index point contribution annual,Subgroup,Household energy
+520,CPIQ.SE9045IPCP,2024.03,0.18,FINAL,Index point contribution quarterly,Subgroup,Household energy
+521,CPIQ.SE9045PCCA,2024.03,3.1,FINAL,Percentage contribution annual,Subgroup,Household energy
+522,CPIQ.SE9045PCCP,2024.03,2.2,FINAL,Percentage contribution quarterly,Subgroup,Household energy
+523,CPIQ.SE9045PPCA,2024.03,0.123,FINAL,Percentage points contribution annual,Subgroup,Household energy
+524,CPIQ.SE9045PPCP,2024.03,0.013,FINAL,Percentage points contribution quarterly,Subgroup,Household energy
+525,CPIQ.SE904IPCA,2024.03,15.31,FINAL,Index point contribution annual,Group,Housing and household utilities
+526,CPIQ.SE904IPCP,2024.03,2.62,FINAL,Index point contribution quarterly,Group,Housing and household utilities
+527,CPIQ.SE904PCCA,2024.03,31.1,FINAL,Percentage contribution annual,Group,Housing and household utilities
+528,CPIQ.SE904PCCP,2024.03,33.0,FINAL,Percentage contribution quarterly,Group,Housing and household utilities
+529,CPIQ.SE904PPCA,2024.03,1.246,FINAL,Percentage points contribution annual,Group,Housing and household utilities
+530,CPIQ.SE904PPCP,2024.03,0.198,FINAL,Percentage points contribution quarterly,Group,Housing and household utilities
+531,CPIQ.SE905,2024.03,1164.0,FINAL,Main CPI,Group,Household contents and services
+532,CPIQ.SE9051,2024.03,1134.0,FINAL,Main CPI,Subgroup,"Furniture, furnishings and floor coverings"
+533,CPIQ.SE905101,2024.03,1121.0,FINAL,Main CPI,Class,Furniture and furnishings
+534,CPIQ.SE905101IPCA,2024.03,-0.51,FINAL,Index point contribution annual,Class,Furniture and furnishings
+535,CPIQ.SE905101IPCP,2024.03,-0.54,FINAL,Index point contribution quarterly,Class,Furniture and furnishings
+536,CPIQ.SE905101PCCA,2024.03,-1.0,FINAL,Percentage contribution annual,Class,Furniture and furnishings
+537,CPIQ.SE905101PCCP,2024.03,-6.9,FINAL,Percentage contribution quarterly,Class,Furniture and furnishings
+538,CPIQ.SE905101PPCA,2024.03,-0.041,FINAL,Percentage points contribution annual,Class,Furniture and furnishings
+539,CPIQ.SE905101PPCP,2024.03,-0.041,FINAL,Percentage points contribution quarterly,Class,Furniture and furnishings
+540,CPIQ.SE905102,2024.03,1172.0,FINAL,Main CPI,Class,Carpets and other floor coverings
+541,CPIQ.SE905102IPCA,2024.03,-0.05,FINAL,Index point contribution annual,Class,Carpets and other floor coverings
+542,CPIQ.SE905102IPCP,2024.03,-0.03,FINAL,Index point contribution quarterly,Class,Carpets and other floor coverings
+543,CPIQ.SE905102PCCA,2024.03,-0.1,FINAL,Percentage contribution annual,Class,Carpets and other floor coverings
+544,CPIQ.SE905102PCCP,2024.03,-0.4,FINAL,Percentage contribution quarterly,Class,Carpets and other floor coverings
+545,CPIQ.SE905102PPCA,2024.03,-0.004,FINAL,Percentage points contribution annual,Class,Carpets and other floor coverings
+546,CPIQ.SE905102PPCP,2024.03,-0.002,FINAL,Percentage points contribution quarterly,Class,Carpets and other floor coverings
+547,CPIQ.SE9051IPCA,2024.03,-0.56,FINAL,Index point contribution annual,Subgroup,"Furniture, furnishings and floor coverings"
+548,CPIQ.SE9051IPCP,2024.03,-0.57,FINAL,Index point contribution quarterly,Subgroup,"Furniture, furnishings and floor coverings"
+549,CPIQ.SE9051PCCA,2024.03,-1.1,FINAL,Percentage contribution annual,Subgroup,"Furniture, furnishings and floor coverings"
+550,CPIQ.SE9051PCCP,2024.03,-7.2,FINAL,Percentage contribution quarterly,Subgroup,"Furniture, furnishings and floor coverings"
+551,CPIQ.SE9051PPCA,2024.03,-0.046,FINAL,Percentage points contribution annual,Subgroup,"Furniture, furnishings and floor coverings"
+552,CPIQ.SE9051PPCP,2024.03,-0.043,FINAL,Percentage points contribution quarterly,Subgroup,"Furniture, furnishings and floor coverings"
+553,CPIQ.SE9052,2024.03,1081.0,FINAL,Main CPI,Subgroup,Household textiles
+554,CPIQ.SE905200,2024.03,1081.0,FINAL,Main CPI,Class,Household textiles
+555,CPIQ.SE905200IPCA,2024.03,0.02,FINAL,Index point contribution annual,Class,Household textiles
+556,CPIQ.SE905200IPCP,2024.03,-0.14,FINAL,Index point contribution quarterly,Class,Household textiles
+557,CPIQ.SE905200PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Class,Household textiles
+558,CPIQ.SE905200PCCP,2024.03,-1.8,FINAL,Percentage contribution quarterly,Class,Household textiles
+559,CPIQ.SE905200PPCA,2024.03,0.002,FINAL,Percentage points contribution annual,Class,Household textiles
+560,CPIQ.SE905200PPCP,2024.03,-0.011,FINAL,Percentage points contribution quarterly,Class,Household textiles
+561,CPIQ.SE9052IPCA,2024.03,0.02,FINAL,Index point contribution annual,Subgroup,Household textiles
+562,CPIQ.SE9052IPCP,2024.03,-0.14,FINAL,Index point contribution quarterly,Subgroup,Household textiles
+563,CPIQ.SE9052PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Subgroup,Household textiles
+564,CPIQ.SE9052PCCP,2024.03,-1.8,FINAL,Percentage contribution quarterly,Subgroup,Household textiles
+565,CPIQ.SE9052PPCA,2024.03,0.002,FINAL,Percentage points contribution annual,Subgroup,Household textiles
+566,CPIQ.SE9052PPCP,2024.03,-0.011,FINAL,Percentage points contribution quarterly,Subgroup,Household textiles
+567,CPIQ.SE9053,2024.03,1051.0,FINAL,Main CPI,Subgroup,Household appliances
+568,CPIQ.SE905301,2024.03,1029.0,FINAL,Main CPI,Class,Major household appliances
+569,CPIQ.SE905301IPCA,2024.03,-0.18,FINAL,Index point contribution annual,Class,Major household appliances
+570,CPIQ.SE905301IPCP,2024.03,-0.18,FINAL,Index point contribution quarterly,Class,Major household appliances
+571,CPIQ.SE905301PCCA,2024.03,-0.4,FINAL,Percentage contribution annual,Class,Major household appliances
+572,CPIQ.SE905301PCCP,2024.03,-2.3,FINAL,Percentage contribution quarterly,Class,Major household appliances
+573,CPIQ.SE905301PPCA,2024.03,-0.014,FINAL,Percentage points contribution annual,Class,Major household appliances
+574,CPIQ.SE905301PPCP,2024.03,-0.014,FINAL,Percentage points contribution quarterly,Class,Major household appliances
+575,CPIQ.SE905302,2024.03,1053.0,FINAL,Main CPI,Class,Small electrical household appliances
+576,CPIQ.SE905302IPCA,2024.03,0.03,FINAL,Index point contribution annual,Class,Small electrical household appliances
+577,CPIQ.SE905302IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Class,Small electrical household appliances
+578,CPIQ.SE905302PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Class,Small electrical household appliances
+579,CPIQ.SE905302PCCP,2024.03,0.0,FINAL,Percentage contribution quarterly,Class,Small electrical household appliances
+580,CPIQ.SE905302PPCA,2024.03,0.002,FINAL,Percentage points contribution annual,Class,Small electrical household appliances
+581,CPIQ.SE905302PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Small electrical household appliances
+582,CPIQ.SE905303,2024.03,1399.0,FINAL,Main CPI,Class,Repair and hire of household appliances
+583,CPIQ.SE905303IPCA,2024.03,0.01,FINAL,Index point contribution annual,Class,Repair and hire of household appliances
+584,CPIQ.SE905303IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Class,Repair and hire of household appliances
+585,CPIQ.SE905303PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Class,Repair and hire of household appliances
+586,CPIQ.SE905303PCCP,2024.03,0.0,FINAL,Percentage contribution quarterly,Class,Repair and hire of household appliances
+587,CPIQ.SE905303PPCA,2024.03,0.001,FINAL,Percentage points contribution annual,Class,Repair and hire of household appliances
+588,CPIQ.SE905303PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Repair and hire of household appliances
+589,CPIQ.SE9053IPCA,2024.03,-0.14,FINAL,Index point contribution annual,Subgroup,Household appliances
+590,CPIQ.SE9053IPCP,2024.03,-0.18,FINAL,Index point contribution quarterly,Subgroup,Household appliances
+591,CPIQ.SE9053PCCA,2024.03,-0.3,FINAL,Percentage contribution annual,Subgroup,Household appliances
+592,CPIQ.SE9053PCCP,2024.03,-2.3,FINAL,Percentage contribution quarterly,Subgroup,Household appliances
+593,CPIQ.SE9053PPCA,2024.03,-0.011,FINAL,Percentage points contribution annual,Subgroup,Household appliances
+594,CPIQ.SE9053PPCP,2024.03,-0.014,FINAL,Percentage points contribution quarterly,Subgroup,Household appliances
+595,CPIQ.SE9054,2024.03,1190.0,FINAL,Main CPI,Subgroup,"Glassware, tableware and household utensils"
+596,CPIQ.SE905400,2024.03,1190.0,FINAL,Main CPI,Class,"Glassware, tableware and household utensils"
+597,CPIQ.SE905400IPCA,2024.03,0.34,FINAL,Index point contribution annual,Class,"Glassware, tableware and household utensils"
+598,CPIQ.SE905400IPCP,2024.03,0.05,FINAL,Index point contribution quarterly,Class,"Glassware, tableware and household utensils"
+599,CPIQ.SE905400PCCA,2024.03,0.7,FINAL,Percentage contribution annual,Class,"Glassware, tableware and household utensils"
+600,CPIQ.SE905400PCCP,2024.03,0.6,FINAL,Percentage contribution quarterly,Class,"Glassware, tableware and household utensils"
+601,CPIQ.SE905400PPCA,2024.03,0.028,FINAL,Percentage points contribution annual,Class,"Glassware, tableware and household utensils"
+602,CPIQ.SE905400PPCP,2024.03,0.004,FINAL,Percentage points contribution quarterly,Class,"Glassware, tableware and household utensils"
+603,CPIQ.SE9054IPCA,2024.03,0.34,FINAL,Index point contribution annual,Subgroup,"Glassware, tableware and household utensils"
+604,CPIQ.SE9054IPCP,2024.03,0.05,FINAL,Index point contribution quarterly,Subgroup,"Glassware, tableware and household utensils"
+605,CPIQ.SE9054PCCA,2024.03,0.7,FINAL,Percentage contribution annual,Subgroup,"Glassware, tableware and household utensils"
+606,CPIQ.SE9054PCCP,2024.03,0.6,FINAL,Percentage contribution quarterly,Subgroup,"Glassware, tableware and household utensils"
+607,CPIQ.SE9054PPCA,2024.03,0.028,FINAL,Percentage points contribution annual,Subgroup,"Glassware, tableware and household utensils"
+608,CPIQ.SE9054PPCP,2024.03,0.004,FINAL,Percentage points contribution quarterly,Subgroup,"Glassware, tableware and household utensils"
+609,CPIQ.SE9055,2024.03,1197.0,FINAL,Main CPI,Subgroup,Tools and equipment for house and garden
+610,CPIQ.SE905501,2024.03,1083.0,FINAL,Main CPI,Class,Major tools and equipment for the house and garden
+611,CPIQ.SE905501IPCA,2024.03,0.02,FINAL,Index point contribution annual,Class,Major tools and equipment for the house and garden
+612,CPIQ.SE905501IPCP,2024.03,0.01,FINAL,Index point contribution quarterly,Class,Major tools and equipment for the house and garden
+613,CPIQ.SE905501PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Class,Major tools and equipment for the house and garden
+614,CPIQ.SE905501PCCP,2024.03,0.1,FINAL,Percentage contribution quarterly,Class,Major tools and equipment for the house and garden
+615,CPIQ.SE905501PPCA,2024.03,0.001,FINAL,Percentage points contribution annual,Class,Major tools and equipment for the house and garden
+616,CPIQ.SE905501PPCP,2024.03,0.001,FINAL,Percentage points contribution quarterly,Class,Major tools and equipment for the house and garden
+617,CPIQ.SE905502,2024.03,1267.0,FINAL,Main CPI,Class,Small tools and accessories for the house and gard
+618,CPIQ.SE905502IPCA,2024.03,0.23,FINAL,Index point contribution annual,Class,Small tools and accessories for the house and gard
+619,CPIQ.SE905502IPCP,2024.03,0.04,FINAL,Index point contribution quarterly,Class,Small tools and accessories for the house and gard
+620,CPIQ.SE905502PCCA,2024.03,0.5,FINAL,Percentage contribution annual,Class,Small tools and accessories for the house and gard
+621,CPIQ.SE905502PCCP,2024.03,0.4,FINAL,Percentage contribution quarterly,Class,Small tools and accessories for the house and gard
+622,CPIQ.SE905502PPCA,2024.03,0.018,FINAL,Percentage points contribution annual,Class,Small tools and accessories for the house and gard
+623,CPIQ.SE905502PPCP,2024.03,0.003,FINAL,Percentage points contribution quarterly,Class,Small tools and accessories for the house and gard
+624,CPIQ.SE9055IPCA,2024.03,0.24,FINAL,Index point contribution annual,Subgroup,Tools and equipment for house and garden
+625,CPIQ.SE9055IPCP,2024.03,0.05,FINAL,Index point contribution quarterly,Subgroup,Tools and equipment for house and garden
+626,CPIQ.SE9055PCCA,2024.03,0.5,FINAL,Percentage contribution annual,Subgroup,Tools and equipment for house and garden
+627,CPIQ.SE9055PCCP,2024.03,0.6,FINAL,Percentage contribution quarterly,Subgroup,Tools and equipment for house and garden
+628,CPIQ.SE9055PPCA,2024.03,0.02,FINAL,Percentage points contribution annual,Subgroup,Tools and equipment for house and garden
+629,CPIQ.SE9055PPCP,2024.03,0.003,FINAL,Percentage points contribution quarterly,Subgroup,Tools and equipment for house and garden
+630,CPIQ.SE9056,2024.03,1296.0,FINAL,Main CPI,Subgroup,Other household supplies and services
+631,CPIQ.SE905601,2024.03,1224.0,FINAL,Main CPI,Class,Cleaning products and other household supplies
+632,CPIQ.SE905601IPCA,2024.03,0.07,FINAL,Index point contribution annual,Class,Cleaning products and other household supplies
+633,CPIQ.SE905601IPCP,2024.03,0.03,FINAL,Index point contribution quarterly,Class,Cleaning products and other household supplies
+634,CPIQ.SE905601PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Class,Cleaning products and other household supplies
+635,CPIQ.SE905601PCCP,2024.03,0.4,FINAL,Percentage contribution quarterly,Class,Cleaning products and other household supplies
+636,CPIQ.SE905601PPCA,2024.03,0.005,FINAL,Percentage points contribution annual,Class,Cleaning products and other household supplies
+637,CPIQ.SE905601PPCP,2024.03,0.002,FINAL,Percentage points contribution quarterly,Class,Cleaning products and other household supplies
+638,CPIQ.SE905602,2024.03,1420.0,FINAL,Main CPI,Class,Other household services
+639,CPIQ.SE905602IPCA,2024.03,0.23,FINAL,Index point contribution annual,Class,Other household services
+640,CPIQ.SE905602IPCP,2024.03,0.08,FINAL,Index point contribution quarterly,Class,Other household services
+641,CPIQ.SE905602PCCA,2024.03,0.5,FINAL,Percentage contribution annual,Class,Other household services
+642,CPIQ.SE905602PCCP,2024.03,1.0,FINAL,Percentage contribution quarterly,Class,Other household services
+643,CPIQ.SE905602PPCA,2024.03,0.019,FINAL,Percentage points contribution annual,Class,Other household services
+644,CPIQ.SE905602PPCP,2024.03,0.006,FINAL,Percentage points contribution quarterly,Class,Other household services
+645,CPIQ.SE9056IPCA,2024.03,0.3,FINAL,Index point contribution annual,Subgroup,Other household supplies and services
+646,CPIQ.SE9056IPCP,2024.03,0.11,FINAL,Index point contribution quarterly,Subgroup,Other household supplies and services
+647,CPIQ.SE9056PCCA,2024.03,0.6,FINAL,Percentage contribution annual,Subgroup,Other household supplies and services
+648,CPIQ.SE9056PCCP,2024.03,1.4,FINAL,Percentage contribution quarterly,Subgroup,Other household supplies and services
+649,CPIQ.SE9056PPCA,2024.03,0.024,FINAL,Percentage points contribution annual,Subgroup,Other household supplies and services
+650,CPIQ.SE9056PPCP,2024.03,0.009,FINAL,Percentage points contribution quarterly,Subgroup,Other household supplies and services
+651,CPIQ.SE905IPCA,2024.03,0.21,FINAL,Index point contribution annual,Group,Household contents and services
+652,CPIQ.SE905IPCP,2024.03,-0.69,FINAL,Index point contribution quarterly,Group,Household contents and services
+653,CPIQ.SE905PCCA,2024.03,0.4,FINAL,Percentage contribution annual,Group,Household contents and services
+654,CPIQ.SE905PCCP,2024.03,-8.7,FINAL,Percentage contribution quarterly,Group,Household contents and services
+655,CPIQ.SE905PPCA,2024.03,0.017,FINAL,Percentage points contribution annual,Group,Household contents and services
+656,CPIQ.SE905PPCP,2024.03,-0.052,FINAL,Percentage points contribution quarterly,Group,Household contents and services
+657,CPIQ.SE906,2024.03,1189.0,FINAL,Main CPI,Group,Health
+658,CPIQ.SE9061,2024.03,968.0,FINAL,Main CPI,Subgroup,"Medical products, appliances and equipment"
+659,CPIQ.SE906101,2024.03,904.0,FINAL,Main CPI,Class,Pharmaceutical products
+660,CPIQ.SE906101IPCA,2024.03,-0.96,FINAL,Index point contribution annual,Class,Pharmaceutical products
+661,CPIQ.SE906101IPCP,2024.03,-0.05,FINAL,Index point contribution quarterly,Class,Pharmaceutical products
+662,CPIQ.SE906101PCCA,2024.03,-1.9,FINAL,Percentage contribution annual,Class,Pharmaceutical products
+663,CPIQ.SE906101PCCP,2024.03,-0.7,FINAL,Percentage contribution quarterly,Class,Pharmaceutical products
+664,CPIQ.SE906101PPCA,2024.03,-0.078,FINAL,Percentage points contribution annual,Class,Pharmaceutical products
+665,CPIQ.SE906101PPCP,2024.03,-0.004,FINAL,Percentage points contribution quarterly,Class,Pharmaceutical products
+666,CPIQ.SE906102,2024.03,1097.0,FINAL,Main CPI,Class,Other medical products
+667,CPIQ.SE906102IPCA,2024.03,0.01,FINAL,Index point contribution annual,Class,Other medical products
+668,CPIQ.SE906102IPCP,2024.03,-0.01,FINAL,Index point contribution quarterly,Class,Other medical products
+669,CPIQ.SE906102PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Class,Other medical products
+670,CPIQ.SE906102PCCP,2024.03,-0.1,FINAL,Percentage contribution quarterly,Class,Other medical products
+671,CPIQ.SE906102PPCA,2024.03,0.001,FINAL,Percentage points contribution annual,Class,Other medical products
+672,CPIQ.SE906102PPCP,2024.03,-0.001,FINAL,Percentage points contribution quarterly,Class,Other medical products
+673,CPIQ.SE906103,2024.03,1073.0,FINAL,Main CPI,Class,Therapeutic appliances and equipment
+674,CPIQ.SE906103IPCA,2024.03,0.11,FINAL,Index point contribution annual,Class,Therapeutic appliances and equipment
+675,CPIQ.SE906103IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Class,Therapeutic appliances and equipment
+676,CPIQ.SE906103PCCA,2024.03,0.2,FINAL,Percentage contribution annual,Class,Therapeutic appliances and equipment
+677,CPIQ.SE906103PCCP,2024.03,-0.1,FINAL,Percentage contribution quarterly,Class,Therapeutic appliances and equipment
+678,CPIQ.SE906103PPCA,2024.03,0.009,FINAL,Percentage points contribution annual,Class,Therapeutic appliances and equipment
+679,CPIQ.SE906103PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Therapeutic appliances and equipment
+680,CPIQ.SE9061IPCA,2024.03,-0.84,FINAL,Index point contribution annual,Subgroup,"Medical products, appliances and equipment"
+681,CPIQ.SE9061IPCP,2024.03,-0.07,FINAL,Index point contribution quarterly,Subgroup,"Medical products, appliances and equipment"
+682,CPIQ.SE9061PCCA,2024.03,-1.7,FINAL,Percentage contribution annual,Subgroup,"Medical products, appliances and equipment"
+683,CPIQ.SE9061PCCP,2024.03,-0.8,FINAL,Percentage contribution quarterly,Subgroup,"Medical products, appliances and equipment"
+684,CPIQ.SE9061PPCA,2024.03,-0.068,FINAL,Percentage points contribution annual,Subgroup,"Medical products, appliances and equipment"
+685,CPIQ.SE9061PPCP,2024.03,-0.005,FINAL,Percentage points contribution quarterly,Subgroup,"Medical products, appliances and equipment"
+686,CPIQ.SE9062,2024.03,1260.0,FINAL,Main CPI,Subgroup,Out-patient services
+687,CPIQ.SE906201,2024.03,1182.0,FINAL,Main CPI,Class,Medical services
+688,CPIQ.SE906201IPCA,2024.03,0.94,FINAL,Index point contribution annual,Class,Medical services
+689,CPIQ.SE906201IPCP,2024.03,0.14,FINAL,Index point contribution quarterly,Class,Medical services
+690,CPIQ.SE906201PCCA,2024.03,1.9,FINAL,Percentage contribution annual,Class,Medical services
+691,CPIQ.SE906201PCCP,2024.03,1.7,FINAL,Percentage contribution quarterly,Class,Medical services
+692,CPIQ.SE906201PPCA,2024.03,0.076,FINAL,Percentage points contribution annual,Class,Medical services
+693,CPIQ.SE906201PPCP,2024.03,0.01,FINAL,Percentage points contribution quarterly,Class,Medical services
+694,CPIQ.SE906202,2024.03,1383.0,FINAL,Main CPI,Class,Dental services
+695,CPIQ.SE906202IPCA,2024.03,1.19,FINAL,Index point contribution annual,Class,Dental services
+696,CPIQ.SE906202IPCP,2024.03,0.61,FINAL,Index point contribution quarterly,Class,Dental services
+697,CPIQ.SE906202PCCA,2024.03,2.4,FINAL,Percentage contribution annual,Class,Dental services
+698,CPIQ.SE906202PCCP,2024.03,7.7,FINAL,Percentage contribution quarterly,Class,Dental services
+699,CPIQ.SE906202PPCA,2024.03,0.097,FINAL,Percentage points contribution annual,Class,Dental services
+700,CPIQ.SE906202PPCP,2024.03,0.046,FINAL,Percentage points contribution quarterly,Class,Dental services
+701,CPIQ.SE906203,2024.03,1267.0,FINAL,Main CPI,Class,Paramedical services
+702,CPIQ.SE906203IPCA,2024.03,0.04,FINAL,Index point contribution annual,Class,Paramedical services
+703,CPIQ.SE906203IPCP,2024.03,0.01,FINAL,Index point contribution quarterly,Class,Paramedical services
+704,CPIQ.SE906203PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Class,Paramedical services
+705,CPIQ.SE906203PCCP,2024.03,0.1,FINAL,Percentage contribution quarterly,Class,Paramedical services
+706,CPIQ.SE906203PPCA,2024.03,0.003,FINAL,Percentage points contribution annual,Class,Paramedical services
+707,CPIQ.SE906203PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Paramedical services
+708,CPIQ.SE9062IPCA,2024.03,2.17,FINAL,Index point contribution annual,Subgroup,Out-patient services
+709,CPIQ.SE9062IPCP,2024.03,0.75,FINAL,Index point contribution quarterly,Subgroup,Out-patient services
+710,CPIQ.SE9062PCCA,2024.03,4.4,FINAL,Percentage contribution annual,Subgroup,Out-patient services
+711,CPIQ.SE9062PCCP,2024.03,9.4,FINAL,Percentage contribution quarterly,Subgroup,Out-patient services
+712,CPIQ.SE9062PPCA,2024.03,0.176,FINAL,Percentage points contribution annual,Subgroup,Out-patient services
+713,CPIQ.SE9062PPCP,2024.03,0.057,FINAL,Percentage points contribution quarterly,Subgroup,Out-patient services
+714,CPIQ.SE9063,2024.03,1449.0,FINAL,Main CPI,Subgroup,Hospital services
+715,CPIQ.SE906300,2024.03,1449.0,FINAL,Main CPI,Class,Hospital services
+716,CPIQ.SE906300IPCA,2024.03,0.88,FINAL,Index point contribution annual,Class,Hospital services
+717,CPIQ.SE906300IPCP,2024.03,0.16,FINAL,Index point contribution quarterly,Class,Hospital services
+718,CPIQ.SE906300PCCA,2024.03,1.8,FINAL,Percentage contribution annual,Class,Hospital services
+719,CPIQ.SE906300PCCP,2024.03,2.0,FINAL,Percentage contribution quarterly,Class,Hospital services
+720,CPIQ.SE906300PPCA,2024.03,0.072,FINAL,Percentage points contribution annual,Class,Hospital services
+721,CPIQ.SE906300PPCP,2024.03,0.012,FINAL,Percentage points contribution quarterly,Class,Hospital services
+722,CPIQ.SE9063IPCA,2024.03,0.88,FINAL,Index point contribution annual,Subgroup,Hospital services
+723,CPIQ.SE9063IPCP,2024.03,0.16,FINAL,Index point contribution quarterly,Subgroup,Hospital services
+724,CPIQ.SE9063PCCA,2024.03,1.8,FINAL,Percentage contribution annual,Subgroup,Hospital services
+725,CPIQ.SE9063PCCP,2024.03,2.0,FINAL,Percentage contribution quarterly,Subgroup,Hospital services
+726,CPIQ.SE9063PPCA,2024.03,0.072,FINAL,Percentage points contribution annual,Subgroup,Hospital services
+727,CPIQ.SE9063PPCP,2024.03,0.012,FINAL,Percentage points contribution quarterly,Subgroup,Hospital services
+728,CPIQ.SE906IPCA,2024.03,2.21,FINAL,Index point contribution annual,Group,Health
+729,CPIQ.SE906IPCP,2024.03,0.84,FINAL,Index point contribution quarterly,Group,Health
+730,CPIQ.SE906PCCA,2024.03,4.5,FINAL,Percentage contribution annual,Group,Health
+731,CPIQ.SE906PCCP,2024.03,10.6,FINAL,Percentage contribution quarterly,Group,Health
+732,CPIQ.SE906PPCA,2024.03,0.18,FINAL,Percentage points contribution annual,Group,Health
+733,CPIQ.SE906PPCP,2024.03,0.064,FINAL,Percentage points contribution quarterly,Group,Health
+734,CPIQ.SE907,2024.03,1268.0,FINAL,Main CPI,Group,Transport
+735,CPIQ.SE9071,2024.03,1082.0,FINAL,Main CPI,Subgroup,Purchase of vehicles
+736,CPIQ.SE907101,2024.03,996.0,FINAL,Main CPI,Class,Purchase of new motor cars
+737,CPIQ.SE907101IPCA,2024.03,0.18,FINAL,Index point contribution annual,Class,Purchase of new motor cars
+738,CPIQ.SE907101IPCP,2024.03,-0.88,FINAL,Index point contribution quarterly,Class,Purchase of new motor cars
+739,CPIQ.SE907101PCCA,2024.03,0.4,FINAL,Percentage contribution annual,Class,Purchase of new motor cars
+740,CPIQ.SE907101PCCP,2024.03,-11.1,FINAL,Percentage contribution quarterly,Class,Purchase of new motor cars
+741,CPIQ.SE907101PPCA,2024.03,0.015,FINAL,Percentage points contribution annual,Class,Purchase of new motor cars
+742,CPIQ.SE907101PPCP,2024.03,-0.067,FINAL,Percentage points contribution quarterly,Class,Purchase of new motor cars
+743,CPIQ.SE907102,2024.03,1151.0,FINAL,Main CPI,Class,Purchase of second-hand motor cars
+744,CPIQ.SE907102IPCA,2024.03,0.07,FINAL,Index point contribution annual,Class,Purchase of second-hand motor cars
+745,CPIQ.SE907102IPCP,2024.03,0.1,FINAL,Index point contribution quarterly,Class,Purchase of second-hand motor cars
+746,CPIQ.SE907102PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Class,Purchase of second-hand motor cars
+747,CPIQ.SE907102PCCP,2024.03,1.3,FINAL,Percentage contribution quarterly,Class,Purchase of second-hand motor cars
+748,CPIQ.SE907102PPCA,2024.03,0.005,FINAL,Percentage points contribution annual,Class,Purchase of second-hand motor cars
+749,CPIQ.SE907102PPCP,2024.03,0.008,FINAL,Percentage points contribution quarterly,Class,Purchase of second-hand motor cars
+750,CPIQ.SE907103,2024.03,1074.0,FINAL,Main CPI,Class,Purchase of motorcycles
+751,CPIQ.SE907103IPCA,2024.03,0.0,FINAL,Index point contribution annual,Class,Purchase of motorcycles
+752,CPIQ.SE907103IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Class,Purchase of motorcycles
+753,CPIQ.SE907103PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Class,Purchase of motorcycles
+754,CPIQ.SE907103PCCP,2024.03,0.0,FINAL,Percentage contribution quarterly,Class,Purchase of motorcycles
+755,CPIQ.SE907103PPCA,2024.03,0.0,FINAL,Percentage points contribution annual,Class,Purchase of motorcycles
+756,CPIQ.SE907103PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Purchase of motorcycles
+757,CPIQ.SE907104,2024.03,1227.0,FINAL,Main CPI,Class,Purchase of bicycles
+758,CPIQ.SE907104IPCA,2024.03,-0.03,FINAL,Index point contribution annual,Class,Purchase of bicycles
+759,CPIQ.SE907104IPCP,2024.03,0.01,FINAL,Index point contribution quarterly,Class,Purchase of bicycles
+760,CPIQ.SE907104PCCA,2024.03,-0.1,FINAL,Percentage contribution annual,Class,Purchase of bicycles
+761,CPIQ.SE907104PCCP,2024.03,0.1,FINAL,Percentage contribution quarterly,Class,Purchase of bicycles
+762,CPIQ.SE907104PPCA,2024.03,-0.003,FINAL,Percentage points contribution annual,Class,Purchase of bicycles
+763,CPIQ.SE907104PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Purchase of bicycles
+764,CPIQ.SE9071IPCA,2024.03,0.22,FINAL,Index point contribution annual,Subgroup,Purchase of vehicles
+765,CPIQ.SE9071IPCP,2024.03,-0.78,FINAL,Index point contribution quarterly,Subgroup,Purchase of vehicles
+766,CPIQ.SE9071PCCA,2024.03,0.4,FINAL,Percentage contribution annual,Subgroup,Purchase of vehicles
+767,CPIQ.SE9071PCCP,2024.03,-9.7,FINAL,Percentage contribution quarterly,Subgroup,Purchase of vehicles
+768,CPIQ.SE9071PPCA,2024.03,0.018,FINAL,Percentage points contribution annual,Subgroup,Purchase of vehicles
+769,CPIQ.SE9071PPCP,2024.03,-0.058,FINAL,Percentage points contribution quarterly,Subgroup,Purchase of vehicles
+770,CPIQ.SE9072,2024.03,1401.0,FINAL,Main CPI,Subgroup,Private transport supplies and services
+771,CPIQ.SE907201,2024.03,1301.0,FINAL,Main CPI,Class,Vehicle parts and accessories
+772,CPIQ.SE907201IPCA,2024.03,0.42,FINAL,Index point contribution annual,Class,Vehicle parts and accessories
+773,CPIQ.SE907201IPCP,2024.03,0.03,FINAL,Index point contribution quarterly,Class,Vehicle parts and accessories
+774,CPIQ.SE907201PCCA,2024.03,0.9,FINAL,Percentage contribution annual,Class,Vehicle parts and accessories
+775,CPIQ.SE907201PCCP,2024.03,0.4,FINAL,Percentage contribution quarterly,Class,Vehicle parts and accessories
+776,CPIQ.SE907201PPCA,2024.03,0.034,FINAL,Percentage points contribution annual,Class,Vehicle parts and accessories
+777,CPIQ.SE907201PPCP,2024.03,0.002,FINAL,Percentage points contribution quarterly,Class,Vehicle parts and accessories
+778,CPIQ.SE907202,2024.03,1469.0,FINAL,Main CPI,Class,Petrol
+779,CPIQ.SE907202IPCA,2024.03,5.82,FINAL,Index point contribution annual,Class,Petrol
+780,CPIQ.SE907202IPCP,2024.03,-1.26,FINAL,Index point contribution quarterly,Class,Petrol
+781,CPIQ.SE907202PCCA,2024.03,11.8,FINAL,Percentage contribution annual,Class,Petrol
+782,CPIQ.SE907202PCCP,2024.03,-15.9,FINAL,Percentage contribution quarterly,Class,Petrol
+783,CPIQ.SE907202PPCA,2024.03,0.474,FINAL,Percentage points contribution annual,Class,Petrol
+784,CPIQ.SE907202PPCP,2024.03,-0.095,FINAL,Percentage points contribution quarterly,Class,Petrol
+785,CPIQ.SE907203,2024.03,1767.0,FINAL,Main CPI,Class,Other vehicle fuels and lubricants
+786,CPIQ.SE907203IPCA,2024.03,-0.17,FINAL,Index point contribution annual,Class,Other vehicle fuels and lubricants
+787,CPIQ.SE907203IPCP,2024.03,-0.17,FINAL,Index point contribution quarterly,Class,Other vehicle fuels and lubricants
+788,CPIQ.SE907203PCCA,2024.03,-0.3,FINAL,Percentage contribution annual,Class,Other vehicle fuels and lubricants
+789,CPIQ.SE907203PCCP,2024.03,-2.1,FINAL,Percentage contribution quarterly,Class,Other vehicle fuels and lubricants
+790,CPIQ.SE907203PPCA,2024.03,-0.013,FINAL,Percentage points contribution annual,Class,Other vehicle fuels and lubricants
+791,CPIQ.SE907203PPCP,2024.03,-0.013,FINAL,Percentage points contribution quarterly,Class,Other vehicle fuels and lubricants
+792,CPIQ.SE907204,2024.03,1288.0,FINAL,Main CPI,Class,Vehicle servicing and repairs
+793,CPIQ.SE907204IPCA,2024.03,0.57,FINAL,Index point contribution annual,Class,Vehicle servicing and repairs
+794,CPIQ.SE907204IPCP,2024.03,0.14,FINAL,Index point contribution quarterly,Class,Vehicle servicing and repairs
+795,CPIQ.SE907204PCCA,2024.03,1.2,FINAL,Percentage contribution annual,Class,Vehicle servicing and repairs
+796,CPIQ.SE907204PCCP,2024.03,1.7,FINAL,Percentage contribution quarterly,Class,Vehicle servicing and repairs
+797,CPIQ.SE907204PPCA,2024.03,0.046,FINAL,Percentage points contribution annual,Class,Vehicle servicing and repairs
+798,CPIQ.SE907204PPCP,2024.03,0.01,FINAL,Percentage points contribution quarterly,Class,Vehicle servicing and repairs
+799,CPIQ.SE907205,2024.03,1160.0,FINAL,Main CPI,Class,Other private transport services
+800,CPIQ.SE907205IPCA,2024.03,0.7,FINAL,Index point contribution annual,Class,Other private transport services
+801,CPIQ.SE907205IPCP,2024.03,0.05,FINAL,Index point contribution quarterly,Class,Other private transport services
+802,CPIQ.SE907205PCCA,2024.03,1.4,FINAL,Percentage contribution annual,Class,Other private transport services
+803,CPIQ.SE907205PCCP,2024.03,0.7,FINAL,Percentage contribution quarterly,Class,Other private transport services
+804,CPIQ.SE907205PPCA,2024.03,0.057,FINAL,Percentage points contribution annual,Class,Other private transport services
+805,CPIQ.SE907205PPCP,2024.03,0.004,FINAL,Percentage points contribution quarterly,Class,Other private transport services
+806,CPIQ.SE9072IPCA,2024.03,7.35,FINAL,Index point contribution annual,Subgroup,Private transport supplies and services
+807,CPIQ.SE9072IPCP,2024.03,-1.21,FINAL,Index point contribution quarterly,Subgroup,Private transport supplies and services
+808,CPIQ.SE9072PCCA,2024.03,14.9,FINAL,Percentage contribution annual,Subgroup,Private transport supplies and services
+809,CPIQ.SE9072PCCP,2024.03,-15.2,FINAL,Percentage contribution quarterly,Subgroup,Private transport supplies and services
+810,CPIQ.SE9072PPCA,2024.03,0.598,FINAL,Percentage points contribution annual,Subgroup,Private transport supplies and services
+811,CPIQ.SE9072PPCP,2024.03,-0.091,FINAL,Percentage points contribution quarterly,Subgroup,Private transport supplies and services
+812,CPIQ.SE9073,2024.03,1197.0,FINAL,Main CPI,Subgroup,Passenger transport services
+813,CPIQ.SE907301,2024.03,1071.0,FINAL,Main CPI,Class,Rail passenger transport
+814,CPIQ.SE907301IPCA,2024.03,0.45,FINAL,Index point contribution annual,Class,Rail passenger transport
+815,CPIQ.SE907301IPCP,2024.03,0.02,FINAL,Index point contribution quarterly,Class,Rail passenger transport
+816,CPIQ.SE907301PCCA,2024.03,0.9,FINAL,Percentage contribution annual,Class,Rail passenger transport
+817,CPIQ.SE907301PCCP,2024.03,0.2,FINAL,Percentage contribution quarterly,Class,Rail passenger transport
+818,CPIQ.SE907301PPCA,2024.03,0.037,FINAL,Percentage points contribution annual,Class,Rail passenger transport
+819,CPIQ.SE907301PPCP,2024.03,0.001,FINAL,Percentage points contribution quarterly,Class,Rail passenger transport
+820,CPIQ.SE907302,2024.03,1106.0,FINAL,Main CPI,Class,Road passenger transport
+821,CPIQ.SE907302IPCA,2024.03,0.57,FINAL,Index point contribution annual,Class,Road passenger transport
+822,CPIQ.SE907302IPCP,2024.03,0.18,FINAL,Index point contribution quarterly,Class,Road passenger transport
+823,CPIQ.SE907302PCCA,2024.03,1.2,FINAL,Percentage contribution annual,Class,Road passenger transport
+824,CPIQ.SE907302PCCP,2024.03,2.2,FINAL,Percentage contribution quarterly,Class,Road passenger transport
+825,CPIQ.SE907302PPCA,2024.03,0.046,FINAL,Percentage points contribution annual,Class,Road passenger transport
+826,CPIQ.SE907302PPCP,2024.03,0.013,FINAL,Percentage points contribution quarterly,Class,Road passenger transport
+827,CPIQ.SE907303,2024.03,1576.0,FINAL,Main CPI,Class,Domestic air transport
+828,CPIQ.SE907303IPCA,2024.03,0.04,FINAL,Index point contribution annual,Class,Domestic air transport
+829,CPIQ.SE907303IPCP,2024.03,-0.09,FINAL,Index point contribution quarterly,Class,Domestic air transport
+830,CPIQ.SE907303PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Class,Domestic air transport
+831,CPIQ.SE907303PCCP,2024.03,-1.1,FINAL,Percentage contribution quarterly,Class,Domestic air transport
+832,CPIQ.SE907303PPCA,2024.03,0.003,FINAL,Percentage points contribution annual,Class,Domestic air transport
+833,CPIQ.SE907303PPCP,2024.03,-0.007,FINAL,Percentage points contribution quarterly,Class,Domestic air transport
+834,CPIQ.SE907304,2024.03,1389.0,FINAL,Main CPI,Class,International air transport
+835,CPIQ.SE907304IPCA,2024.03,-5.2,FINAL,Index point contribution annual,Class,International air transport
+836,CPIQ.SE907304IPCP,2024.03,-2.6,FINAL,Index point contribution quarterly,Class,International air transport
+837,CPIQ.SE907304PCCA,2024.03,-10.6,FINAL,Percentage contribution annual,Class,International air transport
+838,CPIQ.SE907304PCCP,2024.03,-32.7,FINAL,Percentage contribution quarterly,Class,International air transport
+839,CPIQ.SE907304PPCA,2024.03,-0.423,FINAL,Percentage points contribution annual,Class,International air transport
+840,CPIQ.SE907304PPCP,2024.03,-0.196,FINAL,Percentage points contribution quarterly,Class,International air transport
+841,CPIQ.SE907305,2024.03,1310.0,FINAL,Main CPI,Class,Sea passenger transport
+842,CPIQ.SE907305IPCA,2024.03,0.08,FINAL,Index point contribution annual,Class,Sea passenger transport
+843,CPIQ.SE907305IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Class,Sea passenger transport
+844,CPIQ.SE907305PCCA,2024.03,0.2,FINAL,Percentage contribution annual,Class,Sea passenger transport
+845,CPIQ.SE907305PCCP,2024.03,0.0,FINAL,Percentage contribution quarterly,Class,Sea passenger transport
+846,CPIQ.SE907305PPCA,2024.03,0.006,FINAL,Percentage points contribution annual,Class,Sea passenger transport
+847,CPIQ.SE907305PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Sea passenger transport
+848,CPIQ.SE9073IPCA,2024.03,-4.07,FINAL,Index point contribution annual,Subgroup,Passenger transport services
+849,CPIQ.SE9073IPCP,2024.03,-2.49,FINAL,Index point contribution quarterly,Subgroup,Passenger transport services
+850,CPIQ.SE9073PCCA,2024.03,-8.3,FINAL,Percentage contribution annual,Subgroup,Passenger transport services
+851,CPIQ.SE9073PCCP,2024.03,-31.3,FINAL,Percentage contribution quarterly,Subgroup,Passenger transport services
+852,CPIQ.SE9073PPCA,2024.03,-0.331,FINAL,Percentage points contribution annual,Subgroup,Passenger transport services
+853,CPIQ.SE9073PPCP,2024.03,-0.188,FINAL,Percentage points contribution quarterly,Subgroup,Passenger transport services
+854,CPIQ.SE907IPCA,2024.03,3.5,FINAL,Index point contribution annual,Group,Transport
+855,CPIQ.SE907IPCP,2024.03,-4.47,FINAL,Index point contribution quarterly,Group,Transport
+856,CPIQ.SE907PCCA,2024.03,7.1,FINAL,Percentage contribution annual,Group,Transport
+857,CPIQ.SE907PCCP,2024.03,-56.3,FINAL,Percentage contribution quarterly,Group,Transport
+858,CPIQ.SE907PPCA,2024.03,0.285,FINAL,Percentage points contribution annual,Group,Transport
+859,CPIQ.SE907PPCP,2024.03,-0.338,FINAL,Percentage points contribution quarterly,Group,Transport
+860,CPIQ.SE908,2024.03,898.0,FINAL,Main CPI,Group,Communication
+861,CPIQ.SE9081,2024.03,1325.0,FINAL,Main CPI,Subgroup,Postal services
+862,CPIQ.SE908100,2024.03,1325.0,FINAL,Main CPI,Class,Postal services
+863,CPIQ.SE908100IPCA,2024.03,0.06,FINAL,Index point contribution annual,Class,Postal services
+864,CPIQ.SE908100IPCP,2024.03,-0.04,FINAL,Index point contribution quarterly,Class,Postal services
+865,CPIQ.SE908100PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Class,Postal services
+866,CPIQ.SE908100PCCP,2024.03,-0.4,FINAL,Percentage contribution quarterly,Class,Postal services
+867,CPIQ.SE908100PPCA,2024.03,0.005,FINAL,Percentage points contribution annual,Class,Postal services
+868,CPIQ.SE908100PPCP,2024.03,-0.003,FINAL,Percentage points contribution quarterly,Class,Postal services
+869,CPIQ.SE9081IPCA,2024.03,0.06,FINAL,Index point contribution annual,Subgroup,Postal services
+870,CPIQ.SE9081IPCP,2024.03,-0.04,FINAL,Index point contribution quarterly,Subgroup,Postal services
+871,CPIQ.SE9081PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Subgroup,Postal services
+872,CPIQ.SE9081PCCP,2024.03,-0.4,FINAL,Percentage contribution quarterly,Subgroup,Postal services
+873,CPIQ.SE9081PPCA,2024.03,0.005,FINAL,Percentage points contribution annual,Subgroup,Postal services
+874,CPIQ.SE9081PPCP,2024.03,-0.003,FINAL,Percentage points contribution quarterly,Subgroup,Postal services
+875,CPIQ.SE9082,2024.03,535.0,FINAL,Main CPI,Subgroup,Telecommunication equipment
+876,CPIQ.SE908200,2024.03,535.0,FINAL,Main CPI,Class,Telecommunication equipment
+877,CPIQ.SE908200IPCA,2024.03,-0.21,FINAL,Index point contribution annual,Class,Telecommunication equipment
+878,CPIQ.SE908200IPCP,2024.03,-0.11,FINAL,Index point contribution quarterly,Class,Telecommunication equipment
+879,CPIQ.SE908200PCCA,2024.03,-0.4,FINAL,Percentage contribution annual,Class,Telecommunication equipment
+880,CPIQ.SE908200PCCP,2024.03,-1.4,FINAL,Percentage contribution quarterly,Class,Telecommunication equipment
+881,CPIQ.SE908200PPCA,2024.03,-0.017,FINAL,Percentage points contribution annual,Class,Telecommunication equipment
+882,CPIQ.SE908200PPCP,2024.03,-0.009,FINAL,Percentage points contribution quarterly,Class,Telecommunication equipment
+883,CPIQ.SE9082IPCA,2024.03,-0.21,FINAL,Index point contribution annual,Subgroup,Telecommunication equipment
+884,CPIQ.SE9082IPCP,2024.03,-0.11,FINAL,Index point contribution quarterly,Subgroup,Telecommunication equipment
+885,CPIQ.SE9082PCCA,2024.03,-0.4,FINAL,Percentage contribution annual,Subgroup,Telecommunication equipment
+886,CPIQ.SE9082PCCP,2024.03,-1.4,FINAL,Percentage contribution quarterly,Subgroup,Telecommunication equipment
+887,CPIQ.SE9082PPCA,2024.03,-0.017,FINAL,Percentage points contribution annual,Subgroup,Telecommunication equipment
+888,CPIQ.SE9082PPCP,2024.03,-0.009,FINAL,Percentage points contribution quarterly,Subgroup,Telecommunication equipment
+889,CPIQ.SE9083,2024.03,974.0,FINAL,Main CPI,Subgroup,Telecommunication services
+890,CPIQ.SE908300,2024.03,974.0,FINAL,Main CPI,Class,Telecommunication services
+891,CPIQ.SE908300IPCA,2024.03,1.12,FINAL,Index point contribution annual,Class,Telecommunication services
+892,CPIQ.SE908300IPCP,2024.03,0.18,FINAL,Index point contribution quarterly,Class,Telecommunication services
+893,CPIQ.SE908300PCCA,2024.03,2.3,FINAL,Percentage contribution annual,Class,Telecommunication services
+894,CPIQ.SE908300PCCP,2024.03,2.3,FINAL,Percentage contribution quarterly,Class,Telecommunication services
+895,CPIQ.SE908300PPCA,2024.03,0.091,FINAL,Percentage points contribution annual,Class,Telecommunication services
+896,CPIQ.SE908300PPCP,2024.03,0.014,FINAL,Percentage points contribution quarterly,Class,Telecommunication services
+897,CPIQ.SE9083IPCA,2024.03,1.12,FINAL,Index point contribution annual,Subgroup,Telecommunication services
+898,CPIQ.SE9083IPCP,2024.03,0.18,FINAL,Index point contribution quarterly,Subgroup,Telecommunication services
+899,CPIQ.SE9083PCCA,2024.03,2.3,FINAL,Percentage contribution annual,Subgroup,Telecommunication services
+900,CPIQ.SE9083PCCP,2024.03,2.3,FINAL,Percentage contribution quarterly,Subgroup,Telecommunication services
+901,CPIQ.SE9083PPCA,2024.03,0.091,FINAL,Percentage points contribution annual,Subgroup,Telecommunication services
+902,CPIQ.SE9083PPCP,2024.03,0.014,FINAL,Percentage points contribution quarterly,Subgroup,Telecommunication services
+903,CPIQ.SE908IPCA,2024.03,0.97,FINAL,Index point contribution annual,Group,Communication
+904,CPIQ.SE908IPCP,2024.03,0.03,FINAL,Index point contribution quarterly,Group,Communication
+905,CPIQ.SE908PCCA,2024.03,2.0,FINAL,Percentage contribution annual,Group,Communication
+906,CPIQ.SE908PCCP,2024.03,0.4,FINAL,Percentage contribution quarterly,Group,Communication
+907,CPIQ.SE908PPCA,2024.03,0.079,FINAL,Percentage points contribution annual,Group,Communication
+908,CPIQ.SE908PPCP,2024.03,0.002,FINAL,Percentage points contribution quarterly,Group,Communication
+909,CPIQ.SE909,2024.03,1235.0,FINAL,Main CPI,Group,Recreation and culture
+910,CPIQ.SE9091,2024.03,533.0,FINAL,Main CPI,Subgroup,Audio-visual and computing equipment
+911,CPIQ.SE909101,2024.03,359.0,FINAL,Main CPI,Class,Audio-visual equipment
+912,CPIQ.SE909101IPCA,2024.03,-0.4,FINAL,Index point contribution annual,Class,Audio-visual equipment
+913,CPIQ.SE909101IPCP,2024.03,-0.29,FINAL,Index point contribution quarterly,Class,Audio-visual equipment
+914,CPIQ.SE909101PCCA,2024.03,-0.8,FINAL,Percentage contribution annual,Class,Audio-visual equipment
+915,CPIQ.SE909101PCCP,2024.03,-3.7,FINAL,Percentage contribution quarterly,Class,Audio-visual equipment
+916,CPIQ.SE909101PPCA,2024.03,-0.033,FINAL,Percentage points contribution annual,Class,Audio-visual equipment
+917,CPIQ.SE909101PPCP,2024.03,-0.022,FINAL,Percentage points contribution quarterly,Class,Audio-visual equipment
+918,CPIQ.SE909102,2024.03,597.0,FINAL,Main CPI,Class,Computing equipment
+919,CPIQ.SE909102IPCA,2024.03,-0.48,FINAL,Index point contribution annual,Class,Computing equipment
+920,CPIQ.SE909102IPCP,2024.03,-0.23,FINAL,Index point contribution quarterly,Class,Computing equipment
+921,CPIQ.SE909102PCCA,2024.03,-1.0,FINAL,Percentage contribution annual,Class,Computing equipment
+922,CPIQ.SE909102PCCP,2024.03,-2.9,FINAL,Percentage contribution quarterly,Class,Computing equipment
+923,CPIQ.SE909102PPCA,2024.03,-0.039,FINAL,Percentage points contribution annual,Class,Computing equipment
+924,CPIQ.SE909102PPCP,2024.03,-0.018,FINAL,Percentage points contribution quarterly,Class,Computing equipment
+925,CPIQ.SE909103,2024.03,1058.0,FINAL,Main CPI,Class,Recording media
+926,CPIQ.SE909103IPCA,2024.03,0.01,FINAL,Index point contribution annual,Class,Recording media
+927,CPIQ.SE909103IPCP,2024.03,-0.02,FINAL,Index point contribution quarterly,Class,Recording media
+928,CPIQ.SE909103PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Class,Recording media
+929,CPIQ.SE909103PCCP,2024.03,-0.3,FINAL,Percentage contribution quarterly,Class,Recording media
+930,CPIQ.SE909103PPCA,2024.03,0.001,FINAL,Percentage points contribution annual,Class,Recording media
+931,CPIQ.SE909103PPCP,2024.03,-0.002,FINAL,Percentage points contribution quarterly,Class,Recording media
+932,CPIQ.SE9091IPCA,2024.03,-0.87,FINAL,Index point contribution annual,Subgroup,Audio-visual and computing equipment
+933,CPIQ.SE9091IPCP,2024.03,-0.55,FINAL,Index point contribution quarterly,Subgroup,Audio-visual and computing equipment
+934,CPIQ.SE9091PCCA,2024.03,-1.8,FINAL,Percentage contribution annual,Subgroup,Audio-visual and computing equipment
+935,CPIQ.SE9091PCCP,2024.03,-6.9,FINAL,Percentage contribution quarterly,Subgroup,Audio-visual and computing equipment
+936,CPIQ.SE9091PPCA,2024.03,-0.071,FINAL,Percentage points contribution annual,Subgroup,Audio-visual and computing equipment
+937,CPIQ.SE9091PPCP,2024.03,-0.041,FINAL,Percentage points contribution quarterly,Subgroup,Audio-visual and computing equipment
+938,CPIQ.SE9092,2024.03,1337.0,FINAL,Main CPI,Subgroup,Major recreational and cultural equipment
+939,CPIQ.SE909200,2024.03,1337.0,FINAL,Main CPI,Class,Major recreational and cultural equipment
+940,CPIQ.SE909200IPCA,2024.03,0.04,FINAL,Index point contribution annual,Class,Major recreational and cultural equipment
+941,CPIQ.SE909200IPCP,2024.03,0.02,FINAL,Index point contribution quarterly,Class,Major recreational and cultural equipment
+942,CPIQ.SE909200PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Class,Major recreational and cultural equipment
+943,CPIQ.SE909200PCCP,2024.03,0.3,FINAL,Percentage contribution quarterly,Class,Major recreational and cultural equipment
+944,CPIQ.SE909200PPCA,2024.03,0.003,FINAL,Percentage points contribution annual,Class,Major recreational and cultural equipment
+945,CPIQ.SE909200PPCP,2024.03,0.002,FINAL,Percentage points contribution quarterly,Class,Major recreational and cultural equipment
+946,CPIQ.SE9092IPCA,2024.03,0.04,FINAL,Index point contribution annual,Subgroup,Major recreational and cultural equipment
+947,CPIQ.SE9092IPCP,2024.03,0.02,FINAL,Index point contribution quarterly,Subgroup,Major recreational and cultural equipment
+948,CPIQ.SE9092PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Subgroup,Major recreational and cultural equipment
+949,CPIQ.SE9092PCCP,2024.03,0.3,FINAL,Percentage contribution quarterly,Subgroup,Major recreational and cultural equipment
+950,CPIQ.SE9092PPCA,2024.03,0.003,FINAL,Percentage points contribution annual,Subgroup,Major recreational and cultural equipment
+951,CPIQ.SE9092PPCP,2024.03,0.002,FINAL,Percentage points contribution quarterly,Subgroup,Major recreational and cultural equipment
+952,CPIQ.SE9093,2024.03,1294.0,FINAL,Main CPI,Subgroup,Other recreational equipment and supplies
+953,CPIQ.SE909301,2024.03,1300.0,FINAL,Main CPI,Class,"Games, toys and hobbies"
+954,CPIQ.SE909301IPCA,2024.03,-0.13,FINAL,Index point contribution annual,Class,"Games, toys and hobbies"
+955,CPIQ.SE909301IPCP,2024.03,0.32,FINAL,Index point contribution quarterly,Class,"Games, toys and hobbies"
+956,CPIQ.SE909301PCCA,2024.03,-0.3,FINAL,Percentage contribution annual,Class,"Games, toys and hobbies"
+957,CPIQ.SE909301PCCP,2024.03,4.1,FINAL,Percentage contribution quarterly,Class,"Games, toys and hobbies"
+958,CPIQ.SE909301PPCA,2024.03,-0.01,FINAL,Percentage points contribution annual,Class,"Games, toys and hobbies"
+959,CPIQ.SE909301PPCP,2024.03,0.024,FINAL,Percentage points contribution quarterly,Class,"Games, toys and hobbies"
+960,CPIQ.SE909302,2024.03,1093.0,FINAL,Main CPI,Class,"Equipment for sport, camping and outdoor recreatio"
+961,CPIQ.SE909302IPCA,2024.03,0.12,FINAL,Index point contribution annual,Class,"Equipment for sport, camping and outdoor recreatio"
+962,CPIQ.SE909302IPCP,2024.03,-0.03,FINAL,Index point contribution quarterly,Class,"Equipment for sport, camping and outdoor recreatio"
+963,CPIQ.SE909302PCCA,2024.03,0.2,FINAL,Percentage contribution annual,Class,"Equipment for sport, camping and outdoor recreatio"
+964,CPIQ.SE909302PCCP,2024.03,-0.4,FINAL,Percentage contribution quarterly,Class,"Equipment for sport, camping and outdoor recreatio"
+965,CPIQ.SE909302PPCA,2024.03,0.01,FINAL,Percentage points contribution annual,Class,"Equipment for sport, camping and outdoor recreatio"
+966,CPIQ.SE909302PPCP,2024.03,-0.002,FINAL,Percentage points contribution quarterly,Class,"Equipment for sport, camping and outdoor recreatio"
+967,CPIQ.SE909303,2024.03,1249.0,FINAL,Main CPI,Class,"Plants, flowers and gardening supplies"
+968,CPIQ.SE909303IPCA,2024.03,0.07,FINAL,Index point contribution annual,Class,"Plants, flowers and gardening supplies"
+969,CPIQ.SE909303IPCP,2024.03,0.01,FINAL,Index point contribution quarterly,Class,"Plants, flowers and gardening supplies"
+970,CPIQ.SE909303PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Class,"Plants, flowers and gardening supplies"
+971,CPIQ.SE909303PCCP,2024.03,0.2,FINAL,Percentage contribution quarterly,Class,"Plants, flowers and gardening supplies"
+972,CPIQ.SE909303PPCA,2024.03,0.006,FINAL,Percentage points contribution annual,Class,"Plants, flowers and gardening supplies"
+973,CPIQ.SE909303PPCP,2024.03,0.001,FINAL,Percentage points contribution quarterly,Class,"Plants, flowers and gardening supplies"
+974,CPIQ.SE909304,2024.03,1462.0,FINAL,Main CPI,Class,Pet-related products
+975,CPIQ.SE909304IPCA,2024.03,1.18,FINAL,Index point contribution annual,Class,Pet-related products
+976,CPIQ.SE909304IPCP,2024.03,0.08,FINAL,Index point contribution quarterly,Class,Pet-related products
+977,CPIQ.SE909304PCCA,2024.03,2.4,FINAL,Percentage contribution annual,Class,Pet-related products
+978,CPIQ.SE909304PCCP,2024.03,1.0,FINAL,Percentage contribution quarterly,Class,Pet-related products
+979,CPIQ.SE909304PPCA,2024.03,0.096,FINAL,Percentage points contribution annual,Class,Pet-related products
+980,CPIQ.SE909304PPCP,2024.03,0.006,FINAL,Percentage points contribution quarterly,Class,Pet-related products
+981,CPIQ.SE9093IPCA,2024.03,1.25,FINAL,Index point contribution annual,Subgroup,Other recreational equipment and supplies
+982,CPIQ.SE9093IPCP,2024.03,0.39,FINAL,Index point contribution quarterly,Subgroup,Other recreational equipment and supplies
+983,CPIQ.SE9093PCCA,2024.03,2.5,FINAL,Percentage contribution annual,Subgroup,Other recreational equipment and supplies
+984,CPIQ.SE9093PCCP,2024.03,4.9,FINAL,Percentage contribution quarterly,Subgroup,Other recreational equipment and supplies
+985,CPIQ.SE9093PPCA,2024.03,0.101,FINAL,Percentage points contribution annual,Subgroup,Other recreational equipment and supplies
+986,CPIQ.SE9093PPCP,2024.03,0.029,FINAL,Percentage points contribution quarterly,Subgroup,Other recreational equipment and supplies
+987,CPIQ.SE9094,2024.03,1166.0,FINAL,Main CPI,Subgroup,Recreational and cultural services
+988,CPIQ.SE909401,2024.03,1212.0,FINAL,Main CPI,Class,Recreational and sporting services
+989,CPIQ.SE909401IPCA,2024.03,0.53,FINAL,Index point contribution annual,Class,Recreational and sporting services
+990,CPIQ.SE909401IPCP,2024.03,0.09,FINAL,Index point contribution quarterly,Class,Recreational and sporting services
+991,CPIQ.SE909401PCCA,2024.03,1.1,FINAL,Percentage contribution annual,Class,Recreational and sporting services
+992,CPIQ.SE909401PCCP,2024.03,1.2,FINAL,Percentage contribution quarterly,Class,Recreational and sporting services
+993,CPIQ.SE909401PPCA,2024.03,0.043,FINAL,Percentage points contribution annual,Class,Recreational and sporting services
+994,CPIQ.SE909401PPCP,2024.03,0.007,FINAL,Percentage points contribution quarterly,Class,Recreational and sporting services
+995,CPIQ.SE909402,2024.03,1067.0,FINAL,Main CPI,Class,Cultural services
+996,CPIQ.SE909402IPCA,2024.03,1.26,FINAL,Index point contribution annual,Class,Cultural services
+997,CPIQ.SE909402IPCP,2024.03,0.47,FINAL,Index point contribution quarterly,Class,Cultural services
+998,CPIQ.SE909402PCCA,2024.03,2.6,FINAL,Percentage contribution annual,Class,Cultural services
+999,CPIQ.SE909402PCCP,2024.03,5.9,FINAL,Percentage contribution quarterly,Class,Cultural services
+1000,CPIQ.SE909402PPCA,2024.03,0.102,FINAL,Percentage points contribution annual,Class,Cultural services
+1001,CPIQ.SE909402PPCP,2024.03,0.036,FINAL,Percentage points contribution quarterly,Class,Cultural services
+1002,CPIQ.SE909403,2024.03,1396.0,FINAL,Main CPI,Class,Veterinary services
+1003,CPIQ.SE909403IPCA,2024.03,0.43,FINAL,Index point contribution annual,Class,Veterinary services
+1004,CPIQ.SE909403IPCP,2024.03,0.08,FINAL,Index point contribution quarterly,Class,Veterinary services
+1005,CPIQ.SE909403PCCA,2024.03,0.9,FINAL,Percentage contribution annual,Class,Veterinary services
+1006,CPIQ.SE909403PCCP,2024.03,1.1,FINAL,Percentage contribution quarterly,Class,Veterinary services
+1007,CPIQ.SE909403PPCA,2024.03,0.035,FINAL,Percentage points contribution annual,Class,Veterinary services
+1008,CPIQ.SE909403PPCP,2024.03,0.006,FINAL,Percentage points contribution quarterly,Class,Veterinary services
+1009,CPIQ.SE9094IPCA,2024.03,2.22,FINAL,Index point contribution annual,Subgroup,Recreational and cultural services
+1010,CPIQ.SE9094IPCP,2024.03,0.65,FINAL,Index point contribution quarterly,Subgroup,Recreational and cultural services
+1011,CPIQ.SE9094PCCA,2024.03,4.5,FINAL,Percentage contribution annual,Subgroup,Recreational and cultural services
+1012,CPIQ.SE9094PCCP,2024.03,8.1,FINAL,Percentage contribution quarterly,Subgroup,Recreational and cultural services
+1013,CPIQ.SE9094PPCA,2024.03,0.181,FINAL,Percentage points contribution annual,Subgroup,Recreational and cultural services
+1014,CPIQ.SE9094PPCP,2024.03,0.049,FINAL,Percentage points contribution quarterly,Subgroup,Recreational and cultural services
+1015,CPIQ.SE9095,2024.03,1282.0,FINAL,Main CPI,Subgroup,"Newspapers, books and stationery"
+1016,CPIQ.SE909501,2024.03,1075.0,FINAL,Main CPI,Class,Books
+1017,CPIQ.SE909501IPCA,2024.03,0.04,FINAL,Index point contribution annual,Class,Books
+1018,CPIQ.SE909501IPCP,2024.03,-0.02,FINAL,Index point contribution quarterly,Class,Books
+1019,CPIQ.SE909501PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Class,Books
+1020,CPIQ.SE909501PCCP,2024.03,-0.2,FINAL,Percentage contribution quarterly,Class,Books
+1021,CPIQ.SE909501PPCA,2024.03,0.003,FINAL,Percentage points contribution annual,Class,Books
+1022,CPIQ.SE909501PPCP,2024.03,-0.001,FINAL,Percentage points contribution quarterly,Class,Books
+1023,CPIQ.SE909502,2024.03,1484.0,FINAL,Main CPI,Class,Newspapers and magazines
+1024,CPIQ.SE909502IPCA,2024.03,0.27,FINAL,Index point contribution annual,Class,Newspapers and magazines
+1025,CPIQ.SE909502IPCP,2024.03,0.04,FINAL,Index point contribution quarterly,Class,Newspapers and magazines
+1026,CPIQ.SE909502PCCA,2024.03,0.5,FINAL,Percentage contribution annual,Class,Newspapers and magazines
+1027,CPIQ.SE909502PCCP,2024.03,0.5,FINAL,Percentage contribution quarterly,Class,Newspapers and magazines
+1028,CPIQ.SE909502PPCA,2024.03,0.022,FINAL,Percentage points contribution annual,Class,Newspapers and magazines
+1029,CPIQ.SE909502PPCP,2024.03,0.003,FINAL,Percentage points contribution quarterly,Class,Newspapers and magazines
+1030,CPIQ.SE909504,2024.03,1221.0,FINAL,Main CPI,Class,Stationery and drawing materials
+1031,CPIQ.SE909504IPCA,2024.03,0.08,FINAL,Index point contribution annual,Class,Stationery and drawing materials
+1032,CPIQ.SE909504IPCP,2024.03,-0.05,FINAL,Index point contribution quarterly,Class,Stationery and drawing materials
+1033,CPIQ.SE909504PCCA,2024.03,0.2,FINAL,Percentage contribution annual,Class,Stationery and drawing materials
+1034,CPIQ.SE909504PCCP,2024.03,-0.6,FINAL,Percentage contribution quarterly,Class,Stationery and drawing materials
+1035,CPIQ.SE909504PPCA,2024.03,0.007,FINAL,Percentage points contribution annual,Class,Stationery and drawing materials
+1036,CPIQ.SE909504PPCP,2024.03,-0.004,FINAL,Percentage points contribution quarterly,Class,Stationery and drawing materials
+1037,CPIQ.SE9095IPCA,2024.03,0.39,FINAL,Index point contribution annual,Subgroup,"Newspapers, books and stationery"
+1038,CPIQ.SE9095IPCP,2024.03,-0.03,FINAL,Index point contribution quarterly,Subgroup,"Newspapers, books and stationery"
+1039,CPIQ.SE9095PCCA,2024.03,0.8,FINAL,Percentage contribution annual,Subgroup,"Newspapers, books and stationery"
+1040,CPIQ.SE9095PCCP,2024.03,-0.3,FINAL,Percentage contribution quarterly,Subgroup,"Newspapers, books and stationery"
+1041,CPIQ.SE9095PPCA,2024.03,0.031,FINAL,Percentage points contribution annual,Subgroup,"Newspapers, books and stationery"
+1042,CPIQ.SE9095PPCP,2024.03,-0.002,FINAL,Percentage points contribution quarterly,Subgroup,"Newspapers, books and stationery"
+1043,CPIQ.SE9096,2024.03,1760.0,FINAL,Main CPI,Subgroup,Accommodation services
+1044,CPIQ.SE909600IPCA,2024.03,2.21,FINAL,Index point contribution annual,Class,Accommodation services
+1045,CPIQ.SE909600IPCP,2024.03,0.84,FINAL,Index point contribution quarterly,Class,Accommodation services
+1046,CPIQ.SE909600PCCA,2024.03,4.5,FINAL,Percentage contribution annual,Class,Accommodation services
+1047,CPIQ.SE909600PCCP,2024.03,10.6,FINAL,Percentage contribution quarterly,Class,Accommodation services
+1048,CPIQ.SE909600PPCA,2024.03,0.18,FINAL,Percentage points contribution annual,Class,Accommodation services
+1049,CPIQ.SE909600PPCP,2024.03,0.064,FINAL,Percentage points contribution quarterly,Class,Accommodation services
+1050,CPIQ.SE909601,2024.03,1931.0,FINAL,Main CPI,Class,Domestic accommodation services
+1051,CPIQ.SE909602,2024.03,1562.0,FINAL,Main CPI,Class,Overseas accommodation prepaid in New Zealand
+1052,CPIQ.SE9096IPCA,2024.03,3.39,FINAL,Index point contribution annual,Subgroup,Accommodation services
+1053,CPIQ.SE9096IPCP,2024.03,2.4,FINAL,Index point contribution quarterly,Subgroup,Accommodation services
+1054,CPIQ.SE9096PCCA,2024.03,6.9,FINAL,Percentage contribution annual,Subgroup,Accommodation services
+1055,CPIQ.SE9096PCCP,2024.03,30.1,FINAL,Percentage contribution quarterly,Subgroup,Accommodation services
+1056,CPIQ.SE9096PPCA,2024.03,0.276,FINAL,Percentage points contribution annual,Subgroup,Accommodation services
+1057,CPIQ.SE9096PPCP,2024.03,0.181,FINAL,Percentage points contribution quarterly,Subgroup,Accommodation services
+1058,CPIQ.SE909IPCA,2024.03,6.4,FINAL,Index point contribution annual,Group,Recreation and culture
+1059,CPIQ.SE909IPCP,2024.03,2.88,FINAL,Index point contribution quarterly,Group,Recreation and culture
+1060,CPIQ.SE909PCCA,2024.03,13.0,FINAL,Percentage contribution annual,Group,Recreation and culture
+1061,CPIQ.SE909PCCP,2024.03,36.2,FINAL,Percentage contribution quarterly,Group,Recreation and culture
+1062,CPIQ.SE909PPCA,2024.03,0.521,FINAL,Percentage points contribution annual,Group,Recreation and culture
+1063,CPIQ.SE909PPCP,2024.03,0.217,FINAL,Percentage points contribution quarterly,Group,Recreation and culture
+1064,CPIQ.SE910,2024.03,1119.0,FINAL,Main CPI,Group,Education
+1065,CPIQ.SE9101,2024.03,1192.0,FINAL,Main CPI,Subgroup,Early childhood education
+1066,CPIQ.SE910100,2024.03,1192.0,FINAL,Main CPI,Class,Early childhood education
+1067,CPIQ.SE910100IPCA,2024.03,0.24,FINAL,Index point contribution annual,Class,Early childhood education
+1068,CPIQ.SE910100IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Class,Early childhood education
+1069,CPIQ.SE910100PCCA,2024.03,0.5,FINAL,Percentage contribution annual,Class,Early childhood education
+1070,CPIQ.SE910100PCCP,2024.03,0.0,FINAL,Percentage contribution quarterly,Class,Early childhood education
+1071,CPIQ.SE910100PPCA,2024.03,0.02,FINAL,Percentage points contribution annual,Class,Early childhood education
+1072,CPIQ.SE910100PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Early childhood education
+1073,CPIQ.SE9101IPCA,2024.03,0.24,FINAL,Index point contribution annual,Subgroup,Early childhood education
+1074,CPIQ.SE9101IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Subgroup,Early childhood education
+1075,CPIQ.SE9101PCCA,2024.03,0.5,FINAL,Percentage contribution annual,Subgroup,Early childhood education
+1076,CPIQ.SE9101PCCP,2024.03,0.0,FINAL,Percentage contribution quarterly,Subgroup,Early childhood education
+1077,CPIQ.SE9101PPCA,2024.03,0.02,FINAL,Percentage points contribution annual,Subgroup,Early childhood education
+1078,CPIQ.SE9101PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Subgroup,Early childhood education
+1079,CPIQ.SE9102,2024.03,1247.0,FINAL,Main CPI,Subgroup,Primary and secondary education
+1080,CPIQ.SE910200,2024.03,1247.0,FINAL,Main CPI,Class,Primary and secondary education
+1081,CPIQ.SE910200IPCA,2024.03,0.42,FINAL,Index point contribution annual,Class,Primary and secondary education
+1082,CPIQ.SE910200IPCP,2024.03,0.42,FINAL,Index point contribution quarterly,Class,Primary and secondary education
+1083,CPIQ.SE910200PCCA,2024.03,0.9,FINAL,Percentage contribution annual,Class,Primary and secondary education
+1084,CPIQ.SE910200PCCP,2024.03,5.3,FINAL,Percentage contribution quarterly,Class,Primary and secondary education
+1085,CPIQ.SE910200PPCA,2024.03,0.035,FINAL,Percentage points contribution annual,Class,Primary and secondary education
+1086,CPIQ.SE910200PPCP,2024.03,0.032,FINAL,Percentage points contribution quarterly,Class,Primary and secondary education
+1087,CPIQ.SE9102IPCA,2024.03,0.42,FINAL,Index point contribution annual,Subgroup,Primary and secondary education
+1088,CPIQ.SE9102IPCP,2024.03,0.42,FINAL,Index point contribution quarterly,Subgroup,Primary and secondary education
+1089,CPIQ.SE9102PCCA,2024.03,0.9,FINAL,Percentage contribution annual,Subgroup,Primary and secondary education
+1090,CPIQ.SE9102PCCP,2024.03,5.3,FINAL,Percentage contribution quarterly,Subgroup,Primary and secondary education
+1091,CPIQ.SE9102PPCA,2024.03,0.035,FINAL,Percentage points contribution annual,Subgroup,Primary and secondary education
+1092,CPIQ.SE9102PPCP,2024.03,0.032,FINAL,Percentage points contribution quarterly,Subgroup,Primary and secondary education
+1093,CPIQ.SE9103,2024.03,983.0,FINAL,Main CPI,Subgroup,Tertiary and other post school education
+1094,CPIQ.SE910300,2024.03,983.0,FINAL,Main CPI,Class,Tertiary and other post school education
+1095,CPIQ.SE910300IPCA,2024.03,0.35,FINAL,Index point contribution annual,Class,Tertiary and other post school education
+1096,CPIQ.SE910300IPCP,2024.03,0.35,FINAL,Index point contribution quarterly,Class,Tertiary and other post school education
+1097,CPIQ.SE910300PCCA,2024.03,0.7,FINAL,Percentage contribution annual,Class,Tertiary and other post school education
+1098,CPIQ.SE910300PCCP,2024.03,4.4,FINAL,Percentage contribution quarterly,Class,Tertiary and other post school education
+1099,CPIQ.SE910300PPCA,2024.03,0.028,FINAL,Percentage points contribution annual,Class,Tertiary and other post school education
+1100,CPIQ.SE910300PPCP,2024.03,0.026,FINAL,Percentage points contribution quarterly,Class,Tertiary and other post school education
+1101,CPIQ.SE9103IPCA,2024.03,0.35,FINAL,Index point contribution annual,Subgroup,Tertiary and other post school education
+1102,CPIQ.SE9103IPCP,2024.03,0.35,FINAL,Index point contribution quarterly,Subgroup,Tertiary and other post school education
+1103,CPIQ.SE9103PCCA,2024.03,0.7,FINAL,Percentage contribution annual,Subgroup,Tertiary and other post school education
+1104,CPIQ.SE9103PCCP,2024.03,4.4,FINAL,Percentage contribution quarterly,Subgroup,Tertiary and other post school education
+1105,CPIQ.SE9103PPCA,2024.03,0.028,FINAL,Percentage points contribution annual,Subgroup,Tertiary and other post school education
+1106,CPIQ.SE9103PPCP,2024.03,0.026,FINAL,Percentage points contribution quarterly,Subgroup,Tertiary and other post school education
+1107,CPIQ.SE9104,2024.03,1169.0,FINAL,Main CPI,Subgroup,Other educational fees
+1108,CPIQ.SE910400,2024.03,1169.0,FINAL,Main CPI,Class,Other educational fees
+1109,CPIQ.SE910400IPCA,2024.03,0.01,FINAL,Index point contribution annual,Class,Other educational fees
+1110,CPIQ.SE910400IPCP,2024.03,0.01,FINAL,Index point contribution quarterly,Class,Other educational fees
+1111,CPIQ.SE910400PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Class,Other educational fees
+1112,CPIQ.SE910400PCCP,2024.03,0.1,FINAL,Percentage contribution quarterly,Class,Other educational fees
+1113,CPIQ.SE910400PPCA,2024.03,0.001,FINAL,Percentage points contribution annual,Class,Other educational fees
+1114,CPIQ.SE910400PPCP,2024.03,0.001,FINAL,Percentage points contribution quarterly,Class,Other educational fees
+1115,CPIQ.SE9104IPCA,2024.03,0.01,FINAL,Index point contribution annual,Subgroup,Other educational fees
+1116,CPIQ.SE9104IPCP,2024.03,0.01,FINAL,Index point contribution quarterly,Subgroup,Other educational fees
+1117,CPIQ.SE9104PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Subgroup,Other educational fees
+1118,CPIQ.SE9104PCCP,2024.03,0.1,FINAL,Percentage contribution quarterly,Subgroup,Other educational fees
+1119,CPIQ.SE9104PPCA,2024.03,0.001,FINAL,Percentage points contribution annual,Subgroup,Other educational fees
+1120,CPIQ.SE9104PPCP,2024.03,0.001,FINAL,Percentage points contribution quarterly,Subgroup,Other educational fees
+1121,CPIQ.SE910IPCA,2024.03,1.02,FINAL,Index point contribution annual,Group,Education
+1122,CPIQ.SE910IPCP,2024.03,0.78,FINAL,Index point contribution quarterly,Group,Education
+1123,CPIQ.SE910PCCA,2024.03,2.1,FINAL,Percentage contribution annual,Group,Education
+1124,CPIQ.SE910PCCP,2024.03,9.8,FINAL,Percentage contribution quarterly,Group,Education
+1125,CPIQ.SE910PPCA,2024.03,0.083,FINAL,Percentage points contribution annual,Group,Education
+1126,CPIQ.SE910PPCP,2024.03,0.059,FINAL,Percentage points contribution quarterly,Group,Education
+1127,CPIQ.SE911,2024.03,1280.0,FINAL,Main CPI,Group,Miscellaneous goods and services
+1128,CPIQ.SE9111,2024.03,1189.0,FINAL,Main CPI,Subgroup,Personal care
+1129,CPIQ.SE911101,2024.03,1276.0,FINAL,Main CPI,Class,Hairdressing and personal grooming services
+1130,CPIQ.SE911101IPCA,2024.03,0.41,FINAL,Index point contribution annual,Class,Hairdressing and personal grooming services
+1131,CPIQ.SE911101IPCP,2024.03,0.09,FINAL,Index point contribution quarterly,Class,Hairdressing and personal grooming services
+1132,CPIQ.SE911101PCCA,2024.03,0.8,FINAL,Percentage contribution annual,Class,Hairdressing and personal grooming services
+1133,CPIQ.SE911101PCCP,2024.03,1.1,FINAL,Percentage contribution quarterly,Class,Hairdressing and personal grooming services
+1134,CPIQ.SE911101PPCA,2024.03,0.033,FINAL,Percentage points contribution annual,Class,Hairdressing and personal grooming services
+1135,CPIQ.SE911101PPCP,2024.03,0.007,FINAL,Percentage points contribution quarterly,Class,Hairdressing and personal grooming services
+1136,CPIQ.SE911102,2024.03,965.0,FINAL,Main CPI,Class,Electrical appliances for personal care
+1137,CPIQ.SE911102IPCA,2024.03,0.05,FINAL,Index point contribution annual,Class,Electrical appliances for personal care
+1138,CPIQ.SE911102IPCP,2024.03,-0.02,FINAL,Index point contribution quarterly,Class,Electrical appliances for personal care
+1139,CPIQ.SE911102PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Class,Electrical appliances for personal care
+1140,CPIQ.SE911102PCCP,2024.03,-0.3,FINAL,Percentage contribution quarterly,Class,Electrical appliances for personal care
+1141,CPIQ.SE911102PPCA,2024.03,0.004,FINAL,Percentage points contribution annual,Class,Electrical appliances for personal care
+1142,CPIQ.SE911102PPCP,2024.03,-0.002,FINAL,Percentage points contribution quarterly,Class,Electrical appliances for personal care
+1143,CPIQ.SE911103,2024.03,1138.0,FINAL,Main CPI,Class,"Other appliances, articles and products for person"
+1144,CPIQ.SE911103IPCA,2024.03,-0.04,FINAL,Index point contribution annual,Class,"Other appliances, articles and products for person"
+1145,CPIQ.SE911103IPCP,2024.03,0.01,FINAL,Index point contribution quarterly,Class,"Other appliances, articles and products for person"
+1146,CPIQ.SE911103PCCA,2024.03,-0.1,FINAL,Percentage contribution annual,Class,"Other appliances, articles and products for person"
+1147,CPIQ.SE911103PCCP,2024.03,0.2,FINAL,Percentage contribution quarterly,Class,"Other appliances, articles and products for person"
+1148,CPIQ.SE911103PPCA,2024.03,-0.003,FINAL,Percentage points contribution annual,Class,"Other appliances, articles and products for person"
+1149,CPIQ.SE911103PPCP,2024.03,0.001,FINAL,Percentage points contribution quarterly,Class,"Other appliances, articles and products for person"
+1150,CPIQ.SE9111IPCA,2024.03,0.43,FINAL,Index point contribution annual,Subgroup,Personal care
+1151,CPIQ.SE9111IPCP,2024.03,0.08,FINAL,Index point contribution quarterly,Subgroup,Personal care
+1152,CPIQ.SE9111PCCA,2024.03,0.9,FINAL,Percentage contribution annual,Subgroup,Personal care
+1153,CPIQ.SE9111PCCP,2024.03,1.0,FINAL,Percentage contribution quarterly,Subgroup,Personal care
+1154,CPIQ.SE9111PPCA,2024.03,0.035,FINAL,Percentage points contribution annual,Subgroup,Personal care
+1155,CPIQ.SE9111PPCP,2024.03,0.006,FINAL,Percentage points contribution quarterly,Subgroup,Personal care
+1156,CPIQ.SE9113,2024.03,1165.0,FINAL,Main CPI,Subgroup,Personal effects
+1157,CPIQ.SE911301,2024.03,1307.0,FINAL,Main CPI,Class,Jewellery and watches
+1158,CPIQ.SE911301IPCA,2024.03,0.12,FINAL,Index point contribution annual,Class,Jewellery and watches
+1159,CPIQ.SE911301IPCP,2024.03,0.05,FINAL,Index point contribution quarterly,Class,Jewellery and watches
+1160,CPIQ.SE911301PCCA,2024.03,0.2,FINAL,Percentage contribution annual,Class,Jewellery and watches
+1161,CPIQ.SE911301PCCP,2024.03,0.7,FINAL,Percentage contribution quarterly,Class,Jewellery and watches
+1162,CPIQ.SE911301PPCA,2024.03,0.01,FINAL,Percentage points contribution annual,Class,Jewellery and watches
+1163,CPIQ.SE911301PPCP,2024.03,0.004,FINAL,Percentage points contribution quarterly,Class,Jewellery and watches
+1164,CPIQ.SE911302,2024.03,991.0,FINAL,Main CPI,Class,Other personal effects
+1165,CPIQ.SE911302IPCA,2024.03,0.01,FINAL,Index point contribution annual,Class,Other personal effects
+1166,CPIQ.SE911302IPCP,2024.03,-0.02,FINAL,Index point contribution quarterly,Class,Other personal effects
+1167,CPIQ.SE911302PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Class,Other personal effects
+1168,CPIQ.SE911302PCCP,2024.03,-0.3,FINAL,Percentage contribution quarterly,Class,Other personal effects
+1169,CPIQ.SE911302PPCA,2024.03,0.001,FINAL,Percentage points contribution annual,Class,Other personal effects
+1170,CPIQ.SE911302PPCP,2024.03,-0.002,FINAL,Percentage points contribution quarterly,Class,Other personal effects
+1171,CPIQ.SE9113IPCA,2024.03,0.13,FINAL,Index point contribution annual,Subgroup,Personal effects
+1172,CPIQ.SE9113IPCP,2024.03,0.03,FINAL,Index point contribution quarterly,Subgroup,Personal effects
+1173,CPIQ.SE9113PCCA,2024.03,0.3,FINAL,Percentage contribution annual,Subgroup,Personal effects
+1174,CPIQ.SE9113PCCP,2024.03,0.4,FINAL,Percentage contribution quarterly,Subgroup,Personal effects
+1175,CPIQ.SE9113PPCA,2024.03,0.01,FINAL,Percentage points contribution annual,Subgroup,Personal effects
+1176,CPIQ.SE9113PPCP,2024.03,0.002,FINAL,Percentage points contribution quarterly,Subgroup,Personal effects
+1177,CPIQ.SE9114,2024.03,1411.0,FINAL,Main CPI,Subgroup,Insurance
+1178,CPIQ.SE911401,2024.03,1053.0,FINAL,Main CPI,Class,Life insurance
+1179,CPIQ.SE911401IPCA,2024.03,-0.04,FINAL,Index point contribution annual,Class,Life insurance
+1180,CPIQ.SE911401IPCP,2024.03,-0.05,FINAL,Index point contribution quarterly,Class,Life insurance
+1181,CPIQ.SE911401PCCA,2024.03,-0.1,FINAL,Percentage contribution annual,Class,Life insurance
+1182,CPIQ.SE911401PCCP,2024.03,-0.6,FINAL,Percentage contribution quarterly,Class,Life insurance
+1183,CPIQ.SE911401PPCA,2024.03,-0.003,FINAL,Percentage points contribution annual,Class,Life insurance
+1184,CPIQ.SE911401PPCP,2024.03,-0.003,FINAL,Percentage points contribution quarterly,Class,Life insurance
+1185,CPIQ.SE911402,2024.03,1819.0,FINAL,Main CPI,Class,Dwelling insurance
+1186,CPIQ.SE911402IPCA,2024.03,2.14,FINAL,Index point contribution annual,Class,Dwelling insurance
+1187,CPIQ.SE911402IPCP,2024.03,0.59,FINAL,Index point contribution quarterly,Class,Dwelling insurance
+1188,CPIQ.SE911402PCCA,2024.03,4.4,FINAL,Percentage contribution annual,Class,Dwelling insurance
+1189,CPIQ.SE911402PCCP,2024.03,7.4,FINAL,Percentage contribution quarterly,Class,Dwelling insurance
+1190,CPIQ.SE911402PPCA,2024.03,0.174,FINAL,Percentage points contribution annual,Class,Dwelling insurance
+1191,CPIQ.SE911402PPCP,2024.03,0.045,FINAL,Percentage points contribution quarterly,Class,Dwelling insurance
+1192,CPIQ.SE911403,2024.03,1663.0,FINAL,Main CPI,Class,Contents insurance
+1193,CPIQ.SE911403IPCA,2024.03,0.8,FINAL,Index point contribution annual,Class,Contents insurance
+1194,CPIQ.SE911403IPCP,2024.03,0.22,FINAL,Index point contribution quarterly,Class,Contents insurance
+1195,CPIQ.SE911403PCCA,2024.03,1.6,FINAL,Percentage contribution annual,Class,Contents insurance
+1196,CPIQ.SE911403PCCP,2024.03,2.8,FINAL,Percentage contribution quarterly,Class,Contents insurance
+1197,CPIQ.SE911403PPCA,2024.03,0.065,FINAL,Percentage points contribution annual,Class,Contents insurance
+1198,CPIQ.SE911403PPCP,2024.03,0.017,FINAL,Percentage points contribution quarterly,Class,Contents insurance
+1199,CPIQ.SE911404,2024.03,1539.0,FINAL,Main CPI,Class,Health insurance
+1200,CPIQ.SE911404IPCA,2024.03,0.23,FINAL,Index point contribution annual,Class,Health insurance
+1201,CPIQ.SE911404IPCP,2024.03,0.07,FINAL,Index point contribution quarterly,Class,Health insurance
+1202,CPIQ.SE911404PCCA,2024.03,0.5,FINAL,Percentage contribution annual,Class,Health insurance
+1203,CPIQ.SE911404PCCP,2024.03,0.9,FINAL,Percentage contribution quarterly,Class,Health insurance
+1204,CPIQ.SE911404PPCA,2024.03,0.018,FINAL,Percentage points contribution annual,Class,Health insurance
+1205,CPIQ.SE911404PPCP,2024.03,0.005,FINAL,Percentage points contribution quarterly,Class,Health insurance
+1206,CPIQ.SE911405,2024.03,1604.0,FINAL,Main CPI,Class,Vehicle insurance
+1207,CPIQ.SE911405IPCA,2024.03,1.73,FINAL,Index point contribution annual,Class,Vehicle insurance
+1208,CPIQ.SE911405IPCP,2024.03,0.54,FINAL,Index point contribution quarterly,Class,Vehicle insurance
+1209,CPIQ.SE911405PCCA,2024.03,3.5,FINAL,Percentage contribution annual,Class,Vehicle insurance
+1210,CPIQ.SE911405PCCP,2024.03,6.8,FINAL,Percentage contribution quarterly,Class,Vehicle insurance
+1211,CPIQ.SE911405PPCA,2024.03,0.141,FINAL,Percentage points contribution annual,Class,Vehicle insurance
+1212,CPIQ.SE911405PPCP,2024.03,0.041,FINAL,Percentage points contribution quarterly,Class,Vehicle insurance
+1213,CPIQ.SE9114IPCA,2024.03,4.85,FINAL,Index point contribution annual,Subgroup,Insurance
+1214,CPIQ.SE9114IPCP,2024.03,1.37,FINAL,Index point contribution quarterly,Subgroup,Insurance
+1215,CPIQ.SE9114PCCA,2024.03,9.9,FINAL,Percentage contribution annual,Subgroup,Insurance
+1216,CPIQ.SE9114PCCP,2024.03,17.3,FINAL,Percentage contribution quarterly,Subgroup,Insurance
+1217,CPIQ.SE9114PPCA,2024.03,0.395,FINAL,Percentage points contribution annual,Subgroup,Insurance
+1218,CPIQ.SE9114PPCP,2024.03,0.104,FINAL,Percentage points contribution quarterly,Subgroup,Insurance
+1219,CPIQ.SE9115,2024.03,776.0,FINAL,Main CPI,Subgroup,Credit services
+1220,CPIQ.SE911501,2024.03,776.0,FINAL,Main CPI,Class,Direct credit service charges
+1221,CPIQ.SE911501IPCA,2024.03,0.0,FINAL,Index point contribution annual,Class,Direct credit service charges
+1222,CPIQ.SE911501IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Class,Direct credit service charges
+1223,CPIQ.SE911501PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Class,Direct credit service charges
+1224,CPIQ.SE911501PCCP,2024.03,0.0,FINAL,Percentage contribution quarterly,Class,Direct credit service charges
+1225,CPIQ.SE911501PPCA,2024.03,0.0,FINAL,Percentage points contribution annual,Class,Direct credit service charges
+1226,CPIQ.SE911501PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Direct credit service charges
+1227,CPIQ.SE9115IPCA,2024.03,0.0,FINAL,Index point contribution annual,Subgroup,Credit services
+1228,CPIQ.SE9115IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Subgroup,Credit services
+1229,CPIQ.SE9115PCCA,2024.03,0.0,FINAL,Percentage contribution annual,Subgroup,Credit services
+1230,CPIQ.SE9115PCCP,2024.03,0.0,FINAL,Percentage contribution quarterly,Subgroup,Credit services
+1231,CPIQ.SE9115PPCA,2024.03,0.0,FINAL,Percentage points contribution annual,Subgroup,Credit services
+1232,CPIQ.SE9115PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Subgroup,Credit services
+1233,CPIQ.SE9116,2024.03,1282.0,FINAL,Main CPI,Subgroup,Other miscellaneous services
+1234,CPIQ.SE911601,2024.03,1120.0,FINAL,Main CPI,Class,Vocational services
+1235,CPIQ.SE911601IPCA,2024.03,0.05,FINAL,Index point contribution annual,Class,Vocational services
+1236,CPIQ.SE911601IPCP,2024.03,0.0,FINAL,Index point contribution quarterly,Class,Vocational services
+1237,CPIQ.SE911601PCCA,2024.03,0.1,FINAL,Percentage contribution annual,Class,Vocational services
+1238,CPIQ.SE911601PCCP,2024.03,0.0,FINAL,Percentage contribution quarterly,Class,Vocational services
+1239,CPIQ.SE911601PPCA,2024.03,0.004,FINAL,Percentage points contribution annual,Class,Vocational services
+1240,CPIQ.SE911601PPCP,2024.03,0.0,FINAL,Percentage points contribution quarterly,Class,Vocational services
+1241,CPIQ.SE911602,2024.03,1426.0,FINAL,Main CPI,Class,Professional services
+1242,CPIQ.SE911602IPCA,2024.03,0.09,FINAL,Index point contribution annual,Class,Professional services
+1243,CPIQ.SE911602IPCP,2024.03,0.02,FINAL,Index point contribution quarterly,Class,Professional services
+1244,CPIQ.SE911602PCCA,2024.03,0.2,FINAL,Percentage contribution annual,Class,Professional services
+1245,CPIQ.SE911602PCCP,2024.03,0.3,FINAL,Percentage contribution quarterly,Class,Professional services
+1246,CPIQ.SE911602PPCA,2024.03,0.008,FINAL,Percentage points contribution annual,Class,Professional services
+1247,CPIQ.SE911602PPCP,2024.03,0.002,FINAL,Percentage points contribution quarterly,Class,Professional services
+1248,CPIQ.SE911603,2024.03,1332.0,FINAL,Main CPI,Class,Real estate services
+1249,CPIQ.SE911603IPCA,2024.03,0.08,FINAL,Index point contribution annual,Class,Real estate services
+1250,CPIQ.SE911603IPCP,2024.03,0.27,FINAL,Index point contribution quarterly,Class,Real estate services
+1251,CPIQ.SE911603PCCA,2024.03,0.2,FINAL,Percentage contribution annual,Class,Real estate services
+1252,CPIQ.SE911603PCCP,2024.03,3.4,FINAL,Percentage contribution quarterly,Class,Real estate services
+1253,CPIQ.SE911603PPCA,2024.03,0.007,FINAL,Percentage points contribution annual,Class,Real estate services
+1254,CPIQ.SE911603PPCP,2024.03,0.02,FINAL,Percentage points contribution quarterly,Class,Real estate services
+1255,CPIQ.SE911604,2024.03,1177.0,FINAL,Main CPI,Class,Other miscellaneous services nec
+1256,CPIQ.SE911604IPCA,2024.03,0.21,FINAL,Index point contribution annual,Class,Other miscellaneous services nec
+1257,CPIQ.SE911604IPCP,2024.03,0.04,FINAL,Index point contribution quarterly,Class,Other miscellaneous services nec
+1258,CPIQ.SE911604PCCA,2024.03,0.4,FINAL,Percentage contribution annual,Class,Other miscellaneous services nec
+1259,CPIQ.SE911604PCCP,2024.03,0.4,FINAL,Percentage contribution quarterly,Class,Other miscellaneous services nec
+1260,CPIQ.SE911604PPCA,2024.03,0.017,FINAL,Percentage points contribution annual,Class,Other miscellaneous services nec
+1261,CPIQ.SE911604PPCP,2024.03,0.003,FINAL,Percentage points contribution quarterly,Class,Other miscellaneous services nec
+1262,CPIQ.SE9116IPCA,2024.03,0.44,FINAL,Index point contribution annual,Subgroup,Other miscellaneous services
+1263,CPIQ.SE9116IPCP,2024.03,0.33,FINAL,Index point contribution quarterly,Subgroup,Other miscellaneous services
+1264,CPIQ.SE9116PCCA,2024.03,0.9,FINAL,Percentage contribution annual,Subgroup,Other miscellaneous services
+1265,CPIQ.SE9116PCCP,2024.03,4.1,FINAL,Percentage contribution quarterly,Subgroup,Other miscellaneous services
+1266,CPIQ.SE9116PPCA,2024.03,0.036,FINAL,Percentage points contribution annual,Subgroup,Other miscellaneous services
+1267,CPIQ.SE9116PPCP,2024.03,0.025,FINAL,Percentage points contribution quarterly,Subgroup,Other miscellaneous services
+1268,CPIQ.SE911IPCA,2024.03,5.84,FINAL,Index point contribution annual,Group,Miscellaneous goods and services
+1269,CPIQ.SE911IPCP,2024.03,1.81,FINAL,Index point contribution quarterly,Group,Miscellaneous goods and services
+1270,CPIQ.SE911PCCA,2024.03,11.9,FINAL,Percentage contribution annual,Group,Miscellaneous goods and services
+1271,CPIQ.SE911PCCP,2024.03,22.8,FINAL,Percentage contribution quarterly,Group,Miscellaneous goods and services
+1272,CPIQ.SE911PPCA,2024.03,0.475,FINAL,Percentage points contribution annual,Group,Miscellaneous goods and services
+1273,CPIQ.SE911PPCP,2024.03,0.137,FINAL,Percentage points contribution quarterly,Group,Miscellaneous goods and services
+1274,CPIQ.SE9A,2024.03,1267.0,FINAL,Main CPI,All Groups,All Groups
+1275,CPIQ.SE9AAC,2024.03,4.0,FINAL,Annual percentage change,All groups,All groups
+1276,CPIQ.SE9AIPCA,2024.03,49.17,FINAL,Index point contribution annual,All groups,All groups
+1277,CPIQ.SE9AIPCP,2024.03,7.95,FINAL,Index point contribution quarterly,All groups,All groups
+1278,CPIQ.SE9APC,2024.03,0.6,FINAL,Quarterly percentage change,All groups,All groups
+1279,CPIQ.SE9APCCA,2024.03,100.0,FINAL,Percentage contribution annual,All groups,All groups
+1280,CPIQ.SE9APCCP,2024.03,100.0,FINAL,Percentage contribution quarterly,All groups,All groups
+1281,CPIQ.SE9APPCA,2024.03,4.036,FINAL,Percentage points contribution annual,All groups,All groups
+1282,CPIQ.SE9APPCP,2024.03,0.632,FINAL,Percentage points contribution quarterly,All groups,All groups
+1283,CPIQ.SE9DNDC,2024.03,-0.9,FINAL,Distribution of national item-level index movements,,Decrease in price percentage points contribution
+1284,CPIQ.SE9DNDE,2024.03,22.7,FINAL,Distribution of national item-level index movements,,Decrease in price percentage of expenditure weight
+1285,CPIQ.SE9DNDI,2024.03,-11.5,FINAL,Distribution of national item-level index movements,,Decrease in price Index points contribution
+1286,CPIQ.SE9DNDN,2024.03,200.0,FINAL,Distribution of national item-level index movements,,Decrease in price number of items
+1287,CPIQ.SE9DNDP,2024.03,30.8,FINAL,Distribution of national item-level index movements,,Decrease in price percentage of items
+1288,CPIQ.SE9DNDW,2024.03,4.0,FINAL,Distribution of national item-level index movements,,Decrease in price weighted average price increase
+1289,CPIQ.SE9DNIC,2024.03,1.5,FINAL,Distribution of national item-level index movements,,Increase in price percentage points contribution
+1290,CPIQ.SE9DNIE,2024.03,68.8,FINAL,Distribution of national item-level index movements,,Increase in price percentage of expenditure weight
+1291,CPIQ.SE9DNII,2024.03,19.4,FINAL,Distribution of national item-level index movements,,Increase in price Index points contribution
+1292,CPIQ.SE9DNIN,2024.03,357.0,FINAL,Distribution of national item-level index movements,,Increase in price number of items
+1293,CPIQ.SE9DNIP,2024.03,55.0,FINAL,Distribution of national item-level index movements,,Increase in price percentage of items
+1294,CPIQ.SE9DNIW,2024.03,2.2,FINAL,Distribution of national item-level index movements,,Increase in price weighted average price increase
+1295,CPIQ.SE9DNNE,2024.03,8.5,FINAL,Distribution of national item-level index movements,,No change in price percentage of expenditure weight
+1296,CPIQ.SE9DNNN,2024.03,92.0,FINAL,Distribution of national item-level index movements,,No change in price number of items
+1297,CPIQ.SE9DNNP,2024.03,14.2,FINAL,Distribution of national item-level index movements,,No change in price percentage of items
+1298,CPIQ.SE9NS1010,2024.03,1703.0,FINAL,Non-standard series,,All groups less housing
+1299,CPIQ.SE9NS1080,2024.03,1269.0,FINAL,Non-standard series,,All groups less credit services subgroup
+1300,CPIQ.SE9NS1120,2024.03,1272.0,FINAL,Non-standard series,,All groups less central and local government charges(1)
+1301,CPIQ.SE9NS1130,2024.03,1263.0,FINAL,Non-standard series,,All groups  goods component(1)
+1302,CPIQ.SE9NS1140,2024.03,1272.0,FINAL,Non-standard series,,All groups  services component(1)
+1303,CPIQ.SE9NS1150,2024.03,1266.0,FINAL,Non-standard series,,All groups plus interest
+1304,CPIQ.SE9NS1160,2024.03,1267.0,FINAL,Non-standard series,,All groups CPI - seasonally unadjusted
+1305,CPIQ.SE9NS1200,2024.03,1263.0,FINAL,Non-standard series,,All groups less food group
+1306,CPIQ.SE9NS1210,2024.03,1258.0,FINAL,Non-standard series,,All groups less alcoholic beverages and tobacco group
+1307,CPIQ.SE9NS1220,2024.03,1276.0,FINAL,Non-standard series,,All groups less clothing and footwear group
+1308,CPIQ.SE9NS1230,2024.03,1237.0,FINAL,Non-standard series,,All groups less housing and household utilities group
+1309,CPIQ.SE9NS1240,2024.03,1272.0,FINAL,Non-standard series,,All groups less household contents and services group
+1310,CPIQ.SE9NS1250,2024.03,1271.0,FINAL,Non-standard series,,All groups less health group
+1311,CPIQ.SE9NS1260,2024.03,1269.0,FINAL,Non-standard series,,All groups less transport group
+1312,CPIQ.SE9NS1270,2024.03,1281.0,FINAL,Non-standard series,,All groups less communication group
+1313,CPIQ.SE9NS1280,2024.03,1270.0,FINAL,Non-standard series,,All groups less recreation and culture group
+1314,CPIQ.SE9NS1290,2024.03,1271.0,FINAL,Non-standard series,,All groups less education group
+1315,CPIQ.SE9NS1300,2024.03,1266.0,FINAL,Non-standard series,,All groups less miscellaneous goods and services group
+1316,CPIQ.SE9NS1310,2024.03,1238.0,FINAL,Non-standard series,,All groups less housing and household utilities group and credit services subgroup
+1317,CPIQ.SE9NS1400,2024.03,1245.0,FINAL,Non-standard series,,All groups less purchase of new housing class
+1318,CPIQ.SE9NS1410,2024.03,1263.0,FINAL,Non-standard series,,All groups less household energy subgroup and vehicle fuels(2)
+1319,CPIQ.SE9NS1420,2024.03,1258.0,FINAL,Non-standard series,,All groups less vehicle fuels(2)
+1320,CPIQ.SE9NS1430,2024.03,1252.0,FINAL,Non-standard series,,All groups less food group and vehicle fuels
+1321,CPIQ.SE9NS1440,2024.03,1260.0,FINAL,Non-standard series,,All groups less petrol class
+1322,CPIQ.SE9NS1450,2024.03,1257.0,FINAL,Non-standard series,,"All groups less food group, household energy subgroup, and"
+1323,CPIQ.SE9NS1460,2024.03,1267.0,FINAL,Non-standard series,,All groups less International travel
+1324,CPIQ.SE9NS1470,2024.03,1270.0,FINAL,Non-standard series,,All groups less alcoholic beverages subgroup
+1325,CPIQ.SE9NS1480,2024.03,1256.0,FINAL,Non-standard series,,All groups less cigarettes and tobacco subgroup
+1326,CPIQ.SE9NS1500,2024.03,1269.0,FINAL,Non-standard series,,All groups less rentals for housing subgroup
+1327,CPIQ.SE9NS1510,2024.03,1255.0,FINAL,Non-standard series,,"All groups less food group, household energy subgroup, vehicle fuels, & government charges"
+1328,CPIQ.SE9NS2000,2024.03,1257.0,FINAL,Non-standard series,,Food and non-alcoholic beverages
+1329,CPIQ.SE9NS2010,2024.03,1419.0,FINAL,Non-standard series,,"Alcoholic beverages, tobacco, and narcotics"
+1330,CPIQ.SE9NS2020,2024.03,1077.0,FINAL,Non-standard series,,Clothing and footwear
+1331,CPIQ.SE9NS2030,2024.03,1357.0,FINAL,Non-standard series,,"Housing, water, electricity, gas, and other fuels"
+1332,CPIQ.SE9NS2040,2024.03,1151.0,FINAL,Non-standard series,,"Furnishings, household equipment, and"
+1333,CPIQ.SE9NS2050,2024.03,1189.0,FINAL,Non-standard series,,Health
+1334,CPIQ.SE9NS2060,2024.03,1271.0,FINAL,Non-standard series,,Transport
+1335,CPIQ.SE9NS2070,2024.03,898.0,FINAL,Non-standard series,,Communication
+1336,CPIQ.SE9NS2080,2024.03,1146.0,FINAL,Non-standard series,,Recreation and culture
+1337,CPIQ.SE9NS2090,2024.03,1119.0,FINAL,Non-standard series,,Education
+1338,CPIQ.SE9NS2100,2024.03,1418.0,FINAL,Non-standard series,,Restaurants and hotels
+1339,CPIQ.SE9NS2110,2024.03,1280.0,FINAL,Non-standard series,,Miscellaneous goods and services
+1340,CPIQ.SE9NS2120,2024.03,1488.0,FINAL,Non-standard series,,Fuels and lubricants for personal transport
+1341,CPIQ.SE9NS3200,2024.03,1265.0,FINAL,Non-standard series,,Interest
+1342,CPIQ.SE9NS3220,2024.03,1264.0,FINAL,Non-standard series,,Mortgage interest
+1343,CPIQ.SE9NS3260,2024.03,1205.0,FINAL,Non-standard series,,Household insurable goods
+1344,CPIQ.SE9NS3270,2024.03,1218.0,FINAL,Non-standard series,,Central and local government charges(1)
+1345,CPIQ.SE9NS3280,2024.03,1199.0,FINAL,Non-standard series,,Alcohol consumed off licensed premises
+1346,CPIQ.SE9NS3290,2024.03,1253.0,FINAL,Non-standard series,,Alcohol consumed on licensed premises
+1347,CPIQ.SE9NS3300,2024.03,1328.0,FINAL,Non-standard series,,Household energy subgroup and vehicle fuels
+1348,CPIQ.SE9NS3310,2024.03,1473.0,FINAL,Non-standard series,,International travel
+1349,CPIQ.SE9NS4000,2024.03,0.8,FINAL,Non-standard series,,Quarterly 5 percent trim
+1350,CPIQ.SE9NS4005,2024.03,0.8,FINAL,Non-standard series,,Quarterly 10 percent trim
+1351,CPIQ.SE9NS4006,2024.03,-0.8,FINAL,Non-standard series,,Quarterly 10 percent trim - Tradables
+1352,CPIQ.SE9NS4007,2024.03,1.6,FINAL,Non-standard series,,Quarterly 10 percent trim - Non Tradables
+1353,CPIQ.SE9NS4010,2024.03,0.8,FINAL,Non-standard series,,Quarterly 15 percent trim
+1354,CPIQ.SE9NS4015,2024.03,0.8,FINAL,Non-standard series,,Quarterly 20 percent trim
+1355,CPIQ.SE9NS4020,2024.03,0.7,FINAL,Non-standard series,,Quarterly 25 percent trim
+1356,CPIQ.SE9NS4025,2024.03,0.7,FINAL,Non-standard series,,Quarterly 30 percent trim
+1357,CPIQ.SE9NS4100,2024.03,-2.3,FINAL,Non-standard series,,Quarterly weighted 10th percentile
+1358,CPIQ.SE9NS4105,2024.03,0.0,FINAL,Non-standard series,,Quarterly weighted 25th percentile
+1359,CPIQ.SE9NS4110,2024.03,0.8,FINAL,Non-standard series,,Quarterly weighted median
+1360,CPIQ.SE9NS4111,2024.03,0.0,FINAL,Non-standard series,,Quarterly weighted median - Tradables
+1361,CPIQ.SE9NS4112,2024.03,1.0,FINAL,Non-standard series,,Quarterly weighted median - Non Tradables
+1362,CPIQ.SE9NS4115,2024.03,1.4,FINAL,Non-standard series,,Quarterly weighted 75th percentile
+1363,CPIQ.SE9NS4120,2024.03,5.8,FINAL,Non-standard series,,Quarterly weighted 90th percentile
+1364,CPIQ.SE9NS4C50,2024.03,4.4,FINAL,Non-standard series,,Annual 5 percent trim - June 2020 qtr weights
+1365,CPIQ.SE9NS4C55,2024.03,4.5,FINAL,Non-standard series,,Annual 10 percent trim - June 2020 qtr weights
+1366,CPIQ.SE9NS4C56,2024.03,2.0,FINAL,Non-standard series,,Annual 10 percent trim - June 2020 qtr weights - Tradables
+1367,CPIQ.SE9NS4C57,2024.03,5.6,FINAL,Non-standard series,,Annual 10 percent trim - June 2020 qtr weights - Non-Tradables
+1368,CPIQ.SE9NS4C60,2024.03,4.6,FINAL,Non-standard series,,Annual 15 percent trim - June 2020 qtr weights
+1369,CPIQ.SE9NS4C65,2024.03,4.5,FINAL,Non-standard series,,Annual 20 percent trim - June 2020 qtr weights
+1370,CPIQ.SE9NS4C70,2024.03,4.5,FINAL,Non-standard series,,Annual 25 percent trim - June 2020 qtr weights
+1371,CPIQ.SE9NS4C75,2024.03,4.5,FINAL,Non-standard series,,Annual 30 percent trim - June 2020 qtr weights
+1372,CPIQ.SE9NS4D50,2024.03,-2.0,FINAL,Non-standard series,,Annual weighted 10th percentile - June 2020 qtr weights
+1373,CPIQ.SE9NS4D55,2024.03,1.7,FINAL,Non-standard series,,Annual weighted 25th percentile - June 2020 qtr weights
+1374,CPIQ.SE9NS4D60,2024.03,4.4,FINAL,Non-standard series,,Annual weighted median - June 2020 qtr weights
+1375,CPIQ.SE9NS4D61,2024.03,1.9,FINAL,Non-standard series,,Annual weighted median - June 2020 qtr weights - Tradables
+1376,CPIQ.SE9NS4D62,2024.03,4.6,FINAL,Non-standard series,,Annual weighted median - June 2020 qtr weights - Non-Tradables
+1377,CPIQ.SE9NS4D65,2024.03,8.0,FINAL,Non-standard series,,Annual weighted 75th percentile - June 2020 qtr weights
+1378,CPIQ.SE9NS4D70,2024.03,12.3,FINAL,Non-standard series,,Annual weighted 90th percentile - June 2020 qtr weights
+1379,CPIQ.SE9NS6000,2024.03,1190.0,FINAL,Non-standard series,,Tradable All Groups
+1380,CPIQ.SE9NS6000AC,2024.03,1.6,FINAL,Non-standard series,,Tradable All Groups
+1381,CPIQ.SE9NS6000PC,2024.03,-0.7,FINAL,Non-standard series,,Tradable All Groups
+1382,CPIQ.SE9NS6010,2024.03,1156.0,FINAL,Non-standard series,,Tradables less vehicle fuels(2)(3)
+1383,CPIQ.SE9NS6020,2024.03,1170.0,FINAL,Non-standard series,,All groups tradables less food group
+1384,CPIQ.SE9NS6030,2024.03,1120.0,FINAL,Non-standard series,,All groups tradables less food group and vehicle fuels
+1385,CPIQ.SE9NS6500,2024.03,1329.0,FINAL,Non-standard series,,Non-Tradable All Groups
+1386,CPIQ.SE9NS6500AC,2024.03,5.8,FINAL,Non-standard series,,Non-Tradable All Groups
+1387,CPIQ.SE9NS6500PC,2024.03,1.6,FINAL,Non-standard series,,Non-Tradable All Groups
+1388,CPIQ.SE9NS6510,2024.03,1305.0,FINAL,Non-standard series,,Non-tradables less housing and household utilities group(4)
+1389,CPIQ.SE9NS6520,2024.03,1294.0,FINAL,Non-standard series,,Non-tradables less purchase of new housing class(4)
+1390,CPIQ.SE9NS6530,2024.03,1303.0,FINAL,Non-standard series,,"All grps non-tradables less rentals for housing, home ownership, & property maint subgrps"
+1391,CPIQ.SE9NS6570,2024.03,1352.0,FINAL,Non-standard series,,Non-tradables less central and local government charges(4)
+1392,CPIQ.SE9NS6580,2024.03,1311.0,FINAL,Non-standard series,,Non-tradables less cigarettes and tobacco subgroup(4)
+1393,CPIQ.SE9NS6590,2024.03,1336.0,FINAL,Non-standard series,,Non-tradables less central and local government charges and
+1394,CPIQ.SE9NS8101,2024.03,1341.0,FINAL,Non-standard series,,"Actual rentals for housing, New Zealand less Auckland"
+1395,CPIQ.SE9NS8102,2024.03,1264.0,FINAL,Non-standard series,,"Actual rentals for housing, New Zealand less Canterbury"
+1396,CPIQ.SE9NS8201,2024.03,1522.0,FINAL,Non-standard series,,"Purchase of housing, New Zealand less Auckland"
+1397,CPIQ.SE9NS8202,2024.03,1593.0,FINAL,Non-standard series,,"Purchase of housing, New Zealand less Canterbury"
+1398,CPIQ.SE9S01,2024.03,1287.0,FINAL,CPI seasonal adjusted,Group,Food
+1399,CPIQ.SE9S011,2024.03,1223.0,FINAL,CPI seasonal adjusted,Subgroup,Fruit and vegetables
+1400,CPIQ.SE9S01101,2024.03,1333.0,FINAL,CPI seasonal adjusted,Class,Fruit
+1401,CPIQ.SE9S01102,2024.03,1152.0,FINAL,CPI seasonal adjusted,Class,Vegetables
+1402,CPIQ.SE9S012,,,,CPI seasonal adjusted,Subgroup,"Meat, poultry and fish"
+1403,CPIQ.SE9S01201,,,,CPI seasonal adjusted,Class,Meat and poultry
+1404,CPIQ.SE9S01202,,,,CPI seasonal adjusted,Class,Fish and other seafood
+1405,CPIQ.SE9S013,,,,CPI seasonal adjusted,Subgroup,Grocery food
+1406,CPIQ.SE9S01301,,,,CPI seasonal adjusted,Class,Bread and cereals
+1407,CPIQ.SE9S01302,,,,CPI seasonal adjusted,Class,"Milk, cheese and eggs"
+1408,CPIQ.SE9S01303,,,,CPI seasonal adjusted,Class,Oils and fats
+1409,CPIQ.SE9S01304,2024.03,1270.0,FINAL,CPI seasonal adjusted,Class,Food additives and condiments
+1410,CPIQ.SE9S01305,,,,CPI seasonal adjusted,Class,"Confectionery, nuts and snacks"
+1411,CPIQ.SE9S01306,2024.03,1267.0,FINAL,CPI seasonal adjusted,Class,Other grocery food
+1412,CPIQ.SE9S014,,,,CPI seasonal adjusted,Subgroup,Non-alcoholic beverages
+1413,CPIQ.SE9S01401,,,,CPI seasonal adjusted,Class,"Coffee, tea and other hot drinks"
+1414,CPIQ.SE9S01402,,,,CPI seasonal adjusted,Class,"Soft drinks, waters and juices"
+1415,CPIQ.SE9S015,,,,CPI seasonal adjusted,Subgroup,Restaurant meals and ready-to-eat food
+1416,CPIQ.SE9S01501,,,,CPI seasonal adjusted,Class,Restaurant meals
+1417,CPIQ.SE9S01502,,,,CPI seasonal adjusted,Class,Ready-to-eat food
+1418,CPIQ.SE9S02,2024.03,1380.0,FINAL,CPI seasonal adjusted,Group,Alcoholic beverages and tobacco
+1419,CPIQ.SE9S021,,,,CPI seasonal adjusted,Subgroup,Alcoholic beverages
+1420,CPIQ.SE9S02101,,,,CPI seasonal adjusted,Class,Beer
+1421,CPIQ.SE9S02102,,,,CPI seasonal adjusted,Class,Wine
+1422,CPIQ.SE9S02103,,,,CPI seasonal adjusted,Class,Spirits and liqueurs
+1423,CPIQ.SE9S022,2024.03,1653.0,FINAL,CPI seasonal adjusted,Subgroup,Cigarettes and tobacco
+1424,CPIQ.SE9S02200,2024.03,1653.0,FINAL,CPI seasonal adjusted,Class,Cigarettes and tobacco
+1425,CPIQ.SE9S03,2024.03,1084.0,FINAL,CPI seasonal adjusted,Group,Clothing and footwear
+1426,CPIQ.SE9S031,,,,CPI seasonal adjusted,Subgroup,Clothing
+1427,CPIQ.SE9S03102,,,,CPI seasonal adjusted,Class,Men's clothing
+1428,CPIQ.SE9S03103,,,,CPI seasonal adjusted,Class,Women's clothing
+1429,CPIQ.SE9S03104,,,,CPI seasonal adjusted,Class,Children's and infants' clothing
+1430,CPIQ.SE9S03105,,,,CPI seasonal adjusted,Class,Clothing accessories
+1431,CPIQ.SE9S03106,,,,CPI seasonal adjusted,Class,Knitting and sewing supplies
+1432,CPIQ.SE9S03107,,,,CPI seasonal adjusted,Class,Clothing services
+1433,CPIQ.SE9S032,2024.03,1070.0,FINAL,CPI seasonal adjusted,Subgroup,Footwear
+1434,CPIQ.SE9S03202,2024.03,1083.0,FINAL,CPI seasonal adjusted,Class,Men's footwear
+1435,CPIQ.SE9S03203,,,,CPI seasonal adjusted,Class,Women's footwear
+1436,CPIQ.SE9S03204,,,,CPI seasonal adjusted,Class,Children's and infants' footwear
+1437,CPIQ.SE9S04,,,,CPI seasonal adjusted,Group,Housing and household utilities
+1438,CPIQ.SE9S041,,,,CPI seasonal adjusted,Subgroup,Actual rentals for housing
+1439,CPIQ.SE9S04101,2024.03,1259.0,FINAL,CPI seasonal adjusted,Class,Actual rentals for housing
+1440,CPIQ.SE9S042,,,,CPI seasonal adjusted,Subgroup,Home ownership
+1441,CPIQ.SE9S04201,,,,CPI seasonal adjusted,Class,Purchase of housing
+1442,CPIQ.SE9S043,,,,CPI seasonal adjusted,Subgroup,Property maintenance
+1443,CPIQ.SE9S04301,2024.03,1285.0,FINAL,CPI seasonal adjusted,Class,Property maintenance materials
+1444,CPIQ.SE9S04302,2024.03,1311.0,FINAL,CPI seasonal adjusted,Class,Property maintenance services
+1445,CPIQ.SE9S044,,,,CPI seasonal adjusted,Subgroup,Property rates and related services
+1446,CPIQ.SE9S04401,,,,CPI seasonal adjusted,Class,Water supply
+1447,CPIQ.SE9S04402,,,,CPI seasonal adjusted,Class,Refuse disposal and recycling
+1448,CPIQ.SE9S04403,,,,CPI seasonal adjusted,Class,Local authority rates and payments
+1449,CPIQ.SE9S04404,,,,CPI seasonal adjusted,Class,Other property related services
+1450,CPIQ.SE9S045,2024.03,1142.0,FINAL,CPI seasonal adjusted,Subgroup,Household energy
+1451,CPIQ.SE9S04501,2024.03,1120.0,FINAL,CPI seasonal adjusted,Class,Electricity
+1452,CPIQ.SE9S04502,,,,CPI seasonal adjusted,Class,Gas
+1453,CPIQ.SE9S04503,2024.03,1367.0,FINAL,CPI seasonal adjusted,Class,Solid fuels
+1454,CPIQ.SE9S05,,,,CPI seasonal adjusted,Group,Household contents and services
+1455,CPIQ.SE9S051,,,,CPI seasonal adjusted,Subgroup,"Furniture, furnishings and floor coverings"
+1456,CPIQ.SE9S05101,,,,CPI seasonal adjusted,Class,Furniture and furnishings
+1457,CPIQ.SE9S05102,,,,CPI seasonal adjusted,Class,Carpets and other floor coverings
+1458,CPIQ.SE9S052,,,,CPI seasonal adjusted,Subgroup,Household textiles
+1459,CPIQ.SE9S05200,,,,CPI seasonal adjusted,Class,Household textiles
+1460,CPIQ.SE9S053,,,,CPI seasonal adjusted,Subgroup,Household appliances
+1461,CPIQ.SE9S05301,,,,CPI seasonal adjusted,Class,Major household appliances
+1462,CPIQ.SE9S05302,,,,CPI seasonal adjusted,Class,Small electrical household appliances
+1463,CPIQ.SE9S05303,,,,CPI seasonal adjusted,Class,Repair and hire of household appliances
+1464,CPIQ.SE9S054,,,,CPI seasonal adjusted,Subgroup,"Glassware, tableware and household utensils"
+1465,CPIQ.SE9S05400,,,,CPI seasonal adjusted,Class,"Glassware, tableware and household utensils"
+1466,CPIQ.SE9S055,,,,CPI seasonal adjusted,Subgroup,Tools and equipment for house and garden
+1467,CPIQ.SE9S05501,,,,CPI seasonal adjusted,Class,Major tools and equipment for the house and garden
+1468,CPIQ.SE9S05502,,,,CPI seasonal adjusted,Class,Small tools and accessories for the house and gard
+1469,CPIQ.SE9S056,,,,CPI seasonal adjusted,Subgroup,Other household supplies and services
+1470,CPIQ.SE9S05601,,,,CPI seasonal adjusted,Class,Cleaning products and other household supplies
+1471,CPIQ.SE9S05602,,,,CPI seasonal adjusted,Class,Other household services
+1472,CPIQ.SE9S06,,,,CPI seasonal adjusted,Group,Health
+1473,CPIQ.SE9S061,,,,CPI seasonal adjusted,Subgroup,"Medical products, appliances and equipment"
+1474,CPIQ.SE9S06101,,,,CPI seasonal adjusted,Class,Pharmaceutical products
+1475,CPIQ.SE9S06102,,,,CPI seasonal adjusted,Class,Other medical products
+1476,CPIQ.SE9S06103,,,,CPI seasonal adjusted,Class,Therapeutic appliances and equipment
+1477,CPIQ.SE9S062,,,,CPI seasonal adjusted,Subgroup,Out-patient services
+1478,CPIQ.SE9S06201,,,,CPI seasonal adjusted,Class,Medical services
+1479,CPIQ.SE9S06202,,,,CPI seasonal adjusted,Class,Dental services
+1480,CPIQ.SE9S06203,,,,CPI seasonal adjusted,Class,Paramedical services
+1481,CPIQ.SE9S063,2024.03,1451.0,FINAL,CPI seasonal adjusted,Subgroup,Hospital services
+1482,CPIQ.SE9S06300,2024.03,1451.0,FINAL,CPI seasonal adjusted,Class,Hospital services
+1483,CPIQ.SE9S07,,,,CPI seasonal adjusted,Group,Transport
+1484,CPIQ.SE9S071,2024.03,1081.0,FINAL,CPI seasonal adjusted,Subgroup,Purchase of vehicles
+1485,CPIQ.SE9S07101,,,,CPI seasonal adjusted,Class,Purchase of new motor cars
+1486,CPIQ.SE9S07102,2024.03,1144.0,FINAL,CPI seasonal adjusted,Class,Purchase of second-hand motor cars
+1487,CPIQ.SE9S07103,,,,CPI seasonal adjusted,Class,Purchase of motorcycles
+1488,CPIQ.SE9S07104,,,,CPI seasonal adjusted,Class,Purchase of bicycles
+1489,CPIQ.SE9S072,,,,CPI seasonal adjusted,Subgroup,Private transport supplies and services
+1490,CPIQ.SE9S07201,,,,CPI seasonal adjusted,Class,Vehicle parts and accessories
+1491,CPIQ.SE9S07202,,,,CPI seasonal adjusted,Class,Petrol
+1492,CPIQ.SE9S07203,,,,CPI seasonal adjusted,Class,Other vehicle fuels and lubricants
+1493,CPIQ.SE9S07204,,,,CPI seasonal adjusted,Class,Vehicle servicing and repairs
+1494,CPIQ.SE9S07205,,,,CPI seasonal adjusted,Class,Other private transport services
+1495,CPIQ.SE9S073,2024.03,1199.0,FINAL,CPI seasonal adjusted,Subgroup,Passenger transport services
+1496,CPIQ.SE9S07301,,,,CPI seasonal adjusted,Class,Rail passenger transport
+1497,CPIQ.SE9S07302,2024.03,1079.0,FINAL,CPI seasonal adjusted,Class,Road passenger transport
+1498,CPIQ.SE9S07303,,,,CPI seasonal adjusted,Class,Domestic air transport
+1499,CPIQ.SE9S07304,2024.03,1410.0,FINAL,CPI seasonal adjusted,Class,International air transport
+1500,CPIQ.SE9S07305,,,,CPI seasonal adjusted,Class,Sea passenger transport
+1501,CPIQ.SE9S08,,,,CPI seasonal adjusted,Group,Communication
+1502,CPIQ.SE9S081,,,,CPI seasonal adjusted,Subgroup,Postal services
+1503,CPIQ.SE9S08100,,,,CPI seasonal adjusted,Class,Postal services
+1504,CPIQ.SE9S082,,,,CPI seasonal adjusted,Subgroup,Telecommunication equipment
+1505,CPIQ.SE9S08200,,,,CPI seasonal adjusted,Class,Telecommunication equipment
+1506,CPIQ.SE9S083,,,,CPI seasonal adjusted,Subgroup,Telecommunication services
+1507,CPIQ.SE9S08300,,,,CPI seasonal adjusted,Class,Telecommunication services
+1508,CPIQ.SE9S09,2024.03,1235.0,FINAL,CPI seasonal adjusted,Group,Recreation and culture
+1509,CPIQ.SE9S091,,,,CPI seasonal adjusted,Subgroup,Audio-visual and computing equipment
+1510,CPIQ.SE9S09101,,,,CPI seasonal adjusted,Class,Audio-visual equipment
+1511,CPIQ.SE9S09102,,,,CPI seasonal adjusted,Class,Computing equipment
+1512,CPIQ.SE9S09103,,,,CPI seasonal adjusted,Class,Recording media
+1513,CPIQ.SE9S092,,,,CPI seasonal adjusted,Subgroup,Major recreational and cultural equipment
+1514,CPIQ.SE9S09200,,,,CPI seasonal adjusted,Class,Major recreational and cultural equipment
+1515,CPIQ.SE9S093,,,,CPI seasonal adjusted,Subgroup,Other recreational equipment and supplies
+1516,CPIQ.SE9S09301,,,,CPI seasonal adjusted,Class,"Games, toys and hobbies"
+1517,CPIQ.SE9S09302,2024.03,1095.0,FINAL,CPI seasonal adjusted,Class,"Equipment for sport, camping and outdoor recreatio"
+1518,CPIQ.SE9S09303,,,,CPI seasonal adjusted,Class,"Plants, flowers and gardening supplies"
+1519,CPIQ.SE9S09304,,,,CPI seasonal adjusted,Class,Pet-related products
+1520,CPIQ.SE9S094,2024.03,1165.0,FINAL,CPI seasonal adjusted,Subgroup,Recreational and cultural services
+1521,CPIQ.SE9S09401,,,,CPI seasonal adjusted,Class,Recreational and sporting services
+1522,CPIQ.SE9S09402,2024.03,1065.0,FINAL,CPI seasonal adjusted,Class,Cultural services
+1523,CPIQ.SE9S09403,,,,CPI seasonal adjusted,Class,Veterinary services
+1524,CPIQ.SE9S095,2024.03,1297.0,FINAL,CPI seasonal adjusted,Subgroup,"Newspapers, books and stationery"
+1525,CPIQ.SE9S09501,,,,CPI seasonal adjusted,Class,Books
+1526,CPIQ.SE9S09502,,,,CPI seasonal adjusted,Class,Newspapers and magazines
+1527,CPIQ.SE9S09504,2024.03,1253.0,FINAL,CPI seasonal adjusted,Class,Stationery and drawing materials
+1528,CPIQ.SE9S096,2024.03,1744.0,FINAL,CPI seasonal adjusted,Subgroup,Accommodation services
+1529,CPIQ.SE9S10,,,,CPI seasonal adjusted,Group,Education
+1530,CPIQ.SE9S101,,,,CPI seasonal adjusted,Subgroup,Early childhood education
+1531,CPIQ.SE9S10100,,,,CPI seasonal adjusted,Class,Early childhood education
+1532,CPIQ.SE9S102,,,,CPI seasonal adjusted,Subgroup,Primary and secondary education
+1533,CPIQ.SE9S10200,,,,CPI seasonal adjusted,Class,Primary and secondary education
+1534,CPIQ.SE9S103,,,,CPI seasonal adjusted,Subgroup,Tertiary and other post school education
+1535,CPIQ.SE9S10300,,,,CPI seasonal adjusted,Class,Tertiary and other post school education
+1536,CPIQ.SE9S104,,,,CPI seasonal adjusted,Subgroup,Other educational fees
+1537,CPIQ.SE9S10400,,,,CPI seasonal adjusted,Class,Other educational fees
+1538,CPIQ.SE9S11,,,,CPI seasonal adjusted,Group,Miscellaneous goods and services
+1539,CPIQ.SE9S111,,,,CPI seasonal adjusted,Subgroup,Personal care
+1540,CPIQ.SE9S11101,,,,CPI seasonal adjusted,Class,Hairdressing and personal grooming services
+1541,CPIQ.SE9S11102,,,,CPI seasonal adjusted,Class,Electrical appliances for personal care
+1542,CPIQ.SE9S11103,,,,CPI seasonal adjusted,Class,"Other appliances, articles and products for person"
+1543,CPIQ.SE9S113,,,,CPI seasonal adjusted,Subgroup,Personal effects
+1544,CPIQ.SE9S11301,,,,CPI seasonal adjusted,Class,Jewellery and watches
+1545,CPIQ.SE9S11302,2024.03,995.0,FINAL,CPI seasonal adjusted,Class,Other personal effects
+1546,CPIQ.SE9S114,,,,CPI seasonal adjusted,Subgroup,Insurance
+1547,CPIQ.SE9S11401,,,,CPI seasonal adjusted,Class,Life insurance
+1548,CPIQ.SE9S11402,,,,CPI seasonal adjusted,Class,Dwelling insurance
+1549,CPIQ.SE9S11403,,,,CPI seasonal adjusted,Class,Contents insurance
+1550,CPIQ.SE9S11404,,,,CPI seasonal adjusted,Class,Health insurance
+1551,CPIQ.SE9S11405,,,,CPI seasonal adjusted,Class,Vehicle insurance
+1552,CPIQ.SE9S115,,,,CPI seasonal adjusted,Subgroup,Credit services
+1553,CPIQ.SE9S11501,,,,CPI seasonal adjusted,Class,Direct credit service charges
+1554,CPIQ.SE9S116,,,,CPI seasonal adjusted,Subgroup,Other miscellaneous services
+1555,CPIQ.SE9S11601,,,,CPI seasonal adjusted,Class,Vocational services
+1556,CPIQ.SE9S11602,,,,CPI seasonal adjusted,Class,Professional services
+1557,CPIQ.SE9S11603,,,,CPI seasonal adjusted,Class,Real estate services
+1558,CPIQ.SE9S11604,,,,CPI seasonal adjusted,Class,Other miscellaneous services nec
+1559,CPIQ.SE9SA,2024.03,1268.0,FINAL,CPI seasonal adjusted,All Groups,All Groups
+1560,CPIQ.SE9SNS6000,2024.03,1193.0,FINAL,CPI seasonal adjusted,All Groups,Tradable All Groups
+1561,CPIQ.SE9SNS6500,2024.03,1328.0,FINAL,CPI seasonal adjusted,All Groups,Non-Tradable All Groups
+1562,CPIQ.SE9TN01,2024.03,1372.0,FINAL,Non-tradable,Group,Food
+1563,CPIQ.SE9TN012,2024.03,1182.0,FINAL,Non-tradable,Subgroup,"Meat, poultry and fish"
+1564,CPIQ.SE9TN01201,2024.03,1182.0,FINAL,Non-tradable,Class,Meat and poultry
+1565,CPIQ.SE9TN013,2024.03,1525.0,FINAL,Non-tradable,Subgroup,Grocery food
+1566,CPIQ.SE9TN01301,2024.03,1315.0,FINAL,Non-tradable,Class,Bread and cereals
+1567,CPIQ.SE9TN01302,2024.03,2163.0,FINAL,Non-tradable,Class,"Milk, cheese and eggs"
+1568,CPIQ.SE9TN014,2024.03,1411.0,FINAL,Non-tradable,Subgroup,Non-alcoholic beverages
+1569,CPIQ.SE9TN01402,2024.03,1411.0,FINAL,Non-tradable,Class,"Soft drinks, waters and juices"
+1570,CPIQ.SE9TN015,2024.03,1370.0,FINAL,Non-tradable,Subgroup,Restaurant meals and ready-to-eat food
+1571,CPIQ.SE9TN01501,2024.03,1325.0,FINAL,Non-tradable,Class,Restaurant meals
+1572,CPIQ.SE9TN01502,2024.03,1394.0,FINAL,Non-tradable,Class,Ready-to-eat food
+1573,CPIQ.SE9TN02,2024.03,1474.0,FINAL,Non-tradable,Group,Alcoholic beverages and tobacco
+1574,CPIQ.SE9TN021,2024.03,1212.0,FINAL,Non-tradable,Subgroup,Alcoholic beverages
+1575,CPIQ.SE9TN02101,2024.03,1207.0,FINAL,Non-tradable,Class,Beer
+1576,CPIQ.SE9TN02102,2024.03,1226.0,FINAL,Non-tradable,Class,Wine
+1577,CPIQ.SE9TN02103,2024.03,1226.0,FINAL,Non-tradable,Class,Spirits and liqueurs
+1578,CPIQ.SE9TN022,2024.03,1699.0,FINAL,Non-tradable,Subgroup,Cigarettes and tobacco
+1579,CPIQ.SE9TN02200,2024.03,1699.0,FINAL,Non-tradable,Class,Cigarettes and tobacco
+1580,CPIQ.SE9TN03,2024.03,1310.0,FINAL,Non-tradable,Group,Clothing and footwear
+1581,CPIQ.SE9TN031,2024.03,1310.0,FINAL,Non-tradable,Subgroup,Clothing
+1582,CPIQ.SE9TN03107,2024.03,1310.0,FINAL,Non-tradable,Class,Clothing services
+1583,CPIQ.SE9TN04,2024.03,1359.0,FINAL,Non-tradable,Group,Housing and household utilities
+1584,CPIQ.SE9TN041,2024.03,1259.0,FINAL,Non-tradable,Subgroup,Actual rentals for housing
+1585,CPIQ.SE9TN04101,2024.03,1259.0,FINAL,Non-tradable,Class,Actual rentals for housing
+1586,CPIQ.SE9TN042,2024.03,1546.0,FINAL,Non-tradable,Subgroup,Home ownership
+1587,CPIQ.SE9TN04201,2024.03,1546.0,FINAL,Non-tradable,Class,Purchase of housing
+1588,CPIQ.SE9TN043,2024.03,1308.0,FINAL,Non-tradable,Subgroup,Property maintenance
+1589,CPIQ.SE9TN04302,2024.03,1308.0,FINAL,Non-tradable,Class,Property maintenance services
+1590,CPIQ.SE9TN044,2024.03,1467.0,FINAL,Non-tradable,Subgroup,Property rates and related services
+1591,CPIQ.SE9TN04401,2024.03,1377.0,FINAL,Non-tradable,Class,Water supply
+1592,CPIQ.SE9TN04402,2024.03,1416.0,FINAL,Non-tradable,Class,Refuse disposal and recycling
+1593,CPIQ.SE9TN04403,2024.03,1484.0,FINAL,Non-tradable,Class,Local authority rates and payments
+1594,CPIQ.SE9TN04404,2024.03,1106.0,FINAL,Non-tradable,Class,Other property related services
+1595,CPIQ.SE9TN045,2024.03,1136.0,FINAL,Non-tradable,Subgroup,Household energy
+1596,CPIQ.SE9TN04501,2024.03,1119.0,FINAL,Non-tradable,Class,Electricity
+1597,CPIQ.SE9TN04502,2024.03,1296.0,FINAL,Non-tradable,Class,Gas
+1598,CPIQ.SE9TN05,2024.03,1419.0,FINAL,Non-tradable,Group,Household contents and services
+1599,CPIQ.SE9TN053,2024.03,1399.0,FINAL,Non-tradable,Subgroup,Household appliances
+1600,CPIQ.SE9TN05303,2024.03,1399.0,FINAL,Non-tradable,Class,Repair and hire of household appliances
+1601,CPIQ.SE9TN055,2024.03,1454.0,FINAL,Non-tradable,Subgroup,Tools and equipment for house and garden
+1602,CPIQ.SE9TN05501,2024.03,1454.0,FINAL,Non-tradable,Class,Major tools and equipment for the house and garden
+1603,CPIQ.SE9TN056,2024.03,1420.0,FINAL,Non-tradable,Subgroup,Other household supplies and services
+1604,CPIQ.SE9TN05602,2024.03,1420.0,FINAL,Non-tradable,Class,Other household services
+1605,CPIQ.SE9TN06,2024.03,1231.0,FINAL,Non-tradable,Group,Health
+1606,CPIQ.SE9TN061,2024.03,324.0,FINAL,Non-tradable,Subgroup,"Medical products, appliances and equipment"
+1607,CPIQ.SE9TN06101,2024.03,129.0,FINAL,Non-tradable,Class,Pharmaceutical products
+1608,CPIQ.SE9TN06103,2024.03,1079.0,FINAL,Non-tradable,Class,Therapeutic appliances and equipment
+1609,CPIQ.SE9TN062,2024.03,1260.0,FINAL,Non-tradable,Subgroup,Out-patient services
+1610,CPIQ.SE9TN06201,2024.03,1182.0,FINAL,Non-tradable,Class,Medical services
+1611,CPIQ.SE9TN06202,2024.03,1383.0,FINAL,Non-tradable,Class,Dental services
+1612,CPIQ.SE9TN06203,2024.03,1267.0,FINAL,Non-tradable,Class,Paramedical services
+1613,CPIQ.SE9TN063,2024.03,1449.0,FINAL,Non-tradable,Subgroup,Hospital services
+1614,CPIQ.SE9TN06300,2024.03,1449.0,FINAL,Non-tradable,Class,Hospital services
+1615,CPIQ.SE9TN07,2024.03,1294.0,FINAL,Non-tradable,Group,Transport
+1616,CPIQ.SE9TN072,2024.03,1230.0,FINAL,Non-tradable,Subgroup,Private transport supplies and services
+1617,CPIQ.SE9TN07204,2024.03,1288.0,FINAL,Non-tradable,Class,Vehicle servicing and repairs
+1618,CPIQ.SE9TN07205,2024.03,1160.0,FINAL,Non-tradable,Class,Other private transport services
+1619,CPIQ.SE9TN073,2024.03,1385.0,FINAL,Non-tradable,Subgroup,Passenger transport services
+1620,CPIQ.SE9TN07301,2024.03,1071.0,FINAL,Non-tradable,Class,Rail passenger transport
+1621,CPIQ.SE9TN07302,2024.03,1106.0,FINAL,Non-tradable,Class,Road passenger transport
+1622,CPIQ.SE9TN07303,2024.03,1576.0,FINAL,Non-tradable,Class,Domestic air transport
+1623,CPIQ.SE9TN07305,2024.03,1310.0,FINAL,Non-tradable,Class,Sea passenger transport
+1624,CPIQ.SE9TN08,2024.03,989.0,FINAL,Non-tradable,Group,Communication
+1625,CPIQ.SE9TN081,2024.03,1325.0,FINAL,Non-tradable,Subgroup,Postal services
+1626,CPIQ.SE9TN08100,2024.03,1325.0,FINAL,Non-tradable,Class,Postal services
+1627,CPIQ.SE9TN083,2024.03,974.0,FINAL,Non-tradable,Subgroup,Telecommunication services
+1628,CPIQ.SE9TN08300,2024.03,974.0,FINAL,Non-tradable,Class,Telecommunication services
+1629,CPIQ.SE9TN09,2024.03,1314.0,FINAL,Non-tradable,Group,Recreation and culture
+1630,CPIQ.SE9TN093,2024.03,1094.0,FINAL,Non-tradable,Subgroup,Other recreational equipment and supplies
+1631,CPIQ.SE9TN09304,2024.03,1094.0,FINAL,Non-tradable,Class,Pet-related products
+1632,CPIQ.SE9TN094,2024.03,1166.0,FINAL,Non-tradable,Subgroup,Recreational and cultural services
+1633,CPIQ.SE9TN09401,2024.03,1212.0,FINAL,Non-tradable,Class,Recreational and sporting services
+1634,CPIQ.SE9TN09402,2024.03,1067.0,FINAL,Non-tradable,Class,Cultural services
+1635,CPIQ.SE9TN09403,2024.03,1396.0,FINAL,Non-tradable,Class,Veterinary services
+1636,CPIQ.SE9TN095,2024.03,1551.0,FINAL,Non-tradable,Subgroup,"Newspapers, books and stationery"
+1637,CPIQ.SE9TN09502,2024.03,1551.0,FINAL,Non-tradable,Class,Newspapers and magazines
+1638,CPIQ.SE9TN096,2024.03,1931.0,FINAL,Non-tradable,Subgroup,Accommodation services
+1639,CPIQ.SE9TN09601,2024.03,1931.0,FINAL,Non-tradable,Class,Domestic accommodation services
+1640,CPIQ.SE9TN10,2024.03,1119.0,FINAL,Non-tradable,Group,Education
+1641,CPIQ.SE9TN101,2024.03,1192.0,FINAL,Non-tradable,Subgroup,Early childhood education
+1642,CPIQ.SE9TN10100,2024.03,1192.0,FINAL,Non-tradable,Class,Early childhood education
+1643,CPIQ.SE9TN102,2024.03,1247.0,FINAL,Non-tradable,Subgroup,Primary and secondary education
+1644,CPIQ.SE9TN10200,2024.03,1247.0,FINAL,Non-tradable,Class,Primary and secondary education
+1645,CPIQ.SE9TN103,2024.03,983.0,FINAL,Non-tradable,Subgroup,Tertiary and other post school education
+1646,CPIQ.SE9TN10300,2024.03,983.0,FINAL,Non-tradable,Class,Tertiary and other post school education
+1647,CPIQ.SE9TN104,2024.03,1169.0,FINAL,Non-tradable,Subgroup,Other educational fees
+1648,CPIQ.SE9TN10400,2024.03,1169.0,FINAL,Non-tradable,Class,Other educational fees
+1649,CPIQ.SE9TN11,2024.03,1328.0,FINAL,Non-tradable,Group,Miscellaneous goods and services
+1650,CPIQ.SE9TN111,2024.03,1276.0,FINAL,Non-tradable,Subgroup,Personal care
+1651,CPIQ.SE9TN11101,2024.03,1276.0,FINAL,Non-tradable,Class,Hairdressing and personal grooming services
+1652,CPIQ.SE9TN113,2024.03,1713.0,FINAL,Non-tradable,Subgroup,Personal effects
+1653,CPIQ.SE9TN11301,2024.03,1713.0,FINAL,Non-tradable,Class,Jewellery and watches
+1654,CPIQ.SE9TN114,2024.03,1411.0,FINAL,Non-tradable,Subgroup,Insurance
+1655,CPIQ.SE9TN11401,2024.03,1053.0,FINAL,Non-tradable,Class,Life insurance
+1656,CPIQ.SE9TN11402,2024.03,1819.0,FINAL,Non-tradable,Class,Dwelling insurance
+1657,CPIQ.SE9TN11403,2024.03,1663.0,FINAL,Non-tradable,Class,Contents insurance
+1658,CPIQ.SE9TN11404,2024.03,1539.0,FINAL,Non-tradable,Class,Health insurance
+1659,CPIQ.SE9TN11405,2024.03,1604.0,FINAL,Non-tradable,Class,Vehicle insurance
+1660,CPIQ.SE9TN115,2024.03,776.0,FINAL,Non-tradable,Subgroup,Credit services
+1661,CPIQ.SE9TN11501,2024.03,776.0,FINAL,Non-tradable,Class,Direct credit service charges
+1662,CPIQ.SE9TN116,2024.03,1282.0,FINAL,Non-tradable,Subgroup,Other miscellaneous services
+1663,CPIQ.SE9TN11601,2024.03,1120.0,FINAL,Non-tradable,Class,Vocational services
+1664,CPIQ.SE9TN11602,2024.03,1426.0,FINAL,Non-tradable,Class,Professional services
+1665,CPIQ.SE9TN11603,2024.03,1332.0,FINAL,Non-tradable,Class,Real estate services
+1666,CPIQ.SE9TN11604,2024.03,1177.0,FINAL,Non-tradable,Class,Other miscellaneous services nec
+1667,CPIQ.SE9TT01,2024.03,1236.0,FINAL,Tradeable,Group,Food
+1668,CPIQ.SE9TT011,2024.03,1213.0,FINAL,Tradeable,Subgroup,Fruit and vegetables
+1669,CPIQ.SE9TT01101,2024.03,1422.0,FINAL,Tradeable,Class,Fruit
+1670,CPIQ.SE9TT01102,2024.03,1088.0,FINAL,Tradeable,Class,Vegetables
+1671,CPIQ.SE9TT012,2024.03,1280.0,FINAL,Tradeable,Subgroup,"Meat, poultry and fish"
+1672,CPIQ.SE9TT01201,2024.03,1261.0,FINAL,Tradeable,Class,Meat and poultry
+1673,CPIQ.SE9TT01202,2024.03,1344.0,FINAL,Tradeable,Class,Fish and other seafood
+1674,CPIQ.SE9TT013,2024.03,1249.0,FINAL,Tradeable,Subgroup,Grocery food
+1675,CPIQ.SE9TT01301,2024.03,1261.0,FINAL,Tradeable,Class,Bread and cereals
+1676,CPIQ.SE9TT01302,2024.03,1200.0,FINAL,Tradeable,Class,"Milk, cheese and eggs"
+1677,CPIQ.SE9TT01303,2024.03,1177.0,FINAL,Tradeable,Class,Oils and fats
+1678,CPIQ.SE9TT01304,2024.03,1264.0,FINAL,Tradeable,Class,Food additives and condiments
+1679,CPIQ.SE9TT01305,2024.03,1287.0,FINAL,Tradeable,Class,"Confectionery, nuts and snacks"
+1680,CPIQ.SE9TT01306,2024.03,1281.0,FINAL,Tradeable,Class,Other grocery food
+1681,CPIQ.SE9TT014,2024.03,1179.0,FINAL,Tradeable,Subgroup,Non-alcoholic beverages
+1682,CPIQ.SE9TT01401,2024.03,1153.0,FINAL,Tradeable,Class,"Coffee, tea and other hot drinks"
+1683,CPIQ.SE9TT01402,2024.03,1189.0,FINAL,Tradeable,Class,"Soft drinks, waters and juices"
+1684,CPIQ.SE9TT02,2024.03,1210.0,FINAL,Tradeable,Group,Alcoholic beverages and tobacco
+1685,CPIQ.SE9TT021,2024.03,1213.0,FINAL,Tradeable,Subgroup,Alcoholic beverages
+1686,CPIQ.SE9TT02102,2024.03,1160.0,FINAL,Tradeable,Class,Wine
+1687,CPIQ.SE9TT02103,2024.03,1286.0,FINAL,Tradeable,Class,Spirits and liqueurs
+1688,CPIQ.SE9TT022,2024.03,978.0,FINAL,Tradeable,Subgroup,Cigarettes and tobacco
+1689,CPIQ.SE9TT02200,2024.03,978.0,FINAL,Tradeable,Class,Cigarettes and tobacco
+1690,CPIQ.SE9TT03,2024.03,1072.0,FINAL,Tradeable,Group,Clothing and footwear
+1691,CPIQ.SE9TT031,2024.03,1075.0,FINAL,Tradeable,Subgroup,Clothing
+1692,CPIQ.SE9TT03102,2024.03,1110.0,FINAL,Tradeable,Class,Men's clothing
+1693,CPIQ.SE9TT03103,2024.03,1057.0,FINAL,Tradeable,Class,Women's clothing
+1694,CPIQ.SE9TT03104,2024.03,1075.0,FINAL,Tradeable,Class,Children's and infants' clothing
+1695,CPIQ.SE9TT03105,2024.03,991.0,FINAL,Tradeable,Class,Clothing accessories
+1696,CPIQ.SE9TT03106,2024.03,1199.0,FINAL,Tradeable,Class,Knitting and sewing supplies
+1697,CPIQ.SE9TT032,2024.03,1063.0,FINAL,Tradeable,Subgroup,Footwear
+1698,CPIQ.SE9TT03202,2024.03,1072.0,FINAL,Tradeable,Class,Men's footwear
+1699,CPIQ.SE9TT03203,2024.03,1058.0,FINAL,Tradeable,Class,Women's footwear
+1700,CPIQ.SE9TT03204,2024.03,1075.0,FINAL,Tradeable,Class,Children's and infants' footwear
+1701,CPIQ.SE9TT04,2024.03,1294.0,FINAL,Tradeable,Group,Housing and household utilities
+1702,CPIQ.SE9TT043,2024.03,1278.0,FINAL,Tradeable,Subgroup,Property maintenance
+1703,CPIQ.SE9TT04301,2024.03,1278.0,FINAL,Tradeable,Class,Property maintenance materials
+1704,CPIQ.SE9TT045,2024.03,1340.0,FINAL,Tradeable,Subgroup,Household energy
+1705,CPIQ.SE9TT04503,2024.03,1340.0,FINAL,Tradeable,Class,Solid fuels
+1706,CPIQ.SE9TT05,2024.03,1136.0,FINAL,Tradeable,Group,Household contents and services
+1707,CPIQ.SE9TT051,2024.03,1134.0,FINAL,Tradeable,Subgroup,"Furniture, furnishings and floor coverings"
+1708,CPIQ.SE9TT05101,2024.03,1121.0,FINAL,Tradeable,Class,Furniture and furnishings
+1709,CPIQ.SE9TT05102,2024.03,1172.0,FINAL,Tradeable,Class,Carpets and other floor coverings
+1710,CPIQ.SE9TT052,2024.03,1081.0,FINAL,Tradeable,Subgroup,Household textiles
+1711,CPIQ.SE9TT05200,2024.03,1081.0,FINAL,Tradeable,Class,Household textiles
+1712,CPIQ.SE9TT053,2024.03,1035.0,FINAL,Tradeable,Subgroup,Household appliances
+1713,CPIQ.SE9TT05301,2024.03,1029.0,FINAL,Tradeable,Class,Major household appliances
+1714,CPIQ.SE9TT05302,2024.03,1053.0,FINAL,Tradeable,Class,Small electrical household appliances
+1715,CPIQ.SE9TT054,2024.03,1190.0,FINAL,Tradeable,Subgroup,"Glassware, tableware and household utensils"
+1716,CPIQ.SE9TT05400,2024.03,1190.0,FINAL,Tradeable,Class,"Glassware, tableware and household utensils"
+1717,CPIQ.SE9TT055,2024.03,1193.0,FINAL,Tradeable,Subgroup,Tools and equipment for house and garden
+1718,CPIQ.SE9TT05501,2024.03,1069.0,FINAL,Tradeable,Class,Major tools and equipment for the house and garden
+1719,CPIQ.SE9TT05502,2024.03,1267.0,FINAL,Tradeable,Class,Small tools and accessories for the house and gard
+1720,CPIQ.SE9TT056,2024.03,1224.0,FINAL,Tradeable,Subgroup,Other household supplies and services
+1721,CPIQ.SE9TT05601,2024.03,1224.0,FINAL,Tradeable,Class,Cleaning products and other household supplies
+1722,CPIQ.SE9TT06,2024.03,1077.0,FINAL,Tradeable,Group,Health
+1723,CPIQ.SE9TT061,2024.03,1077.0,FINAL,Tradeable,Subgroup,"Medical products, appliances and equipment"
+1724,CPIQ.SE9TT06101,2024.03,1080.0,FINAL,Tradeable,Class,Pharmaceutical products
+1725,CPIQ.SE9TT06102,2024.03,1097.0,FINAL,Tradeable,Class,Other medical products
+1726,CPIQ.SE9TT06103,2024.03,1073.0,FINAL,Tradeable,Class,Therapeutic appliances and equipment
+1727,CPIQ.SE9TT07,2024.03,1266.0,FINAL,Tradeable,Group,Transport
+1728,CPIQ.SE9TT071,2024.03,1082.0,FINAL,Tradeable,Subgroup,Purchase of vehicles
+1729,CPIQ.SE9TT07101,2024.03,996.0,FINAL,Tradeable,Class,Purchase of new motor cars
+1730,CPIQ.SE9TT07102,2024.03,1151.0,FINAL,Tradeable,Class,Purchase of second-hand motor cars
+1731,CPIQ.SE9TT07103,2024.03,1074.0,FINAL,Tradeable,Class,Purchase of motorcycles
+1732,CPIQ.SE9TT07104,2024.03,1227.0,FINAL,Tradeable,Class,Purchase of bicycles
+1733,CPIQ.SE9TT072,2024.03,1462.0,FINAL,Tradeable,Subgroup,Private transport supplies and services
+1734,CPIQ.SE9TT07201,2024.03,1301.0,FINAL,Tradeable,Class,Vehicle parts and accessories
+1735,CPIQ.SE9TT07202,2024.03,1469.0,FINAL,Tradeable,Class,Petrol
+1736,CPIQ.SE9TT07203,2024.03,1767.0,FINAL,Tradeable,Class,Other vehicle fuels and lubricants
+1737,CPIQ.SE9TT073,2024.03,1389.0,FINAL,Tradeable,Subgroup,Passenger transport services
+1738,CPIQ.SE9TT07304,2024.03,1389.0,FINAL,Tradeable,Class,International air transport
+1739,CPIQ.SE9TT08,2024.03,535.0,FINAL,Tradeable,Group,Communication
+1740,CPIQ.SE9TT082,2024.03,535.0,FINAL,Tradeable,Subgroup,Telecommunication equipment
+1741,CPIQ.SE9TT08200,2024.03,535.0,FINAL,Tradeable,Class,Telecommunication equipment
+1742,CPIQ.SE9TT09,2024.03,1187.0,FINAL,Tradeable,Group,Recreation and culture
+1743,CPIQ.SE9TT091,2024.03,533.0,FINAL,Tradeable,Subgroup,Audio-visual and computing equipment
+1744,CPIQ.SE9TT09101,2024.03,359.0,FINAL,Tradeable,Class,Audio-visual equipment
+1745,CPIQ.SE9TT09102,2024.03,597.0,FINAL,Tradeable,Class,Computing equipment
+1746,CPIQ.SE9TT09103,2024.03,1058.0,FINAL,Tradeable,Class,Recording media
+1747,CPIQ.SE9TT092,2024.03,1337.0,FINAL,Tradeable,Subgroup,Major recreational and cultural equipment
+1748,CPIQ.SE9TT09200,2024.03,1337.0,FINAL,Tradeable,Class,Major recreational and cultural equipment
+1749,CPIQ.SE9TT093,2024.03,1296.0,FINAL,Tradeable,Subgroup,Other recreational equipment and supplies
+1750,CPIQ.SE9TT09301,2024.03,1300.0,FINAL,Tradeable,Class,"Games, toys and hobbies"
+1751,CPIQ.SE9TT09302,2024.03,1093.0,FINAL,Tradeable,Class,"Equipment for sport, camping and outdoor recreatio"
+1752,CPIQ.SE9TT09303,2024.03,1249.0,FINAL,Tradeable,Class,"Plants, flowers and gardening supplies"
+1753,CPIQ.SE9TT09304,2024.03,1477.0,FINAL,Tradeable,Class,Pet-related products
+1754,CPIQ.SE9TT095,2024.03,1171.0,FINAL,Tradeable,Subgroup,"Newspapers, books and stationery"
+1755,CPIQ.SE9TT09501,2024.03,1075.0,FINAL,Tradeable,Class,Books
+1756,CPIQ.SE9TT09502,2024.03,1314.0,FINAL,Tradeable,Class,Newspapers and magazines
+1757,CPIQ.SE9TT09504,2024.03,1221.0,FINAL,Tradeable,Class,Stationery and drawing materials
+1758,CPIQ.SE9TT096,2024.03,1562.0,FINAL,Tradeable,Subgroup,Accommodation services
+1759,CPIQ.SE9TT09602,2024.03,1562.0,FINAL,Tradeable,Class,Overseas accommodation prepaid in New Zealand
+1760,CPIQ.SE9TT11,2024.03,1131.0,FINAL,Tradeable,Group,Miscellaneous goods and services
+1761,CPIQ.SE9TT111,2024.03,1134.0,FINAL,Tradeable,Subgroup,Personal care
+1762,CPIQ.SE9TT11102,2024.03,965.0,FINAL,Tradeable,Class,Electrical appliances for personal care
+1763,CPIQ.SE9TT11103,2024.03,1138.0,FINAL,Tradeable,Class,"Other appliances, articles and products for person"
+1764,CPIQ.SE9TT113,2024.03,1119.0,FINAL,Tradeable,Subgroup,Personal effects
+1765,CPIQ.SE9TT11301,2024.03,1237.0,FINAL,Tradeable,Class,Jewellery and watches
+1766,CPIQ.SE9TT11302,2024.03,991.0,FINAL,Tradeable,Class,Other personal effects
